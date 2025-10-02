@@ -6,7 +6,7 @@
         }
 
         body {
-            background: linear-gradient(135deg, #414247, #414247, #414247);
+            background: #95a5a6;
             min-height: 100vh;
             display: flex;
             justify-content: center;
@@ -504,4 +504,5 @@
         .review-options {
             grid-template-columns: 1fr 1fr;
         }
+
         }
