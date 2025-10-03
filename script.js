@@ -106,8 +106,6 @@
                 'python': 'Python',
                 'react': 'React',
                 'php': 'PHP',
-                'numpy': 'NumPy',
-                'pandas': 'Pandas',
                 'dsa': 'Data Structures & Algorithms',
                 'mysql': 'MySQL'
             };
@@ -399,3 +397,4 @@
             }, 3000);
 
         }
+
