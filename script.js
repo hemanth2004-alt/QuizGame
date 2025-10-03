@@ -378,7 +378,7 @@
         }
 
         function newQuiz() {
-            reviewContainer.style.display = 'none';
+            resultsContainer.style.display = 'none';
             selectionScreen.style.display = 'block';
             
             // Reset form
@@ -397,4 +397,5 @@
             setTimeout(() => {
                 notification.classList.remove('show');
             }, 3000);
+
         }
