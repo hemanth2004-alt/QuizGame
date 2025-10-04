@@ -200,6 +200,656 @@ const questionDatabase = {
                             "<extra>"
                         ],
                         correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a thematic break in content?",
+                        options: [
+                            "<break>",
+                            "<hr>",
+                            "<divider>",
+                            "<separator>"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for an external application?",
+                        options: [
+                            "<app>",
+                            "<embed>",
+                            "<object>",
+                            "<external>"
+                        ],
+                        correctAnswer: 2
+                    },
+                    {
+                        question: "Which HTML element is used to define a scalar measurement within a known range?",
+                        options: [
+                            "<range>",
+                            "<meter>",
+                            "<task>",
+                            "<status>"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which HTML element is used to define a command button that a user can invoke?",
+                        options: [
+                            "<button>",
+                            "<command>",
+                            "<action>",
+                            "<invoke>"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which HTML element is used to define a section containing navigation links?",
+                        options: [
+                            "<nav>",
+                            "<navigation>",
+                            "<links>",
+                            "<menu>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a section that contains content that is tangentially related to the content around it?",
+                        options: [
+                            "<aside>",
+                            "<sidebar>",
+                            "<related>",
+                            "<tangent>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a possible line-break?",
+                        options: [
+                            "<break>",
+                            "<wbr>",
+                            "<br>",
+                            "<linebreak>"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which HTML element is used to define additional details that the user can view or hide?",
+                        options: [
+                            "<details>",
+                            "<info>",
+                            "<more>",
+                            "<expand>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a visible heading for a <details> element?",
+                        options: [
+                            "<heading>",
+                            "<summary>",
+                            "<title>",
+                            "<caption>"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which HTML element is used to define a dialog box or window?",
+                        options: [
+                            "<dialog>",
+                            "<window>",
+                            "<popup>",
+                            "<modal>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a template for content?",
+                        options: [
+                            "<template>",
+                            "<pattern>",
+                            "<blueprint>",
+                            "<format>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a caption for a <figure> element?",
+                        options: [
+                            "<caption>",
+                            "<title>",
+                            "<label>",
+                            "<figcaption>"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which HTML element is used to define ruby annotations (for East Asian typography)?",
+                        options: [
+                            "<ruby>",
+                            "<annotation>",
+                            "<east>",
+                            "<typography>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define an explanation/pronunciation of characters (for East Asian typography)?",
+                        options: [
+                            "<explain>",
+                            "<pronunciation>",
+                            "<rt>",
+                            "<east>"
+                        ],
+                        correctAnswer: 2
+                    },
+                    {
+                        question: "Which HTML element is used to define what to show in browsers that do not support ruby annotations?",
+                        options: [
+                            "<fallback>",
+                            "<rp>",
+                            "<alternative>",
+                            "<support>"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which HTML element is used to define a hyperlink to a specific part of a document?",
+                        options: [
+                            "<anchor>",
+                            "<link>",
+                            "<a>",
+                            "<href>"
+                        ],
+                        correctAnswer: 2
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for SVG graphics?",
+                        options: [
+                            "<svg>",
+                            "<vector>",
+                            "<graphic>",
+                            "<image>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a section that is quoted from another source?",
+                        options: [
+                            "<quote>",
+                            "<blockquote>",
+                            "<citation>",
+                            "<reference>"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which HTML element is used to define the title of a work?",
+                        options: [
+                            "<title>",
+                            "<work>",
+                            "<cite>",
+                            "<name>"
+                        ],
+                        correctAnswer: 2
+                    },
+                    {
+                        question: "Which HTML element is used to define a term that is going to be defined within the content?",
+                        options: [
+                            "<term>",
+                            "<define>",
+                            "<dfn>",
+                            "<word>"
+                        ],
+                        correctAnswer: 2
+                    },
+                    {
+                        question: "Which HTML element is used to define a piece of computer code?",
+                        options: [
+                            "<code>",
+                            "<program>",
+                            "<script>",
+                            "<computer>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a variable in programming or in a mathematical expression?",
+                        options: [
+                            "<var>",
+                            "<variable>",
+                            "<param>",
+                            "<value>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define sample output from a computer program?",
+                        options: [
+                            "<output>",
+                            "<sample>",
+                            "<samp>",
+                            "<result>"
+                        ],
+                        correctAnswer: 2
+                    },
+                    {
+                        question: "Which HTML element is used to define keyboard input?",
+                        options: [
+                            "<kbd>",
+                            "<key>",
+                            "<keyboard>",
+                            "<input>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define subscript text?",
+                        options: [
+                            "<sub>",
+                            "<subscript>",
+                            "<below>",
+                            "<down>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define superscript text?",
+                        options: [
+                            "<sup>",
+                            "<superscript>",
+                            "<above>",
+                            "<up>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define text that should be stylistically different from normal text?",
+                        options: [
+                            "<span>",
+                            "<text>",
+                            "<style>",
+                            "<format>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a line break?",
+                        options: [
+                            "<break>",
+                            "<br>",
+                            "<lb>",
+                            "<newline>"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which HTML element is used to define a thematic change in the content?",
+                        options: [
+                            "<thematic>",
+                            "<change>",
+                            "<hr>",
+                            "<separator>"
+                        ],
+                        correctAnswer: 2
+                    },
+                    {
+                        question: "Which HTML element is used to define an abbreviation or an acronym?",
+                        options: [
+                            "<abbr>",
+                            "<acronym>",
+                            "<short>",
+                            "<abbrev>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define contact information for the author/owner of a document?",
+                        options: [
+                            "<contact>",
+                            "<author>",
+                            "<address>",
+                            "<info>"
+                        ],
+                        correctAnswer: 2
+                    },
+                    {
+                        question: "Which HTML element is used to define the direction of text display?",
+                        options: [
+                            "<dir>",
+                            "<direction>",
+                            "<bdo>",
+                            "<text>"
+                        ],
+                        correctAnswer: 2
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for main content?",
+                        options: [
+                            "<main>",
+                            "<content>",
+                            "<primary>",
+                            "<body>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for header content?",
+                        options: [
+                            "<header>",
+                            "<head>",
+                            "<top>",
+                            "<banner>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for footer content?",
+                        options: [
+                            "<footer>",
+                            "<foot>",
+                            "<bottom>",
+                            "<end>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for navigation content?",
+                        options: [
+                            "<nav>",
+                            "<navigation>",
+                            "<menu>",
+                            "<links>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for article content?",
+                        options: [
+                            "<article>",
+                            "<post>",
+                            "<content>",
+                            "<text>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for section content?",
+                        options: [
+                            "<section>",
+                            "<div>",
+                            "<part>",
+                            "<area>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for aside content?",
+                        options: [
+                            "<aside>",
+                            "<sidebar>",
+                            "<side>",
+                            "<extra>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for figure content?",
+                        options: [
+                            "<figure>",
+                            "<image>",
+                            "<picture>",
+                            "<diagram>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for time content?",
+                        options: [
+                            "<time>",
+                            "<date>",
+                            "<datetime>",
+                            "<calendar>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for data content?",
+                        options: [
+                            "<data>",
+                            "<value>",
+                            "<info>",
+                            "<content>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for picture content?",
+                        options: [
+                            "<picture>",
+                            "<image>",
+                            "<img>",
+                            "<photo>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for source content?",
+                        options: [
+                            "<source>",
+                            "<src>",
+                            "<resource>",
+                            "<file>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for track content?",
+                        options: [
+                            "<track>",
+                            "<text>",
+                            "<subtitle>",
+                            "<caption>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for audio content?",
+                        options: [
+                            "<audio>",
+                            "<sound>",
+                            "<music>",
+                            "<media>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for video content?",
+                        options: [
+                            "<video>",
+                            "<movie>",
+                            "<film>",
+                            "<media>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for embed content?",
+                        options: [
+                            "<embed>",
+                            "<object>",
+                            "<iframe>",
+                            "<app>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for iframe content?",
+                        options: [
+                            "<iframe>",
+                            "<frame>",
+                            "<embed>",
+                            "<object>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for object content?",
+                        options: [
+                            "<object>",
+                            "<embed>",
+                            "<iframe>",
+                            "<app>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for param content?",
+                        options: [
+                            "<param>",
+                            "<parameter>",
+                            "<setting>",
+                            "<option>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for map content?",
+                        options: [
+                            "<map>",
+                            "<area>",
+                            "<image>",
+                            "<graphic>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for area content?",
+                        options: [
+                            "<area>",
+                            "<map>",
+                            "<region>",
+                            "<zone>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for canvas content?",
+                        options: [
+                            "<canvas>",
+                            "<draw>",
+                            "<graphic>",
+                            "<image>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for script content?",
+                        options: [
+                            "<script>",
+                            "<code>",
+                            "<program>",
+                            "<function>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for noscript content?",
+                        options: [
+                            "<noscript>",
+                            "<no-script>",
+                            "<alt-script>",
+                            "<fallback>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for style content?",
+                        options: [
+                            "<style>",
+                            "<css>",
+                            "<design>",
+                            "<format>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for link content?",
+                        options: [
+                            "<link>",
+                            "<href>",
+                            "<url>",
+                            "<reference>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for meta content?",
+                        options: [
+                            "<meta>",
+                            "<metadata>",
+                            "<data>",
+                            "<info>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for base content?",
+                        options: [
+                            "<base>",
+                            "<foundation>",
+                            "<root>",
+                            "<origin>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for head content?",
+                        options: [
+                            "<head>",
+                            "<header>",
+                            "<top>",
+                            "<banner>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for body content?",
+                        options: [
+                            "<body>",
+                            "<content>",
+                            "<main>",
+                            "<primary>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for html content?",
+                        options: [
+                            "<html>",
+                            "<document>",
+                            "<page>",
+                            "<file>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for doctype content?",
+                        options: [
+                            "<!DOCTYPE>",
+                            "<doctype>",
+                            "<type>",
+                            "<document>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML element is used to define a container for comment content?",
+                        options: [
+                            "<!-- -->",
+                            "<comment>",
+                            "<note>",
+                            "<remark>"
+                        ],
+                        correctAnswer: 0
                     }
                 ],
                 medium: [
@@ -402,9 +1052,7 @@ const questionDatabase = {
                             "<figcaption>"
                         ],
                         correctAnswer: 3
-                    }
-                ],
-                hard: [
+                    },
                     {
                         question: "Which HTML5 element is used to define ruby annotations (for East Asian typography)?",
                         options: [
@@ -604,6 +1252,1028 @@ const questionDatabase = {
                             "<text>"
                         ],
                         correctAnswer: 2
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a section that might be quoted from another source?",
+                        options: [
+                            "<quote>",
+                            "<blockquote>",
+                            "<citation>",
+                            "<reference>"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for SVG graphics?",
+                        options: [
+                            "<svg>",
+                            "<vector>",
+                            "<graphic>",
+                            "<image>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for mathematical notation?",
+                        options: [
+                            "<math>",
+                            "<equation>",
+                            "<formula>",
+                            "<notation>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for interactive content?",
+                        options: [
+                            "<interactive>",
+                            "<object>",
+                            "<embed>",
+                            "<app>"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for external content?",
+                        options: [
+                            "<external>",
+                            "<object>",
+                            "<embed>",
+                            "<iframe>"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for multimedia content?",
+                        options: [
+                            "<multimedia>",
+                            "<media>",
+                            "<object>",
+                            "<content>"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for audio content?",
+                        options: [
+                            "<audio>",
+                            "<sound>",
+                            "<music>",
+                            "<media>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for video content?",
+                        options: [
+                            "<video>",
+                            "<movie>",
+                            "<film>",
+                            "<media>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for text tracks?",
+                        options: [
+                            "<track>",
+                            "<text>",
+                            "<subtitle>",
+                            "<caption>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for source elements?",
+                        options: [
+                            "<source>",
+                            "<src>",
+                            "<resource>",
+                            "<file>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for picture elements?",
+                        options: [
+                            "<picture>",
+                            "<image>",
+                            "<img>",
+                            "<photo>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for figure elements?",
+                        options: [
+                            "<figure>",
+                            "<image>",
+                            "<picture>",
+                            "<diagram>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for main content?",
+                        options: [
+                            "<main>",
+                            "<content>",
+                            "<primary>",
+                            "<body>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for header content?",
+                        options: [
+                            "<header>",
+                            "<head>",
+                            "<top>",
+                            "<banner>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for footer content?",
+                        options: [
+                            "<footer>",
+                            "<foot>",
+                            "<bottom>",
+                            "<end>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for navigation content?",
+                        options: [
+                            "<nav>",
+                            "<navigation>",
+                            "<menu>",
+                            "<links>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for article content?",
+                        options: [
+                            "<article>",
+                            "<post>",
+                            "<content>",
+                            "<text>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for section content?",
+                        options: [
+                            "<section>",
+                            "<div>",
+                            "<part>",
+                            "<area>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for aside content?",
+                        options: [
+                            "<aside>",
+                            "<sidebar>",
+                            "<side>",
+                            "<extra>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for time content?",
+                        options: [
+                            "<time>",
+                            "<date>",
+                            "<datetime>",
+                            "<calendar>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for data content?",
+                        options: [
+                            "<data>",
+                            "<value>",
+                            "<info>",
+                            "<content>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for mark content?",
+                        options: [
+                            "<mark>",
+                            "<highlight>",
+                            "<emphasize>",
+                            "<note>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for bdi content?",
+                        options: [
+                            "<bdi>",
+                            "<bidirectional>",
+                            "<rtl>",
+                            "<direction>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for bdo content?",
+                        options: [
+                            "<bdo>",
+                            "<bidirectional-override>",
+                            "<text-direction>",
+                            "<direction>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for output content?",
+                        options: [
+                            "<output>",
+                            "<result>",
+                            "<display>",
+                            "<show>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for progress content?",
+                        options: [
+                            "<progress>",
+                            "<meter>",
+                            "<bar>",
+                            "<status>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for meter content?",
+                        options: [
+                            "<meter>",
+                            "<gauge>",
+                            "<measure>",
+                            "<scale>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for keygen content?",
+                        options: [
+                            "<keygen>",
+                            "<key>",
+                            "<generate>",
+                            "<security>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for summary content?",
+                        options: [
+                            "<summary>",
+                            "<heading>",
+                            "<title>",
+                            "<caption>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for details content?",
+                        options: [
+                            "<details>",
+                            "<info>",
+                            "<more>",
+                            "<expand>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for dialog content?",
+                        options: [
+                            "<dialog>",
+                            "<window>",
+                            "<popup>",
+                            "<modal>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for menu content?",
+                        options: [
+                            "<menu>",
+                            "<navigation>",
+                            "<links>",
+                            "<options>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for menuitem content?",
+                        options: [
+                            "<menuitem>",
+                            "<item>",
+                            "<option>",
+                            "<choice>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for content content?",
+                        options: [
+                            "<content>",
+                            "<text>",
+                            "<data>",
+                            "<info>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for shadow content?",
+                        options: [
+                            "<shadow>",
+                            "<dark>",
+                            "<hidden>",
+                            "<secret>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for slot content?",
+                        options: [
+                            "<slot>",
+                            "<place>",
+                            "<position>",
+                            "<location>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 element is used to define a container for template content?",
+                        options: [
+                            "<template>",
+                            "<pattern>",
+                            "<blueprint>",
+                            "<format>"
+                        ],
+                        correctAnswer: 0
+                    }
+                ],
+                hard: [
+                    {
+                        question: "Which HTML5 attribute is used to specify that an element should be draggable?",
+                        options: [
+                            "draggable",
+                            "drag",
+                            "moveable",
+                            "transferable"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the context menu for an element?",
+                        options: [
+                            "contextmenu",
+                            "menu",
+                            "right-click",
+                            "popup"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify whether the content of an element is editable?",
+                        options: [
+                            "contenteditable",
+                            "editable",
+                            "edit",
+                            "modify"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the spelling and grammar check for an element?",
+                        options: [
+                            "spellcheck",
+                            "spell",
+                            "grammar",
+                            "check"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the translation of an element?",
+                        options: [
+                            "translate",
+                            "translation",
+                            "language",
+                            "locale"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the hidden state of an element?",
+                        options: [
+                            "hidden",
+                            "visible",
+                            "display",
+                            "show"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the tab order of an element?",
+                        options: [
+                            "tabindex",
+                            "tab",
+                            "order",
+                            "sequence"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the access key for an element?",
+                        options: [
+                            "accesskey",
+                            "key",
+                            "shortcut",
+                            "hotkey"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the language of an element?",
+                        options: [
+                            "lang",
+                            "language",
+                            "locale",
+                            "code"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the text direction of an element?",
+                        options: [
+                            "dir",
+                            "direction",
+                            "text-direction",
+                            "writing-mode"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the title of an element?",
+                        options: [
+                            "title",
+                            "tooltip",
+                            "hint",
+                            "label"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the class of an element?",
+                        options: [
+                            "class",
+                            "style",
+                            "id",
+                            "name"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the ID of an element?",
+                        options: [
+                            "id",
+                            "name",
+                            "identifier",
+                            "key"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the style of an element?",
+                        options: [
+                            "style",
+                            "class",
+                            "css",
+                            "format"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the data of an element?",
+                        options: [
+                            "data-*",
+                            "value",
+                            "info",
+                            "content"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the event handlers of an element?",
+                        options: [
+                            "on*",
+                            "event",
+                            "handler",
+                            "listener"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the ARIA roles of an element?",
+                        options: [
+                            "role",
+                            "aria-role",
+                            "function",
+                            "purpose"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the ARIA states of an element?",
+                        options: [
+                            "aria-*",
+                            "state",
+                            "status",
+                            "condition"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the ARIA properties of an element?",
+                        options: [
+                            "aria-*",
+                            "property",
+                            "attribute",
+                            "feature"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the autocomplete behavior of an element?",
+                        options: [
+                            "autocomplete",
+                            "autofill",
+                            "suggest",
+                            "predict"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the autofocus behavior of an element?",
+                        options: [
+                            "autofocus",
+                            "focus",
+                            "highlight",
+                            "select"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the form association of an element?",
+                        options: [
+                            "form",
+                            "form-id",
+                            "form-name",
+                            "form-association"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the form action of an element?",
+                        options: [
+                            "formaction",
+                            "action",
+                            "submit",
+                            "send"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the form enctype of an element?",
+                        options: [
+                            "formenctype",
+                            "enctype",
+                            "encoding",
+                            "format"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the form method of an element?",
+                        options: [
+                            "formmethod",
+                            "method",
+                            "submit",
+                            "send"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the form novalidate of an element?",
+                        options: [
+                            "formnovalidate",
+                            "novalidate",
+                            "skip-validation",
+                            "ignore-validation"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the form target of an element?",
+                        options: [
+                            "formtarget",
+                            "target",
+                            "destination",
+                            "window"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the height of an element?",
+                        options: [
+                            "height",
+                            "size",
+                            "dimension",
+                            "measure"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the width of an element?",
+                        options: [
+                            "width",
+                            "size",
+                            "dimension",
+                            "measure"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the max value of an element?",
+                        options: [
+                            "max",
+                            "maximum",
+                            "highest",
+                            "top"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the min value of an element?",
+                        options: [
+                            "min",
+                            "minimum",
+                            "lowest",
+                            "bottom"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the step value of an element?",
+                        options: [
+                            "step",
+                            "increment",
+                            "interval",
+                            "jump"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the multiple value of an element?",
+                        options: [
+                            "multiple",
+                            "many",
+                            "several",
+                            "various"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the pattern value of an element?",
+                        options: [
+                            "pattern",
+                            "regex",
+                            "format",
+                            "template"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the placeholder value of an element?",
+                        options: [
+                            "placeholder",
+                            "hint",
+                            "suggestion",
+                            "example"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the readonly value of an element?",
+                        options: [
+                            "readonly",
+                            "read-only",
+                            "fixed",
+                            "locked"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the required value of an element?",
+                        options: [
+                            "required",
+                            "mandatory",
+                            "necessary",
+                            "essential"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the src value of an element?",
+                        options: [
+                            "src",
+                            "source",
+                            "url",
+                            "location"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the type value of an element?",
+                        options: [
+                            "type",
+                            "kind",
+                            "category",
+                            "class"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the value value of an element?",
+                        options: [
+                            "value",
+                            "data",
+                            "content",
+                            "text"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the accept value of an element?",
+                        options: [
+                            "accept",
+                            "allow",
+                            "permit",
+                            "enable"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the alt value of an element?",
+                        options: [
+                            "alt",
+                            "alternative",
+                            "substitute",
+                            "replacement"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the async value of an element?",
+                        options: [
+                            "async",
+                            "asynchronous",
+                            "parallel",
+                            "concurrent"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the autoplay value of an element?",
+                        options: [
+                            "autoplay",
+                            "auto-play",
+                            "start",
+                            "begin"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the controls value of an element?",
+                        options: [
+                            "controls",
+                            "control",
+                            "buttons",
+                            "interface"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the crossorigin value of an element?",
+                        options: [
+                            "crossorigin",
+                            "cross-origin",
+                            "cors",
+                            "domain"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the defer value of an element?",
+                        options: [
+                            "defer",
+                            "delay",
+                            "postpone",
+                            "wait"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the disabled value of an element?",
+                        options: [
+                            "disabled",
+                            "disable",
+                            "inactive",
+                            "off"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the download value of an element?",
+                        options: [
+                            "download",
+                            "save",
+                            "store",
+                            "keep"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the href value of an element?",
+                        options: [
+                            "href",
+                            "link",
+                            "url",
+                            "address"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the hreflang value of an element?",
+                        options: [
+                            "hreflang",
+                            "link-language",
+                            "url-language",
+                            "address-language"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the ismap value of an element?",
+                        options: [
+                            "ismap",
+                            "image-map",
+                            "map",
+                            "coordinate"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the loop value of an element?",
+                        options: [
+                            "loop",
+                            "repeat",
+                            "cycle",
+                            "restart"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the media value of an element?",
+                        options: [
+                            "media",
+                            "device",
+                            "screen",
+                            "display"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the muted value of an element?",
+                        options: [
+                            "muted",
+                            "silent",
+                            "quiet",
+                            "no-sound"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the poster value of an element?",
+                        options: [
+                            "poster",
+                            "image",
+                            "thumbnail",
+                            "preview"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the preload value of an element?",
+                        options: [
+                            "preload",
+                            "load",
+                            "buffer",
+                            "cache"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the rel value of an element?",
+                        options: [
+                            "rel",
+                            "relation",
+                            "connection",
+                            "link"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the sandbox value of an element?",
+                        options: [
+                            "sandbox",
+                            "security",
+                            "restriction",
+                            "limitation"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the sizes value of an element?",
+                        options: [
+                            "sizes",
+                            "dimensions",
+                            "measurements",
+                            "scale"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the srcdoc value of an element?",
+                        options: [
+                            "srcdoc",
+                            "source-document",
+                            "document",
+                            "content"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the srclang value of an element?",
+                        options: [
+                            "srclang",
+                            "source-language",
+                            "language",
+                            "locale"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the start value of an element?",
+                        options: [
+                            "start",
+                            "begin",
+                            "first",
+                            "initial"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the target value of an element?",
+                        options: [
+                            "target",
+                            "destination",
+                            "window",
+                            "frame"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which HTML5 attribute is used to specify the usemap value of an element?",
+                        options: [
+                            "usemap",
+                            "image-map",
+                            "map",
+                            "coordinate"
+                        ],
+                        correctAnswer: 0
                     }
                 ]
             },
@@ -808,6 +2478,386 @@ const questionDatabase = {
                             "element-min-width"
                         ],
                         correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the maximum height of an element?",
+                        options: [
+                            "max-height",
+                            "height-max",
+                            "maximum-height",
+                            "element-max-height"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the minimum height of an element?",
+                        options: [
+                            "min-height",
+                            "height-min",
+                            "minimum-height",
+                            "element-min-height"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the position of an element?",
+                        options: [
+                            "position",
+                            "place",
+                            "location",
+                            "spot"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the z-index of an element?",
+                        options: [
+                            "z-index",
+                            "z-order",
+                            "layer",
+                            "stack"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the opacity of an element?",
+                        options: [
+                            "opacity",
+                            "transparency",
+                            "alpha",
+                            "visible"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the float of an element?",
+                        options: [
+                            "float",
+                            "align",
+                            "flow",
+                            "position"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the clear of an element?",
+                        options: [
+                            "clear",
+                            "float-clear",
+                            "reset",
+                            "cancel"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the display of an element?",
+                        options: [
+                            "display",
+                            "show",
+                            "visible",
+                            "render"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the visibility of an element?",
+                        options: [
+                            "visibility",
+                            "display",
+                            "show",
+                            "render"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the overflow of an element?",
+                        options: [
+                            "overflow",
+                            "scroll",
+                            "clip",
+                            "hidden"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the clip of an element?",
+                        options: [
+                            "clip",
+                            "crop",
+                            "cut",
+                            "trim"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the resize of an element?",
+                        options: [
+                            "resize",
+                            "size",
+                            "scale",
+                            "dimension"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the user-select of an element?",
+                        options: [
+                            "user-select",
+                            "select",
+                            "highlight",
+                            "choose"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the pointer-events of an element?",
+                        options: [
+                            "pointer-events",
+                            "mouse-events",
+                            "click-events",
+                            "interaction"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the touch-action of an element?",
+                        options: [
+                            "touch-action",
+                            "touch-events",
+                            "gesture",
+                            "swipe"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the will-change of an element?",
+                        options: [
+                            "will-change",
+                            "change",
+                            "modify",
+                            "update"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the contain of an element?",
+                        options: [
+                            "contain",
+                            "include",
+                            "hold",
+                            "keep"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the content of an element?",
+                        options: [
+                            "content",
+                            "text",
+                            "data",
+                            "value"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the counter-increment of an element?",
+                        options: [
+                            "counter-increment",
+                            "counter-add",
+                            "counter-increase",
+                            "counter-plus"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the counter-reset of an element?",
+                        options: [
+                            "counter-reset",
+                            "counter-clear",
+                            "counter-restart",
+                            "counter-zero"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the quotes of an element?",
+                        options: [
+                            "quotes",
+                            "quotation",
+                            "quote-marks",
+                            "quote-characters"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the page-break-inside of an element?",
+                        options: [
+                            "page-break-inside",
+                            "break-inside",
+                            "page-break",
+                            "break"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the page-break-before of an element?",
+                        options: [
+                            "page-break-before",
+                            "break-before",
+                            "page-break",
+                            "break"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the page-break-after of an element?",
+                        options: [
+                            "page-break-after",
+                            "break-after",
+                            "page-break",
+                            "break"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the orphans of an element?",
+                        options: [
+                            "orphans",
+                            "widows",
+                            "lines",
+                            "paragraphs"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the widows of an element?",
+                        options: [
+                            "widows",
+                            "orphans",
+                            "lines",
+                            "paragraphs"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the writing-mode of an element?",
+                        options: [
+                            "writing-mode",
+                            "text-direction",
+                            "text-orientation",
+                            "writing-direction"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the text-orientation of an element?",
+                        options: [
+                            "text-orientation",
+                            "text-direction",
+                            "writing-mode",
+                            "text-rotation"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the text-combine-upright of an element?",
+                        options: [
+                            "text-combine-upright",
+                            "text-combine",
+                            "text-merge",
+                            "text-combine-vertical"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the text-rendering of an element?",
+                        options: [
+                            "text-rendering",
+                            "text-quality",
+                            "font-rendering",
+                            "text-smoothing"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the font-feature-settings of an element?",
+                        options: [
+                            "font-feature-settings",
+                            "font-features",
+                            "font-settings",
+                            "font-options"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the font-variant-ligatures of an element?",
+                        options: [
+                            "font-variant-ligatures",
+                            "font-ligatures",
+                            "text-ligatures",
+                            "ligatures"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the font-variant-numeric of an element?",
+                        options: [
+                            "font-variant-numeric",
+                            "font-numeric",
+                            "text-numeric",
+                            "numeric"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the font-variant-east-asian of an element?",
+                        options: [
+                            "font-variant-east-asian",
+                            "font-east-asian",
+                            "text-east-asian",
+                            "east-asian"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the font-variant-position of an element?",
+                        options: [
+                            "font-variant-position",
+                            "font-position",
+                            "text-position",
+                            "position"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the font-synthesis of an element?",
+                        options: [
+                            "font-synthesis",
+                            "font-create",
+                            "text-synthesis",
+                            "synthesis"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the font-kerning of an element?",
+                        options: [
+                            "font-kerning",
+                            "kerning",
+                            "text-kerning",
+                            "letter-spacing"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to set the font-language-override of an element?",
+                        options: [
+                            "font-language-override",
+                            "font-language",
+                            "text-language",
+                            "language"
+                        ],
+                        correctAnswer: 0
                     }
                 ],
                 medium: [
@@ -1010,9 +3060,7 @@ const questionDatabase = {
                             "speed"
                         ],
                         correctAnswer: 0
-                    }
-                ],
-                hard: [
+                    },
                     {
                         question: "Which CSS property is used to specify the number of times an animation should be played?",
                         options: [
@@ -1210,6 +3258,1208 @@ const questionDatabase = {
                             "display",
                             "show",
                             "render"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the overflow of an element?",
+                        options: [
+                            "overflow",
+                            "scroll",
+                            "clip",
+                            "hidden"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the clip of an element?",
+                        options: [
+                            "clip",
+                            "crop",
+                            "cut",
+                            "trim"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the resize of an element?",
+                        options: [
+                            "resize",
+                            "size",
+                            "scale",
+                            "dimension"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the user-select of an element?",
+                        options: [
+                            "user-select",
+                            "select",
+                            "highlight",
+                            "choose"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the pointer-events of an element?",
+                        options: [
+                            "pointer-events",
+                            "mouse-events",
+                            "click-events",
+                            "interaction"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the touch-action of an element?",
+                        options: [
+                            "touch-action",
+                            "touch-events",
+                            "gesture",
+                            "swipe"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the will-change of an element?",
+                        options: [
+                            "will-change",
+                            "change",
+                            "modify",
+                            "update"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the contain of an element?",
+                        options: [
+                            "contain",
+                            "include",
+                            "hold",
+                            "keep"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the content of an element?",
+                        options: [
+                            "content",
+                            "text",
+                            "data",
+                            "value"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the counter-increment of an element?",
+                        options: [
+                            "counter-increment",
+                            "counter-add",
+                            "counter-increase",
+                            "counter-plus"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the counter-reset of an element?",
+                        options: [
+                            "counter-reset",
+                            "counter-clear",
+                            "counter-restart",
+                            "counter-zero"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the quotes of an element?",
+                        options: [
+                            "quotes",
+                            "quotation",
+                            "quote-marks",
+                            "quote-characters"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the page-break-inside of an element?",
+                        options: [
+                            "page-break-inside",
+                            "break-inside",
+                            "page-break",
+                            "break"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the page-break-before of an element?",
+                        options: [
+                            "page-break-before",
+                            "break-before",
+                            "page-break",
+                            "break"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the page-break-after of an element?",
+                        options: [
+                            "page-break-after",
+                            "break-after",
+                            "page-break",
+                            "break"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the orphans of an element?",
+                        options: [
+                            "orphans",
+                            "widows",
+                            "lines",
+                            "paragraphs"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the widows of an element?",
+                        options: [
+                            "widows",
+                            "orphans",
+                            "lines",
+                            "paragraphs"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the writing-mode of an element?",
+                        options: [
+                            "writing-mode",
+                            "text-direction",
+                            "text-orientation",
+                            "writing-direction"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the text-orientation of an element?",
+                        options: [
+                            "text-orientation",
+                            "text-direction",
+                            "writing-mode",
+                            "text-rotation"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the text-combine-upright of an element?",
+                        options: [
+                            "text-combine-upright",
+                            "text-combine",
+                            "text-merge",
+                            "text-combine-vertical"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the text-rendering of an element?",
+                        options: [
+                            "text-rendering",
+                            "text-quality",
+                            "font-rendering",
+                            "text-smoothing"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-feature-settings of an element?",
+                        options: [
+                            "font-feature-settings",
+                            "font-features",
+                            "font-settings",
+                            "font-options"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-variant-ligatures of an element?",
+                        options: [
+                            "font-variant-ligatures",
+                            "font-ligatures",
+                            "text-ligatures",
+                            "ligatures"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-variant-numeric of an element?",
+                        options: [
+                            "font-variant-numeric",
+                            "font-numeric",
+                            "text-numeric",
+                            "numeric"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-variant-east-asian of an element?",
+                        options: [
+                            "font-variant-east-asian",
+                            "font-east-asian",
+                            "text-east-asian",
+                            "east-asian"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-variant-position of an element?",
+                        options: [
+                            "font-variant-position",
+                            "font-position",
+                            "text-position",
+                            "position"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-synthesis of an element?",
+                        options: [
+                            "font-synthesis",
+                            "font-create",
+                            "text-synthesis",
+                            "synthesis"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-kerning of an element?",
+                        options: [
+                            "font-kerning",
+                            "kerning",
+                            "text-kerning",
+                            "letter-spacing"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-language-override of an element?",
+                        options: [
+                            "font-language-override",
+                            "font-language",
+                            "text-language",
+                            "language"
+                        ],
+                        correctAnswer: 0
+                    }
+                ],
+                hard: [
+                    {
+                        question: "Which CSS property is used to specify the blend mode between an element and its background?",
+                        options: [
+                            "mix-blend-mode",
+                            "blend-mode",
+                            "background-blend",
+                            "element-blend"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the blend mode between an element's background and its background image?",
+                        options: [
+                            "background-blend-mode",
+                            "blend-mode",
+                            "background-blend",
+                            "image-blend"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the filter effects (like blur, brightness, etc.) on an element?",
+                        options: [
+                            "filter",
+                            "effect",
+                            "visual",
+                            "image-filter"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the opacity of an element?",
+                        options: [
+                            "opacity",
+                            "transparent",
+                            "alpha",
+                            "visibility"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the stacking order of an element?",
+                        options: [
+                            "z-index",
+                            "stack",
+                            "order",
+                            "layer"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify whether an element should float?",
+                        options: [
+                            "float",
+                            "align",
+                            "position",
+                            "flow"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the behavior of floating elements?",
+                        options: [
+                            "clear",
+                            "float-behavior",
+                            "flow-control",
+                            "float-clear"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify how an element should be displayed?",
+                        options: [
+                            "display",
+                            "show",
+                            "visibility",
+                            "render"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the visibility of an element?",
+                        options: [
+                            "visibility",
+                            "display",
+                            "show",
+                            "render"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the overflow of an element?",
+                        options: [
+                            "overflow",
+                            "scroll",
+                            "clip",
+                            "hidden"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the clip of an element?",
+                        options: [
+                            "clip",
+                            "crop",
+                            "cut",
+                            "trim"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the resize of an element?",
+                        options: [
+                            "resize",
+                            "size",
+                            "scale",
+                            "dimension"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the user-select of an element?",
+                        options: [
+                            "user-select",
+                            "select",
+                            "highlight",
+                            "choose"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the pointer-events of an element?",
+                        options: [
+                            "pointer-events",
+                            "mouse-events",
+                            "click-events",
+                            "interaction"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the touch-action of an element?",
+                        options: [
+                            "touch-action",
+                            "touch-events",
+                            "gesture",
+                            "swipe"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the will-change of an element?",
+                        options: [
+                            "will-change",
+                            "change",
+                            "modify",
+                            "update"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the contain of an element?",
+                        options: [
+                            "contain",
+                            "include",
+                            "hold",
+                            "keep"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the content of an element?",
+                        options: [
+                            "content",
+                            "text",
+                            "data",
+                            "value"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the counter-increment of an element?",
+                        options: [
+                            "counter-increment",
+                            "counter-add",
+                            "counter-increase",
+                            "counter-plus"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the counter-reset of an element?",
+                        options: [
+                            "counter-reset",
+                            "counter-clear",
+                            "counter-restart",
+                            "counter-zero"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the quotes of an element?",
+                        options: [
+                            "quotes",
+                            "quotation",
+                            "quote-marks",
+                            "quote-characters"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the page-break-inside of an element?",
+                        options: [
+                            "page-break-inside",
+                            "break-inside",
+                            "page-break",
+                            "break"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the page-break-before of an element?",
+                        options: [
+                            "page-break-before",
+                            "break-before",
+                            "page-break",
+                            "break"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the page-break-after of an element?",
+                        options: [
+                            "page-break-after",
+                            "break-after",
+                            "page-break",
+                            "break"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the orphans of an element?",
+                        options: [
+                            "orphans",
+                            "widows",
+                            "lines",
+                            "paragraphs"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the widows of an element?",
+                        options: [
+                            "widows",
+                            "orphans",
+                            "lines",
+                            "paragraphs"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the writing-mode of an element?",
+                        options: [
+                            "writing-mode",
+                            "text-direction",
+                            "text-orientation",
+                            "writing-direction"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the text-orientation of an element?",
+                        options: [
+                            "text-orientation",
+                            "text-direction",
+                            "writing-mode",
+                            "text-rotation"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the text-combine-upright of an element?",
+                        options: [
+                            "text-combine-upright",
+                            "text-combine",
+                            "text-merge",
+                            "text-combine-vertical"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the text-rendering of an element?",
+                        options: [
+                            "text-rendering",
+                            "text-quality",
+                            "font-rendering",
+                            "text-smoothing"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-feature-settings of an element?",
+                        options: [
+                            "font-feature-settings",
+                            "font-features",
+                            "font-settings",
+                            "font-options"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-variant-ligatures of an element?",
+                        options: [
+                            "font-variant-ligatures",
+                            "font-ligatures",
+                            "text-ligatures",
+                            "ligatures"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-variant-numeric of an element?",
+                        options: [
+                            "font-variant-numeric",
+                            "font-numeric",
+                            "text-numeric",
+                            "numeric"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-variant-east-asian of an element?",
+                        options: [
+                            "font-variant-east-asian",
+                            "font-east-asian",
+                            "text-east-asian",
+                            "east-asian"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-variant-position of an element?",
+                        options: [
+                            "font-variant-position",
+                            "font-position",
+                            "text-position",
+                            "position"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-synthesis of an element?",
+                        options: [
+                            "font-synthesis",
+                            "font-create",
+                            "text-synthesis",
+                            "synthesis"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-kerning of an element?",
+                        options: [
+                            "font-kerning",
+                            "kerning",
+                            "text-kerning",
+                            "letter-spacing"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the font-language-override of an element?",
+                        options: [
+                            "font-language-override",
+                            "font-language",
+                            "text-language",
+                            "language"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the object-fit of an element?",
+                        options: [
+                            "object-fit",
+                            "fit",
+                            "scale",
+                            "resize"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the object-position of an element?",
+                        options: [
+                            "object-position",
+                            "position",
+                            "place",
+                            "location"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the mask of an element?",
+                        options: [
+                            "mask",
+                            "cover",
+                            "overlay",
+                            "layer"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the mask-type of an element?",
+                        options: [
+                            "mask-type",
+                            "type",
+                            "kind",
+                            "category"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the mask-mode of an element?",
+                        options: [
+                            "mask-mode",
+                            "mode",
+                            "style",
+                            "format"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the mask-repeat of an element?",
+                        options: [
+                            "mask-repeat",
+                            "repeat",
+                            "tile",
+                            "pattern"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the mask-position of an element?",
+                        options: [
+                            "mask-position",
+                            "position",
+                            "place",
+                            "location"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the mask-clip of an element?",
+                        options: [
+                            "mask-clip",
+                            "clip",
+                            "crop",
+                            "cut"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the mask-origin of an element?",
+                        options: [
+                            "mask-origin",
+                            "origin",
+                            "source",
+                            "start"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the mask-size of an element?",
+                        options: [
+                            "mask-size",
+                            "size",
+                            "dimension",
+                            "scale"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the mask-composite of an element?",
+                        options: [
+                            "mask-composite",
+                            "composite",
+                            "blend",
+                            "combine"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the mask-image of an element?",
+                        options: [
+                            "mask-image",
+                            "image",
+                            "picture",
+                            "graphic"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the clip-path of an element?",
+                        options: [
+                            "clip-path",
+                            "clip",
+                            "crop",
+                            "cut"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the shape-outside of an element?",
+                        options: [
+                            "shape-outside",
+                            "shape",
+                            "form",
+                            "outline"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the shape-margin of an element?",
+                        options: [
+                            "shape-margin",
+                            "margin",
+                            "space",
+                            "gap"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the shape-image-threshold of an element?",
+                        options: [
+                            "shape-image-threshold",
+                            "threshold",
+                            "limit",
+                            "boundary"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the offset-path of an element?",
+                        options: [
+                            "offset-path",
+                            "path",
+                            "route",
+                            "trajectory"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the offset-distance of an element?",
+                        options: [
+                            "offset-distance",
+                            "distance",
+                            "length",
+                            "measure"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the offset-rotate of an element?",
+                        options: [
+                            "offset-rotate",
+                            "rotate",
+                            "turn",
+                            "spin"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the offset-anchor of an element?",
+                        options: [
+                            "offset-anchor",
+                            "anchor",
+                            "point",
+                            "position"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the scroll-behavior of an element?",
+                        options: [
+                            "scroll-behavior",
+                            "behavior",
+                            "action",
+                            "movement"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the scroll-snap-type of an element?",
+                        options: [
+                            "scroll-snap-type",
+                            "snap-type",
+                            "lock",
+                            "align"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the scroll-snap-align of an element?",
+                        options: [
+                            "scroll-snap-align",
+                            "snap-align",
+                            "position",
+                            "place"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the scroll-snap-stop of an element?",
+                        options: [
+                            "scroll-snap-stop",
+                            "snap-stop",
+                            "halt",
+                            "pause"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the scroll-padding of an element?",
+                        options: [
+                            "scroll-padding",
+                            "padding",
+                            "space",
+                            "gap"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the scroll-margin of an element?",
+                        options: [
+                            "scroll-margin",
+                            "margin",
+                            "space",
+                            "gap"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the scroll-snap-coordinate of an element?",
+                        options: [
+                            "scroll-snap-coordinate",
+                            "snap-coordinate",
+                            "position",
+                            "place"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the scroll-snap-destination of an element?",
+                        options: [
+                            "scroll-snap-destination",
+                            "snap-destination",
+                            "target",
+                            "goal"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the scroll-snap-points-x of an element?",
+                        options: [
+                            "scroll-snap-points-x",
+                            "snap-points-x",
+                            "points-x",
+                            "coordinates-x"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the scroll-snap-points-y of an element?",
+                        options: [
+                            "scroll-snap-points-y",
+                            "snap-points-y",
+                            "points-y",
+                            "coordinates-y"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the overflow-anchor of an element?",
+                        options: [
+                            "overflow-anchor",
+                            "anchor",
+                            "lock",
+                            "fix"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the overscroll-behavior of an element?",
+                        options: [
+                            "overscroll-behavior",
+                            "overscroll",
+                            "bounce",
+                            "elastic"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the place-content of an element?",
+                        options: [
+                            "place-content",
+                            "content",
+                            "align",
+                            "justify"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the place-items of an element?",
+                        options: [
+                            "place-items",
+                            "items",
+                            "align",
+                            "justify"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the place-self of an element?",
+                        options: [
+                            "place-self",
+                            "self",
+                            "align",
+                            "justify"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the gap of an element?",
+                        options: [
+                            "gap",
+                            "space",
+                            "distance",
+                            "separation"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the row-gap of an element?",
+                        options: [
+                            "row-gap",
+                            "row-space",
+                            "row-distance",
+                            "row-separation"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the column-gap of an element?",
+                        options: [
+                            "column-gap",
+                            "column-space",
+                            "column-distance",
+                            "column-separation"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid of an element?",
+                        options: [
+                            "grid",
+                            "layout",
+                            "structure",
+                            "framework"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-area of an element?",
+                        options: [
+                            "grid-area",
+                            "area",
+                            "region",
+                            "zone"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-auto-columns of an element?",
+                        options: [
+                            "grid-auto-columns",
+                            "auto-columns",
+                            "dynamic-columns",
+                            "flexible-columns"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-auto-rows of an element?",
+                        options: [
+                            "grid-auto-rows",
+                            "auto-rows",
+                            "dynamic-rows",
+                            "flexible-rows"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-auto-flow of an element?",
+                        options: [
+                            "grid-auto-flow",
+                            "auto-flow",
+                            "dynamic-flow",
+                            "flexible-flow"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-column of an element?",
+                        options: [
+                            "grid-column",
+                            "column",
+                            "vertical",
+                            "y-axis"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-column-start of an element?",
+                        options: [
+                            "grid-column-start",
+                            "column-start",
+                            "start-column",
+                            "begin-column"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-column-end of an element?",
+                        options: [
+                            "grid-column-end",
+                            "column-end",
+                            "end-column",
+                            "finish-column"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-row of an element?",
+                        options: [
+                            "grid-row",
+                            "row",
+                            "horizontal",
+                            "x-axis"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-row-start of an element?",
+                        options: [
+                            "grid-row-start",
+                            "row-start",
+                            "start-row",
+                            "begin-row"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-row-end of an element?",
+                        options: [
+                            "grid-row-end",
+                            "row-end",
+                            "end-row",
+                            "finish-row"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-template of an element?",
+                        options: [
+                            "grid-template",
+                            "template",
+                            "pattern",
+                            "blueprint"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-template-areas of an element?",
+                        options: [
+                            "grid-template-areas",
+                            "template-areas",
+                            "areas",
+                            "regions"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-template-columns of an element?",
+                        options: [
+                            "grid-template-columns",
+                            "template-columns",
+                            "columns",
+                            "vertical"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which CSS property is used to specify the grid-template-rows of an element?",
+                        options: [
+                            "grid-template-rows",
+                            "template-rows",
+                            "rows",
+                            "horizontal"
                         ],
                         correctAnswer: 0
                     }
@@ -1416,9 +4666,7 @@ const questionDatabase = {
                             "filter()"
                         ],
                         correctAnswer: 0
-                    }
-                ],
-                medium: [
+                    },
                     {
                         question: "Which method is used to return a new array with all elements that pass a condition in JavaScript?",
                         options: [
@@ -1570,22 +4818,974 @@ const questionDatabase = {
                         correctAnswer: 0
                     },
                     {
-                        question: "Which method is used to create a new array with all sub-array elements concatenated into it recursively up to the specified depth in JavaScript?",
+                        question: "Which method is used to create a new array that is the array filled with elements from a start index to an end index in JavaScript?",
                         options: [
-                            "flat()",
-                            "flatten()",
-                            "concatAll()",
-                            "mergeAll()"
+                            "slice()",
+                            "splice()",
+                            "subset()",
+                            "section()"
                         ],
                         correctAnswer: 0
                     },
                     {
-                        question: "Which method is used to map each element using a mapping function, then flatten the result into a new array in JavaScript?",
+                        question: "Which method is used to change the contents of an array by removing or replacing existing elements and/or adding new elements in JavaScript?",
                         options: [
-                            "flatMap()",
-                            "mapFlat()",
-                            "flattenMap()",
-                            "mergeMap()"
+                            "splice()",
+                            "slice()",
+                            "modify()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to sort the elements of an array in place and return the sorted array in JavaScript?",
+                        options: [
+                            "sort()",
+                            "order()",
+                            "arrange()",
+                            "organize()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a string representing the array and its elements in JavaScript?",
+                        options: [
+                            "toString()",
+                            "stringify()",
+                            "join()",
+                            "valueOf()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the primitive value of an array in JavaScript?",
+                        options: [
+                            "valueOf()",
+                            "primitive()",
+                            "value()",
+                            "get()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the locale-specific string representation of an array in JavaScript?",
+                        options: [
+                            "toLocaleString()",
+                            "toString()",
+                            "locale()",
+                            "format()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to test whether at least one element in the array passes the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "some()",
+                            "any()",
+                            "exists()",
+                            "contains()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to test whether all elements in the array pass the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "every()",
+                            "all()",
+                            "each()",
+                            "contains()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new array with the results of calling a provided function on every element in the calling array in JavaScript?",
+                        options: [
+                            "map()",
+                            "forEach()",
+                            "apply()",
+                            "transform()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to execute a provided function once for each array element in JavaScript?",
+                        options: [
+                            "forEach()",
+                            "map()",
+                            "apply()",
+                            "execute()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to apply a function against an accumulator and each element in the array (from left to right) to reduce it to a single value in JavaScript?",
+                        options: [
+                            "reduce()",
+                            "reduceRight()",
+                            "combine()",
+                            "calculate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to apply a function against an accumulator and each element in the array (from right to left) to reduce it to a single value in JavaScript?",
+                        options: [
+                            "reduceRight()",
+                            "reduce()",
+                            "combine()",
+                            "calculate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new array with all elements that pass the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "filter()",
+                            "find()",
+                            "search()",
+                            "map()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the value of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "find()",
+                            "filter()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the index of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "findIndex()",
+                            "indexOf()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to fill all the elements of an array from a start index to an end index with a static value in JavaScript?",
+                        options: [
+                            "fill()",
+                            "set()",
+                            "replace()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to copy the sequence of array elements within the array to the position starting at target in JavaScript?",
+                        options: [
+                            "copyWithin()",
+                            "copy()",
+                            "duplicate()",
+                            "clone()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the key/value pairs for each index in the array in JavaScript?",
+                        options: [
+                            "entries()",
+                            "pairs()",
+                            "items()",
+                            "elements()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the keys for each index in the array in JavaScript?",
+                        options: [
+                            "keys()",
+                            "indices()",
+                            "indexes()",
+                            "positions()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the values for each index in the array in JavaScript?",
+                        options: [
+                            "values()",
+                            "elements()",
+                            "items()",
+                            "data()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to determine whether an array includes a certain value among its entries, returning true or false as appropriate in JavaScript?",
+                        options: [
+                            "includes()",
+                            "contains()",
+                            "has()",
+                            "exists()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the first index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "indexOf()",
+                            "findIndex()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the last index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "lastIndexOf()",
+                            "findLastIndex()",
+                            "searchReverse()",
+                            "locateLast()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array that is the array filled with elements from a start index to an end index in JavaScript?",
+                        options: [
+                            "slice()",
+                            "splice()",
+                            "subset()",
+                            "section()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to change the contents of an array by removing or replacing existing elements and/or adding new elements in JavaScript?",
+                        options: [
+                            "splice()",
+                            "slice()",
+                            "modify()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to sort the elements of an array in place and return the sorted array in JavaScript?",
+                        options: [
+                            "sort()",
+                            "order()",
+                            "arrange()",
+                            "organize()"
+                        ],
+                        correctAnswer: 0
+                    }
+                ],
+                medium: [
+                    {
+                        question: "Which method is used to return a string representing the array and its elements in JavaScript?",
+                        options: [
+                            "toString()",
+                            "stringify()",
+                            "join()",
+                            "valueOf()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the primitive value of an array in JavaScript?",
+                        options: [
+                            "valueOf()",
+                            "primitive()",
+                            "value()",
+                            "get()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the locale-specific string representation of an array in JavaScript?",
+                        options: [
+                            "toLocaleString()",
+                            "toString()",
+                            "locale()",
+                            "format()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to test whether at least one element in the array passes the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "some()",
+                            "any()",
+                            "exists()",
+                            "contains()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to test whether all elements in the array pass the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "every()",
+                            "all()",
+                            "each()",
+                            "contains()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new array with the results of calling a provided function on every element in the calling array in JavaScript?",
+                        options: [
+                            "map()",
+                            "forEach()",
+                            "apply()",
+                            "transform()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to execute a provided function once for each array element in JavaScript?",
+                        options: [
+                            "forEach()",
+                            "map()",
+                            "apply()",
+                            "execute()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to apply a function against an accumulator and each element in the array (from left to right) to reduce it to a single value in JavaScript?",
+                        options: [
+                            "reduce()",
+                            "reduceRight()",
+                            "combine()",
+                            "calculate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to apply a function against an accumulator and each element in the array (from right to left) to reduce it to a single value in JavaScript?",
+                        options: [
+                            "reduceRight()",
+                            "reduce()",
+                            "combine()",
+                            "calculate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new array with all elements that pass the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "filter()",
+                            "find()",
+                            "search()",
+                            "map()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the value of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "find()",
+                            "filter()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the index of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "findIndex()",
+                            "indexOf()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to fill all the elements of an array from a start index to an end index with a static value in JavaScript?",
+                        options: [
+                            "fill()",
+                            "set()",
+                            "replace()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to copy the sequence of array elements within the array to the position starting at target in JavaScript?",
+                        options: [
+                            "copyWithin()",
+                            "copy()",
+                            "duplicate()",
+                            "clone()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the key/value pairs for each index in the array in JavaScript?",
+                        options: [
+                            "entries()",
+                            "pairs()",
+                            "items()",
+                            "elements()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the keys for each index in the array in JavaScript?",
+                        options: [
+                            "keys()",
+                            "indices()",
+                            "indexes()",
+                            "positions()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the values for each index in the array in JavaScript?",
+                        options: [
+                            "values()",
+                            "elements()",
+                            "items()",
+                            "data()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to determine whether an array includes a certain value among its entries, returning true or false as appropriate in JavaScript?",
+                        options: [
+                            "includes()",
+                            "contains()",
+                            "has()",
+                            "exists()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the first index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "indexOf()",
+                            "findIndex()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the last index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "lastIndexOf()",
+                            "findLastIndex()",
+                            "searchReverse()",
+                            "locateLast()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array that is the array filled with elements from a start index to an end index in JavaScript?",
+                        options: [
+                            "slice()",
+                            "splice()",
+                            "subset()",
+                            "section()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to change the contents of an array by removing or replacing existing elements and/or adding new elements in JavaScript?",
+                        options: [
+                            "splice()",
+                            "slice()",
+                            "modify()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to sort the elements of an array in place and return the sorted array in JavaScript?",
+                        options: [
+                            "sort()",
+                            "order()",
+                            "arrange()",
+                            "organize()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a string representing the array and its elements in JavaScript?",
+                        options: [
+                            "toString()",
+                            "stringify()",
+                            "join()",
+                            "valueOf()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the primitive value of an array in JavaScript?",
+                        options: [
+                            "valueOf()",
+                            "primitive()",
+                            "value()",
+                            "get()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the locale-specific string representation of an array in JavaScript?",
+                        options: [
+                            "toLocaleString()",
+                            "toString()",
+                            "locale()",
+                            "format()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to test whether at least one element in the array passes the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "some()",
+                            "any()",
+                            "exists()",
+                            "contains()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to test whether all elements in the array pass the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "every()",
+                            "all()",
+                            "each()",
+                            "contains()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new array with the results of calling a provided function on every element in the calling array in JavaScript?",
+                        options: [
+                            "map()",
+                            "forEach()",
+                            "apply()",
+                            "transform()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to execute a provided function once for each array element in JavaScript?",
+                        options: [
+                            "forEach()",
+                            "map()",
+                            "apply()",
+                            "execute()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to apply a function against an accumulator and each element in the array (from left to right) to reduce it to a single value in JavaScript?",
+                        options: [
+                            "reduce()",
+                            "reduceRight()",
+                            "combine()",
+                            "calculate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to apply a function against an accumulator and each element in the array (from right to left) to reduce it to a single value in JavaScript?",
+                        options: [
+                            "reduceRight()",
+                            "reduce()",
+                            "combine()",
+                            "calculate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new array with all elements that pass the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "filter()",
+                            "find()",
+                            "search()",
+                            "map()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the value of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "find()",
+                            "filter()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the index of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "findIndex()",
+                            "indexOf()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to fill all the elements of an array from a start index to an end index with a static value in JavaScript?",
+                        options: [
+                            "fill()",
+                            "set()",
+                            "replace()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to copy the sequence of array elements within the array to the position starting at target in JavaScript?",
+                        options: [
+                            "copyWithin()",
+                            "copy()",
+                            "duplicate()",
+                            "clone()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the key/value pairs for each index in the array in JavaScript?",
+                        options: [
+                            "entries()",
+                            "pairs()",
+                            "items()",
+                            "elements()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the keys for each index in the array in JavaScript?",
+                        options: [
+                            "keys()",
+                            "indices()",
+                            "indexes()",
+                            "positions()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the values for each index in the array in JavaScript?",
+                        options: [
+                            "values()",
+                            "elements()",
+                            "items()",
+                            "data()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to determine whether an array includes a certain value among its entries, returning true or false as appropriate in JavaScript?",
+                        options: [
+                            "includes()",
+                            "contains()",
+                            "has()",
+                            "exists()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the first index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "indexOf()",
+                            "findIndex()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the last index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "lastIndexOf()",
+                            "findLastIndex()",
+                            "searchReverse()",
+                            "locateLast()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array that is the array filled with elements from a start index to an end index in JavaScript?",
+                        options: [
+                            "slice()",
+                            "splice()",
+                            "subset()",
+                            "section()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to change the contents of an array by removing or replacing existing elements and/or adding new elements in JavaScript?",
+                        options: [
+                            "splice()",
+                            "slice()",
+                            "modify()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to sort the elements of an array in place and return the sorted array in JavaScript?",
+                        options: [
+                            "sort()",
+                            "order()",
+                            "arrange()",
+                            "organize()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new array with all elements that pass the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "filter()",
+                            "find()",
+                            "search()",
+                            "map()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the value of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "find()",
+                            "filter()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the index of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "findIndex()",
+                            "indexOf()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to fill all the elements of an array from a start index to an end index with a static value in JavaScript?",
+                        options: [
+                            "fill()",
+                            "set()",
+                            "replace()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to copy the sequence of array elements within the array to the position starting at target in JavaScript?",
+                        options: [
+                            "copyWithin()",
+                            "copy()",
+                            "duplicate()",
+                            "clone()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the key/value pairs for each index in the array in JavaScript?",
+                        options: [
+                            "entries()",
+                            "pairs()",
+                            "items()",
+                            "elements()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the keys for each index in the array in JavaScript?",
+                        options: [
+                            "keys()",
+                            "indices()",
+                            "indexes()",
+                            "positions()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the values for each index in the array in JavaScript?",
+                        options: [
+                            "values()",
+                            "elements()",
+                            "items()",
+                            "data()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to determine whether an array includes a certain value among its entries, returning true or false as appropriate in JavaScript?",
+                        options: [
+                            "includes()",
+                            "contains()",
+                            "has()",
+                            "exists()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the first index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "indexOf()",
+                            "findIndex()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the last index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "lastIndexOf()",
+                            "findLastIndex()",
+                            "searchReverse()",
+                            "locateLast()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array that is the array filled with elements from a start index to an end index in JavaScript?",
+                        options: [
+                            "slice()",
+                            "splice()",
+                            "subset()",
+                            "section()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to change the contents of an array by removing or replacing existing elements and/or adding new elements in JavaScript?",
+                        options: [
+                            "splice()",
+                            "slice()",
+                            "modify()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to sort the elements of an array in place and return the sorted array in JavaScript?",
+                        options: [
+                            "sort()",
+                            "order()",
+                            "arrange()",
+                            "organize()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new array with all elements that pass the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "filter()",
+                            "find()",
+                            "search()",
+                            "map()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the value of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "find()",
+                            "filter()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the index of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "findIndex()",
+                            "indexOf()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to fill all the elements of an array from a start index to an end index with a static value in JavaScript?",
+                        options: [
+                            "fill()",
+                            "set()",
+                            "replace()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to copy the sequence of array elements within the array to the position starting at target in JavaScript?",
+                        options: [
+                            "copyWithin()",
+                            "copy()",
+                            "duplicate()",
+                            "clone()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the key/value pairs for each index in the array in JavaScript?",
+                        options: [
+                            "entries()",
+                            "pairs()",
+                            "items()",
+                            "elements()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the keys for each index in the array in JavaScript?",
+                        options: [
+                            "keys()",
+                            "indices()",
+                            "indexes()",
+                            "positions()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the values for each index in the array in JavaScript?",
+                        options: [
+                            "values()",
+                            "elements()",
+                            "items()",
+                            "data()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to determine whether an array includes a certain value among its entries, returning true or false as appropriate in JavaScript?",
+                        options: [
+                            "includes()",
+                            "contains()",
+                            "has()",
+                            "exists()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the first index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "indexOf()",
+                            "findIndex()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the last index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "lastIndexOf()",
+                            "findLastIndex()",
+                            "searchReverse()",
+                            "locateLast()"
                         ],
                         correctAnswer: 0
                     },
@@ -1820,6 +6020,456 @@ const questionDatabase = {
                             "locateLast()"
                         ],
                         correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array that is the array filled with elements from a start index to an end index in JavaScript?",
+                        options: [
+                            "slice()",
+                            "splice()",
+                            "subset()",
+                            "section()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to change the contents of an array by removing or replacing existing elements and/or adding new elements in JavaScript?",
+                        options: [
+                            "splice()",
+                            "slice()",
+                            "modify()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to sort the elements of an array in place and return the sorted array in JavaScript?",
+                        options: [
+                            "sort()",
+                            "order()",
+                            "arrange()",
+                            "organize()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new array with all elements that pass the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "filter()",
+                            "find()",
+                            "search()",
+                            "map()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the value of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "find()",
+                            "filter()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the index of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "findIndex()",
+                            "indexOf()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to fill all the elements of an array from a start index to an end index with a static value in JavaScript?",
+                        options: [
+                            "fill()",
+                            "set()",
+                            "replace()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to copy the sequence of array elements within the array to the position starting at target in JavaScript?",
+                        options: [
+                            "copyWithin()",
+                            "copy()",
+                            "duplicate()",
+                            "clone()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the key/value pairs for each index in the array in JavaScript?",
+                        options: [
+                            "entries()",
+                            "pairs()",
+                            "items()",
+                            "elements()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the keys for each index in the array in JavaScript?",
+                        options: [
+                            "keys()",
+                            "indices()",
+                            "indexes()",
+                            "positions()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the values for each index in the array in JavaScript?",
+                        options: [
+                            "values()",
+                            "elements()",
+                            "items()",
+                            "data()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to determine whether an array includes a certain value among its entries, returning true or false as appropriate in JavaScript?",
+                        options: [
+                            "includes()",
+                            "contains()",
+                            "has()",
+                            "exists()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the first index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "indexOf()",
+                            "findIndex()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the last index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "lastIndexOf()",
+                            "findLastIndex()",
+                            "searchReverse()",
+                            "locateLast()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array that is the array filled with elements from a start index to an end index in JavaScript?",
+                        options: [
+                            "slice()",
+                            "splice()",
+                            "subset()",
+                            "section()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to change the contents of an array by removing or replacing existing elements and/or adding new elements in JavaScript?",
+                        options: [
+                            "splice()",
+                            "slice()",
+                            "modify()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to sort the elements of an array in place and return the sorted array in JavaScript?",
+                        options: [
+                            "sort()",
+                            "order()",
+                            "arrange()",
+                            "organize()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new array with all elements that pass the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "filter()",
+                            "find()",
+                            "search()",
+                            "map()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the value of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "find()",
+                            "filter()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the index of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "findIndex()",
+                            "indexOf()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to fill all the elements of an array from a start index to an end index with a static value in JavaScript?",
+                        options: [
+                            "fill()",
+                            "set()",
+                            "replace()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to copy the sequence of array elements within the array to the position starting at target in JavaScript?",
+                        options: [
+                            "copyWithin()",
+                            "copy()",
+                            "duplicate()",
+                            "clone()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the key/value pairs for each index in the array in JavaScript?",
+                        options: [
+                            "entries()",
+                            "pairs()",
+                            "items()",
+                            "elements()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the keys for each index in the array in JavaScript?",
+                        options: [
+                            "keys()",
+                            "indices()",
+                            "indexes()",
+                            "positions()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the values for each index in the array in JavaScript?",
+                        options: [
+                            "values()",
+                            "elements()",
+                            "items()",
+                            "data()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to determine whether an array includes a certain value among its entries, returning true or false as appropriate in JavaScript?",
+                        options: [
+                            "includes()",
+                            "contains()",
+                            "has()",
+                            "exists()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the first index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "indexOf()",
+                            "findIndex()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the last index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "lastIndexOf()",
+                            "findLastIndex()",
+                            "searchReverse()",
+                            "locateLast()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array that is the array filled with elements from a start index to an end index in JavaScript?",
+                        options: [
+                            "slice()",
+                            "splice()",
+                            "subset()",
+                            "section()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to change the contents of an array by removing or replacing existing elements and/or adding new elements in JavaScript?",
+                        options: [
+                            "splice()",
+                            "slice()",
+                            "modify()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to sort the elements of an array in place and return the sorted array in JavaScript?",
+                        options: [
+                            "sort()",
+                            "order()",
+                            "arrange()",
+                            "organize()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new array with all elements that pass the test implemented by the provided function in JavaScript?",
+                        options: [
+                            "filter()",
+                            "find()",
+                            "search()",
+                            "map()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the value of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "find()",
+                            "filter()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the index of the first element in the array that satisfies the provided testing function in JavaScript?",
+                        options: [
+                            "findIndex()",
+                            "indexOf()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to fill all the elements of an array from a start index to an end index with a static value in JavaScript?",
+                        options: [
+                            "fill()",
+                            "set()",
+                            "replace()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to copy the sequence of array elements within the array to the position starting at target in JavaScript?",
+                        options: [
+                            "copyWithin()",
+                            "copy()",
+                            "duplicate()",
+                            "clone()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the key/value pairs for each index in the array in JavaScript?",
+                        options: [
+                            "entries()",
+                            "pairs()",
+                            "items()",
+                            "elements()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the keys for each index in the array in JavaScript?",
+                        options: [
+                            "keys()",
+                            "indices()",
+                            "indexes()",
+                            "positions()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array iterator object that contains the values for each index in the array in JavaScript?",
+                        options: [
+                            "values()",
+                            "elements()",
+                            "items()",
+                            "data()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to determine whether an array includes a certain value among its entries, returning true or false as appropriate in JavaScript?",
+                        options: [
+                            "includes()",
+                            "contains()",
+                            "has()",
+                            "exists()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the first index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "indexOf()",
+                            "findIndex()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return the last index at which a given element can be found in the array, or -1 if it is not present in JavaScript?",
+                        options: [
+                            "lastIndexOf()",
+                            "findLastIndex()",
+                            "searchReverse()",
+                            "locateLast()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to return a new array that is the array filled with elements from a start index to an end index in JavaScript?",
+                        options: [
+                            "slice()",
+                            "splice()",
+                            "subset()",
+                            "section()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to change the contents of an array by removing or replacing existing elements and/or adding new elements in JavaScript?",
+                        options: [
+                            "splice()",
+                            "slice()",
+                            "modify()",
+                            "change()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to sort the elements of an array in place and return the sorted array in JavaScript?",
+                        options: [
+                            "sort()",
+                            "order()",
+                            "arrange()",
+                            "organize()"
+                        ],
+                        correctAnswer: 0
                     }
                 ]
             },
@@ -2024,9 +6674,7 @@ const questionDatabase = {
                             "<>"
                         ],
                         correctAnswer: 2
-                    }
-                ],
-                medium: [
+                    },
                     {
                         question: "Which operator is used to compare two values for greater than in C?",
                         options: [
@@ -2226,9 +6874,219 @@ const questionDatabase = {
                             "minus1"
                         ],
                         correctAnswer: 0
-                    }
+                    },
+                    {
+                        question: "Which operator is used for assignment in C?",
+                        options: [
+                            "=",
+                            ":=",
+                            "==",
+                            "==="
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used for addition assignment in C?",
+                        options: [
+                            "+=",
+                            "add=",
+                            "plus=",
+                            "sum="
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used for subtraction assignment in C?",
+                        options: [
+                            "-=",
+                            "sub=",
+                            "minus=",
+                            "diff="
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used for multiplication assignment in C?",
+                        options: [
+                            "*=",
+                            "mul=",
+                            "times=",
+                            "product="
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used for division assignment in C?",
+                        options: [
+                            "/=",
+                            "div=",
+                            "over=",
+                            "quotient="
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used for modulus assignment in C?",
+                        options: [
+                            "%=",
+                            "mod=",
+                            "remainder=",
+                            "rem="
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used for left shift assignment in C?",
+                        options: [
+                            "<<=",
+                            "left=",
+                            "shl=",
+                            "lshift="
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used for right shift assignment in C?",
+                        options: [
+                            ">>=",
+                            "right=",
+                            "shr=",
+                            "rshift="
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used for bitwise AND assignment in C?",
+                        options: [
+                            "&=",
+                            "and=",
+                            "bitand=",
+                            "AND="
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used for bitwise OR assignment in C?",
+                        options: [
+                            "|=",
+                            "or=",
+                            "bitor=",
+                            "OR="
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used for bitwise XOR assignment in C?",
+                        options: [
+                            "^=",
+                            "xor=",
+                            "bitxor=",
+                            "XOR="
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used for conditional expression in C?",
+                        options: [
+                            "? :",
+                            "if else",
+                            "cond",
+                            "select"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used to get the size of a data type in C?",
+                        options: [
+                            "sizeof",
+                            "size",
+                            "length",
+                            "count"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used to get the size of a variable in C?",
+                        options: [
+                            "sizeof",
+                            "size",
+                            "length",
+                            "count"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used to get the size of an expression in C?",
+                        options: [
+                            "sizeof",
+                            "size",
+                            "length",
+                            "count"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used to get the address of a function in C?",
+                        options: [
+                            "&",
+                            "address",
+                            "addr",
+                            "location"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used to get the value of a function pointer in C?",
+                        options: [
+                            "*",
+                            "value",
+                            "get",
+                            "dereference"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used to access a member of a structure in C?",
+                        options: [
+                            ".",
+                            "->",
+                            "::",
+                            ":"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used to access a member of a structure through a pointer in C?",
+                        options: [
+                            "->",
+                            ".",
+                            "::",
+                            ":"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used to access a member of a union in C?",
+                        options: [
+                            ".",
+                            "->",
+                            "::",
+                            ":"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which operator is used to access a member of a union through a pointer in C?",
+                        options: [
+                            "->",
+                            ".",
+                            "::",
+                            ":"
+                        ],
+                        correctAnswer: 0
+                    }   
                 ],
-                hard: [
+                medium: [
                     {
                         question: "Which function is used to allocate memory dynamically and initialize it to zero in C?",
                         options: [
@@ -2428,6 +7286,1178 @@ const questionDatabase = {
                             "strtodouble"
                         ],
                         correctAnswer: 1
+                    },
+                    {
+                        question: "Which function is used to convert an integer to a string in C?",
+                        options: [
+                            "itoa",
+                            "inttostr",
+                            "inttostring",
+                            "tostring"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to convert a long integer to a string in C?",
+                        options: [
+                            "ltoa",
+                            "longtostr",
+                            "longtostring",
+                            "tostring"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to convert a floating-point number to a string in C?",
+                        options: [
+                            "ftoa",
+                            "floattostr",
+                            "floattostring",
+                            "tostring"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to convert a double to a string in C?",
+                        options: [
+                            "dtostr",
+                            "doubletostr",
+                            "doubletostring",
+                            "tostring"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to generate a random number in C?",
+                        options: [
+                            "rand",
+                            "random",
+                            "rnd",
+                            "generate"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to seed the random number generator in C?",
+                        options: [
+                            "srand",
+                            "seed",
+                            "init",
+                            "start"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the current time in C?",
+                        options: [
+                            "time",
+                            "gettime",
+                            "currenttime",
+                            "now"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the current date and time in C?",
+                        options: [
+                            "localtime",
+                            "getdatetime",
+                            "currentdatetime",
+                            "now"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to format a date and time in C?",
+                        options: [
+                            "strftime",
+                            "formatdatetime",
+                            "formatdate",
+                            "formattime"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to parse a date and time in C?",
+                        options: [
+                            "strptime",
+                            "parsedatetime",
+                            "parsedate",
+                            "parsetime"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to calculate the difference between two times in C?",
+                        options: [
+                            "difftime",
+                            "timediff",
+                            "timedifference",
+                            "subtracttime"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to convert a time to a string in C?",
+                        options: [
+                            "ctime",
+                            "timetostr",
+                            "timetostring",
+                            "tostring"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to convert a date and time to a string in C?",
+                        options: [
+                            "asctime",
+                            "datetimetostr",
+                            "datetimetostring",
+                            "tostring"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the current process ID in C?",
+                        options: [
+                            "getpid",
+                            "processid",
+                            "currentprocessid",
+                            "myid"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the parent process ID in C?",
+                        options: [
+                            "getppid",
+                            "parentprocessid",
+                            "currentparentprocessid",
+                            "parentid"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the user ID in C?",
+                        options: [
+                            "getuid",
+                            "userid",
+                            "currentuserid",
+                            "myuserid"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the group ID in C?",
+                        options: [
+                            "getgid",
+                            "groupid",
+                            "currentgroupid",
+                            "mygroupid"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the effective user ID in C?",
+                        options: [
+                            "geteuid",
+                            "effectiveuserid",
+                            "currenteffectiveuserid",
+                            "myeuid"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the effective group ID in C?",
+                        options: [
+                            "getegid",
+                            "effectivegroupid",
+                            "currenteffectivegroupid",
+                            "myegid"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create a new process in C?",
+                        options: [
+                            "fork",
+                            "create",
+                            "spawn",
+                            "new"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to replace the current process with a new program in C?",
+                        options: [
+                            "exec",
+                            "replace",
+                            "spawn",
+                            "run"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to wait for a process to terminate in C?",
+                        options: [
+                            "wait",
+                            "waitpid",
+                            "waitfor",
+                            "waituntil"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to exit a process in C?",
+                        options: [
+                            "exit",
+                            "quit",
+                            "terminate",
+                            "end"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to open a file in C?",
+                        options: [
+                            "fopen",
+                            "open",
+                            "create",
+                            "start"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to close a file in C?",
+                        options: [
+                            "fclose",
+                            "close",
+                            "end",
+                            "finish"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to read from a file in C?",
+                        options: [
+                            "fread",
+                            "read",
+                            "get",
+                            "input"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to write to a file in C?",
+                        options: [
+                            "fwrite",
+                            "write",
+                            "put",
+                            "output"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to seek to a position in a file in C?",
+                        options: [
+                            "fseek",
+                            "seek",
+                            "move",
+                            "position"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the current position in a file in C?",
+                        options: [
+                            "ftell",
+                            "tell",
+                            "position",
+                            "location"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to rewind a file to the beginning in C?",
+                        options: [
+                            "rewind",
+                            "reset",
+                            "begin",
+                            "start"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to flush a file buffer in C?",
+                        options: [
+                            "fflush",
+                            "flush",
+                            "clear",
+                            "empty"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check for the end of a file in C?",
+                        options: [
+                            "feof",
+                            "eof",
+                            "end",
+                            "finish"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check for an error on a file in C?",
+                        options: [
+                            "ferror",
+                            "error",
+                            "fail",
+                            "problem"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to clear the error indicator on a file in C?",
+                        options: [
+                            "clearerr",
+                            "clear",
+                            "reset",
+                            "fix"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get a character from a file in C?",
+                        options: [
+                            "fgetc",
+                            "getc",
+                            "getchar",
+                            "input"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to put a character to a file in C?",
+                        options: [
+                            "fputc",
+                            "putc",
+                            "putchar",
+                            "output"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get a string from a file in C?",
+                        options: [
+                            "fgets",
+                            "gets",
+                            "getstring",
+                            "input"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to put a string to a file in C?",
+                        options: [
+                            "fputs",
+                            "puts",
+                            "putstring",
+                            "output"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to print formatted output to a file in C?",
+                        options: [
+                            "fprintf",
+                            "printf",
+                            "print",
+                            "output"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to read formatted input from a file in C?",
+                        options: [
+                            "fscanf",
+                            "scanf",
+                            "read",
+                            "input"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to remove a file in C?",
+                        options: [
+                            "remove",
+                            "delete",
+                            "erase",
+                            "unlink"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to rename a file in C?",
+                        options: [
+                            "rename",
+                            "change",
+                            "modify",
+                            "alter"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create a temporary file in C?",
+                        options: [
+                            "tmpfile",
+                            "tempfile",
+                            "temporaryfile",
+                            "createfile"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get a temporary file name in C?",
+                        options: [
+                            "tmpnam",
+                            "tempname",
+                            "temporaryname",
+                            "getname"
+                        ],
+                        correctAnswer: 0
+                    }
+                ],
+                hard: [
+                    {
+                        question: "Which function is used to set the file position indicator for a stream in C?",
+                        options: [
+                            "fsetpos",
+                            "setpos",
+                            "position",
+                            "locate"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the file position indicator for a stream in C?",
+                        options: [
+                            "fgetpos",
+                            "getpos",
+                            "position",
+                            "locate"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the file descriptor associated with a stream in C?",
+                        options: [
+                            "fileno",
+                            "descriptor",
+                            "handle",
+                            "id"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to open a file with a file descriptor in C?",
+                        options: [
+                            "fdopen",
+                            "openfd",
+                            "opendesc",
+                            "openhandle"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to duplicate a file descriptor in C?",
+                        options: [
+                            "dup",
+                            "duplicate",
+                            "copy",
+                            "clone"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to duplicate a file descriptor to a specified slot in C?",
+                        options: [
+                            "dup2",
+                            "duplicate2",
+                            "copy2",
+                            "clone2"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create a pipe in C?",
+                        options: [
+                            "pipe",
+                            "createpipe",
+                            "makepipe",
+                            "newpipe"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create a FIFO (named pipe) in C?",
+                        options: [
+                            "mkfifo",
+                            "createfifo",
+                            "makefifo",
+                            "newfifo"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create a socket in C?",
+                        options: [
+                            "socket",
+                            "createsocket",
+                            "makesocket",
+                            "newsocket"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to bind a socket to an address in C?",
+                        options: [
+                            "bind",
+                            "attach",
+                            "connect",
+                            "link"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to listen for connections on a socket in C?",
+                        options: [
+                            "listen",
+                            "wait",
+                            "accept",
+                            "receive"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to accept a connection on a socket in C?",
+                        options: [
+                            "accept",
+                            "receive",
+                            "get",
+                            "take"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to connect a socket to an address in C?",
+                        options: [
+                            "connect",
+                            "bind",
+                            "attach",
+                            "link"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to send data on a socket in C?",
+                        options: [
+                            "send",
+                            "write",
+                            "transmit",
+                            "output"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to receive data from a socket in C?",
+                        options: [
+                            "recv",
+                            "read",
+                            "get",
+                            "input"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to close a socket in C?",
+                        options: [
+                            "close",
+                            "shutdown",
+                            "end",
+                            "finish"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to shut down part of a full-duplex connection in C?",
+                        options: [
+                            "shutdown",
+                            "close",
+                            "end",
+                            "finish"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the address of a socket in C?",
+                        options: [
+                            "getsockname",
+                            "getaddress",
+                            "getname",
+                            "getlocation"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the address of the peer connected to a socket in C?",
+                        options: [
+                            "getpeername",
+                            "getpeeraddress",
+                            "getpeer",
+                            "getremote"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set options on a socket in C?",
+                        options: [
+                            "setsockopt",
+                            "setoptions",
+                            "configure",
+                            "setup"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get options on a socket in C?",
+                        options: [
+                            "getsockopt",
+                            "getoptions",
+                            "configure",
+                            "setup"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to convert an IP address to a string in C?",
+                        options: [
+                            "inet_ntoa",
+                            "iptostr",
+                            "iptostring",
+                            "addresstostring"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to convert a string to an IP address in C?",
+                        options: [
+                            "inet_addr",
+                            "strtoip",
+                            "stringtoip",
+                            "stringtoaddress"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to convert an IP address and port to a string in C?",
+                        options: [
+                            "inet_ntop",
+                            "addrtostr",
+                            "addresstostring",
+                            "iptostring"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to convert a string to an IP address and port in C?",
+                        options: [
+                            "inet_pton",
+                            "strtoaddr",
+                            "stringtoaddress",
+                            "strtoip"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create a shared memory segment in C?",
+                        options: [
+                            "shmget",
+                            "createsharedmemory",
+                            "makesharedmemory",
+                            "newsharedmemory"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to attach to a shared memory segment in C?",
+                        options: [
+                            "shmat",
+                            "attachsharedmemory",
+                            "connectsharedmemory",
+                            "linksharedmemory"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to detach from a shared memory segment in C?",
+                        options: [
+                            "shmdt",
+                            "detachsharedmemory",
+                            "disconnectsharedmemory",
+                            "unlinksharedmemory"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to control a shared memory segment in C?",
+                        options: [
+                            "shmctl",
+                            "controlsharedmemory",
+                            "managesharedmemory",
+                            "configuresharedmemory"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create a semaphore in C?",
+                        options: [
+                            "semget",
+                            "createsemaphore",
+                            "makesemaphore",
+                            "newsemaphore"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to operate on a semaphore in C?",
+                        options: [
+                            "semop",
+                            "operatesemaphore",
+                            "usesemaphore",
+                            "controlsemaphore"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to control a semaphore in C?",
+                        options: [
+                            "semctl",
+                            "controlsemaphore",
+                            "managesemaphore",
+                            "configuresemaphore"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create a message queue in C?",
+                        options: [
+                            "msgget",
+                            "createmessagequeue",
+                            "makemessagequeue",
+                            "newmessagequeue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to send a message to a message queue in C?",
+                        options: [
+                            "msgsnd",
+                            "sendmessage",
+                            "putmessage",
+                            "writemessage"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to receive a message from a message queue in C?",
+                        options: [
+                            "msgrcv",
+                            "receivemessage",
+                            "getmessage",
+                            "readmessage"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to control a message queue in C?",
+                        options: [
+                            "msgctl",
+                            "controlmessagequeue",
+                            "managemessagequeue",
+                            "configuremessagequeue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create a signal handler in C?",
+                        options: [
+                            "signal",
+                            "createsignalhandler",
+                            "makesignalhandler",
+                            "newsignalhandler"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to send a signal to a process in C?",
+                        options: [
+                            "kill",
+                            "send",
+                            "signal",
+                            "notify"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to raise a signal in the current process in C?",
+                        options: [
+                            "raise",
+                            "send",
+                            "signal",
+                            "notify"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set a signal mask in C?",
+                        options: [
+                            "sigprocmask",
+                            "setsignalmask",
+                            "configuresignalmask",
+                            "blocksignals"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to wait for a signal in C?",
+                        options: [
+                            "sigwait",
+                            "waitforsignal",
+                            "awaitsignal",
+                            "pauseforsignal"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to suspend execution until a signal is received in C?",
+                        options: [
+                            "pause",
+                            "wait",
+                            "sleep",
+                            "halt"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set an alarm in C?",
+                        options: [
+                            "alarm",
+                            "setalarm",
+                            "createalarm",
+                            "newalarm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set a timer in C?",
+                        options: [
+                            "setitimer",
+                            "settimer",
+                            "createtimer",
+                            "newtimer"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the timer in C?",
+                        options: [
+                            "getitimer",
+                            "gettimer",
+                            "readtimer",
+                            "checktimer"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to sleep for a specified number of seconds in C?",
+                        options: [
+                            "sleep",
+                            "wait",
+                            "pause",
+                            "halt"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to sleep for a specified number of microseconds in C?",
+                        options: [
+                            "usleep",
+                            "microsleep",
+                            "waitmicro",
+                            "pausemicro"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to sleep for a specified number of nanoseconds in C?",
+                        options: [
+                            "nanosleep",
+                            "nanosleep",
+                            "waitnano",
+                            "pausenano"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the current time with high resolution in C?",
+                        options: [
+                            "gettimeofday",
+                            "gethightime",
+                            "getprecisetime",
+                            "getcurrenttime"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set the current time with high resolution in C?",
+                        options: [
+                            "settimeofday",
+                            "sethightime",
+                            "setprecisetime",
+                            "setcurrenttime"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the current time with nanosecond precision in C?",
+                        options: [
+                            "clock_gettime",
+                            "getnanotime",
+                            "getprecisetime",
+                            "getcurrenttime"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set the current time with nanosecond precision in C?",
+                        options: [
+                            "clock_settime",
+                            "setnanotime",
+                            "setprecisetime",
+                            "setcurrenttime"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the resolution of a clock in C?",
+                        options: [
+                            "clock_getres",
+                            "getclockres",
+                            "getresolution",
+                            "getprecision"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to sleep until a specified time in C?",
+                        options: [
+                            "clock_nanosleep",
+                            "sleepuntil",
+                            "waitsuntil",
+                            "pauseuntil"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the CPU time used by a process in C?",
+                        options: [
+                            "clock",
+                            "getcputime",
+                            "getprocesstime",
+                            "getusertime"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the difference between two times in C?",
+                        options: [
+                            "times",
+                            "timediff",
+                            "timedifference",
+                            "subtracttime"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the number of clock ticks per second in C?",
+                        options: [
+                            "sysconf",
+                            "getticks",
+                            "getfrequency",
+                            "getrate"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the page size in C?",
+                        options: [
+                            "getpagesize",
+                            "getpagesize",
+                            "getmemorysize",
+                            "getblocksize"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the number of processors in C?",
+                        options: [
+                            "sysconf",
+                            "getprocessors",
+                            "getcpus",
+                            "getcores"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the host name in C?",
+                        options: [
+                            "gethostname",
+                            "gethost",
+                            "getmachine",
+                            "getcomputer"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the domain name in C?",
+                        options: [
+                            "getdomainname",
+                            "getdomain",
+                            "getworkgroup",
+                            "getnetwork"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get host information by name in C?",
+                        options: [
+                            "gethostbyname",
+                            "gethost",
+                            "gethostinfo",
+                            "gethostbyaddr"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get host information by address in C?",
+                        options: [
+                            "gethostbyaddr",
+                            "gethost",
+                            "gethostinfo",
+                            "gethostbyname"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get network information by name in C?",
+                        options: [
+                            "getnetbyname",
+                            "getnetwork",
+                            "getnetinfo",
+                            "getnetbyaddr"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get network information by address in C?",
+                        options: [
+                            "getnetbyaddr",
+                            "getnetwork",
+                            "getnetinfo",
+                            "getnetbyname"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get protocol information by name in C?",
+                        options: [
+                            "getprotobyname",
+                            "getprotocol",
+                            "getprotoinfo",
+                            "getprotobynumber"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get protocol information by number in C?",
+                        options: [
+                            "getprotobynumber",
+                            "getprotocol",
+                            "getprotoinfo",
+                            "getprotobyname"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get service information by name in C?",
+                        options: [
+                            "getservbyname",
+                            "getservice",
+                            "getservinfo",
+                            "getservbyport"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get service information by port in C?",
+                        options: [
+                            "getservbyport",
+                            "getservice",
+                            "getservinfo",
+                            "getservbyname"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to convert a network address to a string in C?",
+                        options: [
+                            "inet_ntoa",
+                            "nettostr",
+                            "addresstostring",
+                            "iptostring"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to convert a string to a network address in C?",
+                        options: [
+                            "inet_addr",
+                            "strtonet",
+                            "stringtoaddress",
+                            "strtoip"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to convert a network address to a string in C?",
+                        options: [
+                            "inet_ntop",
+                            "nettostr",
+                            "addresstostring",
+                            "iptostring"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to convert a string to a network address in C?",
+                        options: [
+                            "inet_pton",
+                            "strtonet",
+                            "stringtoaddress",
+                            "strtoip"
+                        ],
+                        correctAnswer: 0
                     }
                 ]
             },
@@ -2624,12 +8654,422 @@ const questionDatabase = {
                         correctAnswer: 0
                     },
                     {
+                        question: "Which keyword is used to declare that a method might throw an exception in C++?",
+                        options: [
+                            "throws",
+                            "throw",
+                            "exception",
+                            "might"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
                         question: "Which keyword is used to define a namespace in C++?",
                         options: [
                             "namespace",
                             "name",
                             "scope",
                             "package"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to reference a namespace in C++?",
+                        options: [
+                            "using",
+                            "import",
+                            "include",
+                            "reference"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a friend function in C++?",
+                        options: [
+                            "friend",
+                            "buddy",
+                            "ally",
+                            "associate"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a friend class in C++?",
+                        options: [
+                            "friend",
+                            "buddy",
+                            "ally",
+                            "associate"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an inline function in C++?",
+                        options: [
+                            "inline",
+                            "inlined",
+                            "macro",
+                            "embedded"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a constant member function in C++?",
+                        options: [
+                            "const",
+                            "constant",
+                            "final",
+                            "readonly"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a volatile variable in C++?",
+                        options: [
+                            "volatile",
+                            "unstable",
+                            "changeable",
+                            "variable"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a mutable member in C++?",
+                        options: [
+                            "mutable",
+                            "changeable",
+                            "variable",
+                            "modifiable"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an explicit constructor in C++?",
+                        options: [
+                            "explicit",
+                            "direct",
+                            "specific",
+                            "precise"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a static_assert in C++?",
+                        options: [
+                            "static_assert",
+                            "compile_time_assert",
+                            "assert_static",
+                            "static_check"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a constexpr function in C++?",
+                        options: [
+                            "constexpr",
+                            "const_function",
+                            "compile_time",
+                            "static_function"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a noexcept function in C++?",
+                        options: [
+                            "noexcept",
+                            "no_throw",
+                            "exception_free",
+                            "safe"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a lambda function in C++?",
+                        options: [
+                            "[]",
+                            "lambda",
+                            "function",
+                            "anonymous"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a nullptr in C++?",
+                        options: [
+                            "nullptr",
+                            "NULL",
+                            "null",
+                            "0"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an override function in C++?",
+                        options: [
+                            "override",
+                            "overrides",
+                            "redefine",
+                            "overwrite"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a final class in C++?",
+                        options: [
+                            "final",
+                            "sealed",
+                            "closed",
+                            "complete"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a final function in C++?",
+                        options: [
+                            "final",
+                            "sealed",
+                            "closed",
+                            "complete"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a decltype in C++?",
+                        options: [
+                            "decltype",
+                            "typeof",
+                            "typeof_auto",
+                            "autotype"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an auto variable in C++?",
+                        options: [
+                            "auto",
+                            "automatic",
+                            "infer",
+                            "deduce"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a thread_local variable in C++?",
+                        options: [
+                            "thread_local",
+                            "thread",
+                            "local",
+                            "tls"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an alignas specifier in C++?",
+                        options: [
+                            "alignas",
+                            "align",
+                            "alignment",
+                            "aligned"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an alignof operator in C++?",
+                        options: [
+                            "alignof",
+                            "alignment",
+                            "align",
+                            "aligned"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a static_cast in C++?",
+                        options: [
+                            "static_cast",
+                            "cast_static",
+                            "static",
+                            "cast"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a dynamic_cast in C++?",
+                        options: [
+                            "dynamic_cast",
+                            "cast_dynamic",
+                            "dynamic",
+                            "cast"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a const_cast in C++?",
+                        options: [
+                            "const_cast",
+                            "cast_const",
+                            "const",
+                            "cast"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a reinterpret_cast in C++?",
+                        options: [
+                            "reinterpret_cast",
+                            "cast_reinterpret",
+                            "reinterpret",
+                            "cast"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a typeid operator in C++?",
+                        options: [
+                            "typeid",
+                            "typeof",
+                            "type",
+                            "id"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a type_info class in C++?",
+                        options: [
+                            "type_info",
+                            "typeinfo",
+                            "type_information",
+                            "info_type"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a bad_cast exception in C++?",
+                        options: [
+                            "bad_cast",
+                            "cast_exception",
+                            "invalid_cast",
+                            "cast_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a bad_typeid exception in C++?",
+                        options: [
+                            "bad_typeid",
+                            "typeid_exception",
+                            "invalid_typeid",
+                            "typeid_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a bad_exception exception in C++?",
+                        options: [
+                            "bad_exception",
+                            "exception_error",
+                            "invalid_exception",
+                            "exception_failure"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a logic_error exception in C++?",
+                        options: [
+                            "logic_error",
+                            "logical_error",
+                            "reasoning_error",
+                            "thinking_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a runtime_error exception in C++?",
+                        options: [
+                            "runtime_error",
+                            "run_time_error",
+                            "execution_error",
+                            "program_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a domain_error exception in C++?",
+                        options: [
+                            "domain_error",
+                            "range_error",
+                            "scope_error",
+                            "boundary_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an invalid_argument exception in C++?",
+                        options: [
+                            "invalid_argument",
+                            "argument_error",
+                            "parameter_error",
+                            "input_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a length_error exception in C++?",
+                        options: [
+                            "length_error",
+                            "size_error",
+                            "dimension_error",
+                            "count_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an out_of_range exception in C++?",
+                        options: [
+                            "out_of_range",
+                            "range_error",
+                            "boundary_error",
+                            "limit_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an overflow_error exception in C++?",
+                        options: [
+                            "overflow_error",
+                            "over_limit_error",
+                            "excess_error",
+                            "capacity_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an underflow_error exception in C++?",
+                        options: [
+                            "underflow_error",
+                            "under_limit_error",
+                            "deficiency_error",
+                            "shortage_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a range_error exception in C++?",
+                        options: [
+                            "range_error",
+                            "domain_error",
+                            "scope_error",
+                            "boundary_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a memory_resource class in C++?",
+                        options: [
+                            "memory_resource",
+                            "memory",
+                            "resource",
+                            "memory_manager"
                         ],
                         correctAnswer: 0
                     }
@@ -2834,9 +9274,7 @@ const questionDatabase = {
                             "aligned"
                         ],
                         correctAnswer: 0
-                    }
-                ],
-                hard: [
+                    },
                     {
                         question: "Which keyword is used to define an alignof operator in C++?",
                         options: [
@@ -3036,9 +9474,1042 @@ const questionDatabase = {
                             "memory_manager"
                         ],
                         correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a polymorphic_allocator class in C++?",
+                        options: [
+                            "polymorphic_allocator",
+                            "poly_allocator",
+                            "polymorphic",
+                            "poly_alloc"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a synchronized_value class in C++?",
+                        options: [
+                            "synchronized_value",
+                            "sync_value",
+                            "synchronized",
+                            "sync"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a atomic class in C++?",
+                        options: [
+                            "atomic",
+                            "atomic_value",
+                            "atomic_type",
+                            "atomic_var"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a mutex class in C++?",
+                        options: [
+                            "mutex",
+                            "lock",
+                            "synchronizer",
+                            "guard"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a unique_lock class in C++?",
+                        options: [
+                            "unique_lock",
+                            "unique_lock",
+                            "exclusive_lock",
+                            "single_lock"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a shared_lock class in C++?",
+                        options: [
+                            "shared_lock",
+                            "shared_lock",
+                            "multiple_lock",
+                            "shared_mutex"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a condition_variable class in C++?",
+                        options: [
+                            "condition_variable",
+                            "condition",
+                            "wait_condition",
+                            "signal"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a future class in C++?",
+                        options: [
+                            "future",
+                            "async_result",
+                            "promise",
+                            "task"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a promise class in C++?",
+                        options: [
+                            "promise",
+                            "future",
+                            "async_result",
+                            "task"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a packaged_task class in C++?",
+                        options: [
+                            "packaged_task",
+                            "task",
+                            "async_task",
+                            "function_task"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a thread class in C++?",
+                        options: [
+                            "thread",
+                            "task",
+                            "process",
+                            "worker"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a jthread class in C++?",
+                        options: [
+                            "jthread",
+                            "joinable_thread",
+                            "auto_thread",
+                            "safe_thread"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a stop_token class in C++?",
+                        options: [
+                            "stop_token",
+                            "stop",
+                            "cancel_token",
+                            "interrupt_token"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a stop_source class in C++?",
+                        options: [
+                            "stop_source",
+                            "stop",
+                            "cancel_source",
+                            "interrupt_source"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a stop_callback class in C++?",
+                        options: [
+                            "stop_callback",
+                            "stop",
+                            "cancel_callback",
+                            "interrupt_callback"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a latch class in C++?",
+                        options: [
+                            "latch",
+                            "counter",
+                            "barrier",
+                            "wait_counter"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a barrier class in C++?",
+                        options: [
+                            "barrier",
+                            "latch",
+                            "wait_point",
+                            "sync_point"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a semaphore class in C++?",
+                        options: [
+                            "semaphore",
+                            "counter",
+                            "lock",
+                            "synchronizer"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a counting_semaphore class in C++?",
+                        options: [
+                            "counting_semaphore",
+                            "semaphore",
+                            "counter_semaphore",
+                            "count_semaphore"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a binary_semaphore class in C++?",
+                        options: [
+                            "binary_semaphore",
+                            "semaphore",
+                            "binary_lock",
+                            "bool_semaphore"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a scoped_lock class in C++?",
+                        options: [
+                            "scoped_lock",
+                            "lock_guard",
+                            "unique_lock",
+                            "exclusive_lock"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a shared_mutex class in C++?",
+                        options: [
+                            "shared_mutex",
+                            "shared_lock",
+                            "read_write_lock",
+                            "multiple_lock"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a shared_timed_mutex class in C++?",
+                        options: [
+                            "shared_timed_mutex",
+                            "shared_mutex",
+                            "timed_shared_mutex",
+                            "timeout_shared_mutex"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a recursive_mutex class in C++?",
+                        options: [
+                            "recursive_mutex",
+                            "reentrant_mutex",
+                            "nested_mutex",
+                            "recursive_lock"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a recursive_timed_mutex class in C++?",
+                        options: [
+                            "recursive_timed_mutex",
+                            "recursive_mutex",
+                            "timed_recursive_mutex",
+                            "timeout_recursive_mutex"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a timed_mutex class in C++?",
+                        options: [
+                            "timed_mutex",
+                            "mutex",
+                            "timeout_mutex",
+                            "time_mutex"
+                        ],
+                        correctAnswer: 0
+                    }
+                ],
+                hard: [
+                    {
+                        question: "Which keyword is used to define a alignas specifier in C++?",
+                        options: [
+                            "alignas",
+                            "align",
+                            "alignment",
+                            "aligned"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an alignof operator in C++?",
+                        options: [
+                            "alignof",
+                            "alignment",
+                            "align",
+                            "aligned"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a static_cast in C++?",
+                        options: [
+                            "static_cast",
+                            "cast_static",
+                            "static",
+                            "cast"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a dynamic_cast in C++?",
+                        options: [
+                            "dynamic_cast",
+                            "cast_dynamic",
+                            "dynamic",
+                            "cast"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a const_cast in C++?",
+                        options: [
+                            "const_cast",
+                            "cast_const",
+                            "const",
+                            "cast"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a reinterpret_cast in C++?",
+                        options: [
+                            "reinterpret_cast",
+                            "cast_reinterpret",
+                            "reinterpret",
+                            "cast"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a typeid operator in C++?",
+                        options: [
+                            "typeid",
+                            "typeof",
+                            "type",
+                            "id"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a type_info class in C++?",
+                        options: [
+                            "type_info",
+                            "typeinfo",
+                            "type_information",
+                            "info_type"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a bad_cast exception in C++?",
+                        options: [
+                            "bad_cast",
+                            "cast_exception",
+                            "invalid_cast",
+                            "cast_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a bad_typeid exception in C++?",
+                        options: [
+                            "bad_typeid",
+                            "typeid_exception",
+                            "invalid_typeid",
+                            "typeid_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a bad_exception exception in C++?",
+                        options: [
+                            "bad_exception",
+                            "exception_error",
+                            "invalid_exception",
+                            "exception_failure"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a logic_error exception in C++?",
+                        options: [
+                            "logic_error",
+                            "logical_error",
+                            "reasoning_error",
+                            "thinking_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a runtime_error exception in C++?",
+                        options: [
+                            "runtime_error",
+                            "run_time_error",
+                            "execution_error",
+                            "program_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a domain_error exception in C++?",
+                        options: [
+                            "domain_error",
+                            "range_error",
+                            "scope_error",
+                            "boundary_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an invalid_argument exception in C++?",
+                        options: [
+                            "invalid_argument",
+                            "argument_error",
+                            "parameter_error",
+                            "input_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a length_error exception in C++?",
+                        options: [
+                            "length_error",
+                            "size_error",
+                            "dimension_error",
+                            "count_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an out_of_range exception in C++?",
+                        options: [
+                            "out_of_range",
+                            "range_error",
+                            "boundary_error",
+                            "limit_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an overflow_error exception in C++?",
+                        options: [
+                            "overflow_error",
+                            "over_limit_error",
+                            "excess_error",
+                            "capacity_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an underflow_error exception in C++?",
+                        options: [
+                            "underflow_error",
+                            "under_limit_error",
+                            "deficiency_error",
+                            "shortage_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a range_error exception in C++?",
+                        options: [
+                            "range_error",
+                            "domain_error",
+                            "scope_error",
+                            "boundary_error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a memory_resource class in C++?",
+                        options: [
+                            "memory_resource",
+                            "memory",
+                            "resource",
+                            "memory_manager"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a polymorphic_allocator class in C++?",
+                        options: [
+                            "polymorphic_allocator",
+                            "poly_allocator",
+                            "polymorphic",
+                            "poly_alloc"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a synchronized_value class in C++?",
+                        options: [
+                            "synchronized_value",
+                            "sync_value",
+                            "synchronized",
+                            "sync"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a atomic class in C++?",
+                        options: [
+                            "atomic",
+                            "atomic_value",
+                            "atomic_type",
+                            "atomic_var"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a mutex class in C++?",
+                        options: [
+                            "mutex",
+                            "lock",
+                            "synchronizer",
+                            "guard"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a unique_lock class in C++?",
+                        options: [
+                            "unique_lock",
+                            "unique_lock",
+                            "exclusive_lock",
+                            "single_lock"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a shared_lock class in C++?",
+                        options: [
+                            "shared_lock",
+                            "shared_lock",
+                            "multiple_lock",
+                            "shared_mutex"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a condition_variable class in C++?",
+                        options: [
+                            "condition_variable",
+                            "condition",
+                            "wait_condition",
+                            "signal"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a future class in C++?",
+                        options: [
+                            "future",
+                            "async_result",
+                            "promise",
+                            "task"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a promise class in C++?",
+                        options: [
+                            "promise",
+                            "future",
+                            "async_result",
+                            "task"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a packaged_task class in C++?",
+                        options: [
+                            "packaged_task",
+                            "task",
+                            "async_task",
+                            "function_task"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a thread class in C++?",
+                        options: [
+                            "thread",
+                            "task",
+                            "process",
+                            "worker"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a jthread class in C++?",
+                        options: [
+                            "jthread",
+                            "joinable_thread",
+                            "auto_thread",
+                            "safe_thread"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a stop_token class in C++?",
+                        options: [
+                            "stop_token",
+                            "stop",
+                            "cancel_token",
+                            "interrupt_token"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a stop_source class in C++?",
+                        options: [
+                            "stop_source",
+                            "stop",
+                            "cancel_source",
+                            "interrupt_source"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a stop_callback class in C++?",
+                        options: [
+                            "stop_callback",
+                            "stop",
+                            "cancel_callback",
+                            "interrupt_callback"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a latch class in C++?",
+                        options: [
+                            "latch",
+                            "counter",
+                            "barrier",
+                            "wait_counter"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a barrier class in C++?",
+                        options: [
+                            "barrier",
+                            "latch",
+                            "wait_point",
+                            "sync_point"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a semaphore class in C++?",
+                        options: [
+                            "semaphore",
+                            "counter",
+                            "lock",
+                            "synchronizer"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a counting_semaphore class in C++?",
+                        options: [
+                            "counting_semaphore",
+                            "semaphore",
+                            "counter_semaphore",
+                            "count_semaphore"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a binary_semaphore class in C++?",
+                        options: [
+                            "binary_semaphore",
+                            "semaphore",
+                            "binary_lock",
+                            "bool_semaphore"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a scoped_lock class in C++?",
+                        options: [
+                            "scoped_lock",
+                            "lock_guard",
+                            "unique_lock",
+                            "exclusive_lock"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a shared_mutex class in C++?",
+                        options: [
+                            "shared_mutex",
+                            "shared_lock",
+                            "read_write_lock",
+                            "multiple_lock"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a shared_timed_mutex class in C++?",
+                        options: [
+                            "shared_timed_mutex",
+                            "shared_mutex",
+                            "timed_shared_mutex",
+                            "timeout_shared_mutex"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a recursive_mutex class in C++?",
+                        options: [
+                            "recursive_mutex",
+                            "reentrant_mutex",
+                            "nested_mutex",
+                            "recursive_lock"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a recursive_timed_mutex class in C++?",
+                        options: [
+                            "recursive_timed_mutex",
+                            "recursive_mutex",
+                            "timed_recursive_mutex",
+                            "timeout_recursive_mutex"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a timed_mutex class in C++?",
+                        options: [
+                            "timed_mutex",
+                            "mutex",
+                            "timeout_mutex",
+                            "time_mutex"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a coroutine class in C++?",
+                        options: [
+                            "coroutine",
+                            "co_routine",
+                            "fiber",
+                            "task"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a coroutine_handle class in C++?",
+                        options: [
+                            "coroutine_handle",
+                            "co_handle",
+                            "fiber_handle",
+                            "task_handle"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a coroutine_traits class in C++?",
+                        options: [
+                            "coroutine_traits",
+                            "co_traits",
+                            "fiber_traits",
+                            "task_traits"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a suspend_always class in C++?",
+                        options: [
+                            "suspend_always",
+                            "always_suspend",
+                            "co_always",
+                            "fiber_always"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a suspend_never class in C++?",
+                        options: [
+                            "suspend_never",
+                            "never_suspend",
+                            "co_never",
+                            "fiber_never"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a suspend_if class in C++?",
+                        options: [
+                            "suspend_if",
+                            "if_suspend",
+                            "co_if",
+                            "fiber_if"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a noop_coroutine class in C++?",
+                        options: [
+                            "noop_coroutine",
+                            "empty_coroutine",
+                            "null_coroutine",
+                            "void_coroutine"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a generator class in C++?",
+                        options: [
+                            "generator",
+                            "co_generator",
+                            "fiber_generator",
+                            "yield_generator"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a async_generator class in C++?",
+                        options: [
+                            "async_generator",
+                            "co_async_generator",
+                            "fiber_async_generator",
+                            "async_yield_generator"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a view class in C++?",
+                        options: [
+                            "view",
+                            "range_view",
+                            "container_view",
+                            "sequence_view"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a span class in C++?",
+                        options: [
+                            "span",
+                            "array_view",
+                            "memory_view",
+                            "buffer_view"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a string_view class in C++?",
+                        options: [
+                            "string_view",
+                            "string_span",
+                            "text_view",
+                            "char_view"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a ranges namespace in C++?",
+                        options: [
+                            "ranges",
+                            "range",
+                            "sequence",
+                            "container"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a concepts in C++?",
+                        options: [
+                            "concept",
+                            "concept",
+                            "requirement",
+                            "constraint"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a requires in C++?",
+                        options: [
+                            "requires",
+                            "require",
+                            "constraint",
+                            "needs"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a modules in C++?",
+                        options: [
+                            "module",
+                            "mod",
+                            "package",
+                            "library"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a import in C++?",
+                        options: [
+                            "import",
+                            "include",
+                            "using",
+                            "require"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a export in C++?",
+                        options: [
+                            "export",
+                            "public",
+                            "visible",
+                            "expose"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a inline namespace in C++?",
+                        options: [
+                            "inline namespace",
+                            "inline",
+                            "namespace",
+                            "module"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a anonymous namespace in C++?",
+                        options: [
+                            "namespace",
+                            "anonymous",
+                            "unnamed",
+                            "no_name"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a attribute in C++?",
+                        options: [
+                            "[[attribute]]",
+                            "attribute",
+                            "property",
+                            "decorator"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a nodiscard attribute in C++?",
+                        options: [
+                            "[[nodiscard]]",
+                            "nodiscard",
+                            "no_discard",
+                            "must_use"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a maybe_unused attribute in C++?",
+                        options: [
+                            "[[maybe_unused]]",
+                            "maybe_unused",
+                            "unused",
+                            "ignore"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a noreturn attribute in C++?",
+                        options: [
+                            "[[noreturn]]",
+                            "noreturn",
+                            "no_return",
+                            "never_return"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a deprecated attribute in C++?",
+                        options: [
+                            "[[deprecated]]",
+                            "deprecated",
+                            "obsolete",
+                            "old"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a fallthrough attribute in C++?",
+                        options: [
+                            "[[fallthrough]]",
+                            "fallthrough",
+                            "fall_through",
+                            "continue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a likely attribute in C++?",
+                        options: [
+                            "[[likely]]",
+                            "likely",
+                            "probably",
+                            "expected"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a unlikely attribute in C++?",
+                        options: [
+                            "[[unlikely]]",
+                            "unlikely",
+                            "improbably",
+                            "unexpected"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a assume attribute in C++?",
+                        options: [
+                            "[[assume]]",
+                            "assume",
+                            "assert",
+                            "expect"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a no_unique_address attribute in C++?",
+                        options: [
+                            "[[no_unique_address]]",
+                            "no_unique_address",
+                            "shared_address",
+                            "overlap"
+                        ],
+                        correctAnswer: 0
                     }
                 ]
             },
+
             java: {
                 easy: [
                     {
@@ -3064,12 +10535,12 @@ const questionDatabase = {
                     {
                         question: "Which keyword is used to define a method in Java?",
                         options: [
+                            "No specific keyword",
                             "method",
                             "function",
-                            "def",
-                            "No specific keyword"
+                            "def"
                         ],
-                        correctAnswer: 3
+                        correctAnswer: 0
                     },
                     {
                         question: "Which keyword is used to access members of a class in Java?",
@@ -3084,12 +10555,12 @@ const questionDatabase = {
                     {
                         question: "Which keyword is used to define a constructor in Java?",
                         options: [
+                            "Same as class name",
                             "constructor",
                             "create",
-                            "init",
-                            "Same as class name"
+                            "init"
                         ],
-                        correctAnswer: 3
+                        correctAnswer: 0
                     },
                     {
                         question: "Which keyword is used for inheritance in Java?",
@@ -3240,9 +10711,7 @@ const questionDatabase = {
                             "might"
                         ],
                         correctAnswer: 0
-                    }
-                ],
-                medium: [
+                    },
                     {
                         question: "Which keyword is used to define a package in Java?",
                         options: [
@@ -3442,9 +10911,7 @@ const questionDatabase = {
                             "expose"
                         ],
                         correctAnswer: 0
-                    }
-                ],
-                hard: [
+                    },
                     {
                         question: "Which keyword is used to open a package from a module in Java?",
                         options: [
@@ -3644,6 +11111,1520 @@ const questionDatabase = {
                             "current"
                         ],
                         correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a super reference in Java?",
+                        options: [
+                            "super",
+                            "parent",
+                            "base",
+                            "ancestor"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a static block in Java?",
+                        options: [
+                            "static",
+                            "static {}",
+                            "block",
+                            "init"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an instance initializer block in Java?",
+                        options: [
+                            "{}",
+                            "init",
+                            "initializer",
+                            "block"
+                        ],
+                        correctAnswer: 0
+                    }
+                ],
+                medium: [
+                    {
+                        question: "Which method is used to get the length of an array in Java?",
+                        options: [
+                            "length",
+                            "size()",
+                            "length()",
+                            "count()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the size of an ArrayList in Java?",
+                        options: [
+                            "size()",
+                            "length",
+                            "length()",
+                            "count()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to add an element to an ArrayList in Java?",
+                        options: [
+                            "add()",
+                            "append()",
+                            "insert()",
+                            "put()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to remove an element from an ArrayList in Java?",
+                        options: [
+                            "remove()",
+                            "delete()",
+                            "erase()",
+                            "pop()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get an element from an ArrayList in Java?",
+                        options: [
+                            "get()",
+                            "element()",
+                            "at()",
+                            "item()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to set an element in an ArrayList in Java?",
+                        options: [
+                            "set()",
+                            "put()",
+                            "replace()",
+                            "update()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if an ArrayList contains an element in Java?",
+                        options: [
+                            "contains()",
+                            "has()",
+                            "includes()",
+                            "exists()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the index of an element in an ArrayList in Java?",
+                        options: [
+                            "indexOf()",
+                            "index()",
+                            "position()",
+                            "location()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to clear an ArrayList in Java?",
+                        options: [
+                            "clear()",
+                            "empty()",
+                            "reset()",
+                            "removeAll()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if an ArrayList is empty in Java?",
+                        options: [
+                            "isEmpty()",
+                            "empty()",
+                            "isBlank()",
+                            "size() == 0"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to add all elements from a collection to an ArrayList in Java?",
+                        options: [
+                            "addAll()",
+                            "appendAll()",
+                            "insertAll()",
+                            "putAll()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to remove all elements from a collection from an ArrayList in Java?",
+                        options: [
+                            "removeAll()",
+                            "deleteAll()",
+                            "eraseAll()",
+                            "clearAll()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to retain only the elements in an ArrayList that are in a collection in Java?",
+                        options: [
+                            "retainAll()",
+                            "keepAll()",
+                            "intersect()",
+                            "filter()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to convert an ArrayList to an array in Java?",
+                        options: [
+                            "toArray()",
+                            "asArray()",
+                            "toPrimitiveArray()",
+                            "convertToArray()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get an iterator for an ArrayList in Java?",
+                        options: [
+                            "iterator()",
+                            "getIterator()",
+                            "createIterator()",
+                            "iterate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get a list iterator for an ArrayList in Java?",
+                        options: [
+                            "listIterator()",
+                            "getListIterator()",
+                            "createListIterator()",
+                            "iterateList()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to sort an ArrayList in Java?",
+                        options: [
+                            "sort()",
+                            "order()",
+                            "arrange()",
+                            "organize()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to reverse an ArrayList in Java?",
+                        options: [
+                            "reverse()",
+                            "invert()",
+                            "flip()",
+                            "backwards()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to shuffle an ArrayList in Java?",
+                        options: [
+                            "shuffle()",
+                            "randomize()",
+                            "mix()",
+                            "scramble()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get a sublist of an ArrayList in Java?",
+                        options: [
+                            "subList()",
+                            "slice()",
+                            "part()",
+                            "segment()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to add an element to a HashMap in Java?",
+                        options: [
+                            "put()",
+                            "add()",
+                            "insert()",
+                            "set()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get an element from a HashMap in Java?",
+                        options: [
+                            "get()",
+                            "element()",
+                            "at()",
+                            "item()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to remove an element from a HashMap in Java?",
+                        options: [
+                            "remove()",
+                            "delete()",
+                            "erase()",
+                            "pop()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a HashMap contains a key in Java?",
+                        options: [
+                            "containsKey()",
+                            "hasKey()",
+                            "includesKey()",
+                            "existsKey()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a HashMap contains a value in Java?",
+                        options: [
+                            "containsValue()",
+                            "hasValue()",
+                            "includesValue()",
+                            "existsValue()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the size of a HashMap in Java?",
+                        options: [
+                            "size()",
+                            "length",
+                            "count()",
+                            "elements()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a HashMap is empty in Java?",
+                        options: [
+                            "isEmpty()",
+                            "empty()",
+                            "isBlank()",
+                            "size() == 0"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to clear a HashMap in Java?",
+                        options: [
+                            "clear()",
+                            "empty()",
+                            "reset()",
+                            "removeAll()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the key set of a HashMap in Java?",
+                        options: [
+                            "keySet()",
+                            "getKeys()",
+                            "keys()",
+                            "getSetOfKeys()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the value collection of a HashMap in Java?",
+                        options: [
+                            "values()",
+                            "getValues()",
+                            "valueCollection()",
+                            "getCollectionOfValues()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the entry set of a HashMap in Java?",
+                        options: [
+                            "entrySet()",
+                            "getEntries()",
+                            "entries()",
+                            "getSetOfEntries()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to add all elements from a map to a HashMap in Java?",
+                        options: [
+                            "putAll()",
+                            "addAll()",
+                            "insertAll()",
+                            "merge()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get a default value from a HashMap if a key is not present in Java?",
+                        options: [
+                            "getOrDefault()",
+                            "get()",
+                            "getDefault()",
+                            "getOrElse()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to replace a value in a HashMap only if the key is present in Java?",
+                        options: [
+                            "replace()",
+                            "put()",
+                            "set()",
+                            "update()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to replace a value in a HashMap only if the key is present and the old value matches in Java?",
+                        options: [
+                            "replace()",
+                            "put()",
+                            "set()",
+                            "update()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to compute a value for a key in a HashMap if the key is not present or the value is null in Java?",
+                        options: [
+                            "computeIfAbsent()",
+                            "compute()",
+                            "calculate()",
+                            "evaluate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to compute a value for a key in a HashMap if the key is present and the value is not null in Java?",
+                        options: [
+                            "computeIfPresent()",
+                            "compute()",
+                            "calculate()",
+                            "evaluate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to compute a value for a key in a HashMap regardless of whether the key is present in Java?",
+                        options: [
+                            "compute()",
+                            "computeIfAbsent()",
+                            "computeIfPresent()",
+                            "calculate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to merge a value with an existing value in a HashMap using a function in Java?",
+                        options: [
+                            "merge()",
+                            "combine()",
+                            "join()",
+                            "concat()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to add an element to a HashSet in Java?",
+                        options: [
+                            "add()",
+                            "insert()",
+                            "put()",
+                            "include()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to remove an element from a HashSet in Java?",
+                        options: [
+                            "remove()",
+                            "delete()",
+                            "erase()",
+                            "exclude()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a HashSet contains an element in Java?",
+                        options: [
+                            "contains()",
+                            "has()",
+                            "includes()",
+                            "exists()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the size of a HashSet in Java?",
+                        options: [
+                            "size()",
+                            "length",
+                            "count()",
+                            "elements()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a HashSet is empty in Java?",
+                        options: [
+                            "isEmpty()",
+                            "empty()",
+                            "isBlank()",
+                            "size() == 0"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to clear a HashSet in Java?",
+                        options: [
+                            "clear()",
+                            "empty()",
+                            "reset()",
+                            "removeAll()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get an iterator for a HashSet in Java?",
+                        options: [
+                            "iterator()",
+                            "getIterator()",
+                            "createIterator()",
+                            "iterate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to add all elements from a collection to a HashSet in Java?",
+                        options: [
+                            "addAll()",
+                            "insertAll()",
+                            "putAll()",
+                            "includeAll()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to remove all elements from a collection from a HashSet in Java?",
+                        options: [
+                            "removeAll()",
+                            "deleteAll()",
+                            "eraseAll()",
+                            "excludeAll()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to retain only the elements in a HashSet that are in a collection in Java?",
+                        options: [
+                            "retainAll()",
+                            "keepAll()",
+                            "intersect()",
+                            "filter()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a thread in Java?",
+                        options: [
+                            "new Thread()",
+                            "Thread.create()",
+                            "Thread.start()",
+                            "Thread.run()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to start a thread in Java?",
+                        options: [
+                            "start()",
+                            "run()",
+                            "begin()",
+                            "execute()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to make a thread sleep in Java?",
+                        options: [
+                            "sleep()",
+                            "wait()",
+                            "pause()",
+                            "rest()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to make a thread yield in Java?",
+                        options: [
+                            "yield()",
+                            "sleep()",
+                            "wait()",
+                            "pause()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to make a thread wait in Java?",
+                        options: [
+                            "wait()",
+                            "sleep()",
+                            "pause()",
+                            "rest()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to notify a waiting thread in Java?",
+                        options: [
+                            "notify()",
+                            "signal()",
+                            "wake()",
+                            "alert()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to notify all waiting threads in Java?",
+                        options: [
+                            "notifyAll()",
+                            "notify()",
+                            "signalAll()",
+                            "wakeAll()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to join a thread in Java?",
+                        options: [
+                            "join()",
+                            "wait()",
+                            "attach()",
+                            "connect()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a thread is alive in Java?",
+                        options: [
+                            "isAlive()",
+                            "alive()",
+                            "running()",
+                            "active()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the priority of a thread in Java?",
+                        options: [
+                            "getPriority()",
+                            "priority()",
+                            "getThreadPriority()",
+                            "threadPriority()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to set the priority of a thread in Java?",
+                        options: [
+                            "setPriority()",
+                            "priority()",
+                            "setThreadPriority()",
+                            "threadPriority()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the name of a thread in Java?",
+                        options: [
+                            "getName()",
+                            "name()",
+                            "getThreadName()",
+                            "threadName()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to set the name of a thread in Java?",
+                        options: [
+                            "setName()",
+                            "name()",
+                            "setThreadName()",
+                            "threadName()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the ID of a thread in Java?",
+                        options: [
+                            "getId()",
+                            "id()",
+                            "getThreadId()",
+                            "threadId()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the state of a thread in Java?",
+                        options: [
+                            "getState()",
+                            "state()",
+                            "getThreadState()",
+                            "threadState()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the thread group of a thread in Java?",
+                        options: [
+                            "getThreadGroup()",
+                            "threadGroup()",
+                            "getGroup()",
+                            "group()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to interrupt a thread in Java?",
+                        options: [
+                            "interrupt()",
+                            "stop()",
+                            "cancel()",
+                            "terminate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a thread is interrupted in Java?",
+                        options: [
+                            "isInterrupted()",
+                            "interrupted()",
+                            "isCancelled()",
+                            "isStopped()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if the current thread is interrupted in Java?",
+                        options: [
+                            "interrupted()",
+                            "isInterrupted()",
+                            "isCancelled()",
+                            "isStopped()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the current thread in Java?",
+                        options: [
+                            "currentThread()",
+                            "getCurrentThread()",
+                            "getThread()",
+                            "thread()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the class loader of a thread in Java?",
+                        options: [
+                            "getContextClassLoader()",
+                            "getClassLoader()",
+                            "getLoader()",
+                            "loader()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to set the class loader of a thread in Java?",
+                        options: [
+                            "setContextClassLoader()",
+                            "setClassLoader()",
+                            "setLoader()",
+                            "loader()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the stack trace of a thread in Java?",
+                        options: [
+                            "getStackTrace()",
+                            "stackTrace()",
+                            "getTrace()",
+                            "trace()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the uncaught exception handler of a thread in Java?",
+                        options: [
+                            "getUncaughtExceptionHandler()",
+                            "getExceptionHandler()",
+                            "getHandler()",
+                            "handler()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to set the uncaught exception handler of a thread in Java?",
+                        options: [
+                            "setUncaughtExceptionHandler()",
+                            "setExceptionHandler()",
+                            "setHandler()",
+                            "handler()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the default uncaught exception handler of a thread in Java?",
+                        options: [
+                            "getDefaultUncaughtExceptionHandler()",
+                            "getDefaultExceptionHandler()",
+                            "getDefaultHandler()",
+                            "defaultHandler()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to set the default uncaught exception handler of a thread in Java?",
+                        options: [
+                            "setDefaultUncaughtExceptionHandler()",
+                            "setDefaultExceptionHandler()",
+                            "setDefaultHandler()",
+                            "defaultHandler()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the thread group of the current thread in Java?",
+                        options: [
+                            "currentThread().getThreadGroup()",
+                            "getThreadGroup()",
+                            "getCurrentThreadGroup()",
+                            "threadGroup()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the active count of threads in a thread group in Java?",
+                        options: [
+                            "activeCount()",
+                            "getActiveCount()",
+                            "count()",
+                            "size()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to enumerate the threads in a thread group in Java?",
+                        options: [
+                            "enumerate()",
+                            "getThreads()",
+                            "threads()",
+                            "list()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the parent of a thread group in Java?",
+                        options: [
+                            "getParent()",
+                            "parent()",
+                            "getThreadGroupParent()",
+                            "threadGroupParent()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the name of a thread group in Java?",
+                        options: [
+                            "getName()",
+                            "name()",
+                            "getThreadGroupName()",
+                            "threadGroupName()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the maximum priority of a thread group in Java?",
+                        options: [
+                            "getMaxPriority()",
+                            "maxPriority()",
+                            "getThreadGroupMaxPriority()",
+                            "threadGroupMaxPriority()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to set the maximum priority of a thread group in Java?",
+                        options: [
+                            "setMaxPriority()",
+                            "maxPriority()",
+                            "setThreadGroupMaxPriority()",
+                            "threadGroupMaxPriority()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a thread group is a daemon thread group in Java?",
+                        options: [
+                            "isDaemon()",
+                            "daemon()",
+                            "isThreadGroupDaemon()",
+                            "threadGroupDaemon()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a thread group is destroyed in Java?",
+                        options: [
+                            "isDestroyed()",
+                            "destroyed()",
+                            "isThreadGroupDestroyed()",
+                            "threadGroupDestroyed()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to destroy a thread group in Java?",
+                        options: [
+                            "destroy()",
+                            "delete()",
+                            "remove()",
+                            "erase()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the system thread group in Java?",
+                        options: [
+                            "System.getThreadGroup()",
+                            "getSystemThreadGroup()",
+                            "ThreadGroup.system",
+                            "ThreadGroup.root"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the main thread group in Java?",
+                        options: [
+                            "Thread.currentThread().getThreadGroup()",
+                            "getMainThreadGroup()",
+                            "ThreadGroup.main",
+                            "ThreadGroup.root"
+                        ],
+                        correctAnswer: 0
+                    }
+                ],
+                hard: [
+                    {
+                        question: "Which method is used to create a new thread using the Runnable interface in Java?",
+                        options: [
+                            "new Thread(Runnable)",
+                            "Thread.create(Runnable)",
+                            "Thread.start(Runnable)",
+                            "Thread.run(Runnable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Thread class in Java?",
+                        options: [
+                            "new Thread()",
+                            "Thread.create()",
+                            "Thread.start()",
+                            "Thread.run()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the ExecutorService in Java?",
+                        options: [
+                            "executorService.execute(Runnable)",
+                            "executorService.submit(Runnable)",
+                            "executorService.start(Runnable)",
+                            "executorService.run(Runnable)"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the CompletableFuture in Java?",
+                        options: [
+                            "CompletableFuture.runAsync(Runnable)",
+                            "CompletableFuture.supplyAsync(Supplier)",
+                            "CompletableFuture.startAsync(Runnable)",
+                            "CompletableFuture.executeAsync(Runnable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the ForkJoinPool in Java?",
+                        options: [
+                            "forkJoinPool.execute(Runnable)",
+                            "forkJoinPool.submit(Runnable)",
+                            "forkJoinPool.start(Runnable)",
+                            "forkJoinPool.run(Runnable)"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the ScheduledExecutorService in Java?",
+                        options: [
+                            "scheduledExecutorService.schedule(Runnable, long, TimeUnit)",
+                            "scheduledExecutorService.execute(Runnable)",
+                            "scheduledExecutorService.submit(Runnable)",
+                            "scheduledExecutorService.start(Runnable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the ThreadFactory in Java?",
+                        options: [
+                            "threadFactory.newThread(Runnable)",
+                            "threadFactory.createThread(Runnable)",
+                            "threadFactory.makeThread(Runnable)",
+                            "threadFactory.buildThread(Runnable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the ThreadPoolExecutor in Java?",
+                        options: [
+                            "threadPoolExecutor.execute(Runnable)",
+                            "threadPoolExecutor.submit(Runnable)",
+                            "threadPoolExecutor.start(Runnable)",
+                            "threadPoolExecutor.run(Runnable)"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the ForkJoinTask in Java?",
+                        options: [
+                            "forkJoinTask.fork()",
+                            "forkJoinTask.execute()",
+                            "forkJoinTask.submit()",
+                            "forkJoinTask.start()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the FutureTask in Java?",
+                        options: [
+                            "futureTask.run()",
+                            "futureTask.execute()",
+                            "futureTask.submit()",
+                            "futureTask.start()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Timer in Java?",
+                        options: [
+                            "timer.schedule(TimerTask, long)",
+                            "timer.execute(TimerTask, long)",
+                            "timer.submit(TimerTask, long)",
+                            "timer.start(TimerTask, long)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the TimerTask in Java?",
+                        options: [
+                            "new TimerTask()",
+                            "TimerTask.create()",
+                            "TimerTask.start()",
+                            "TimerTask.run()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the SwingWorker in Java?",
+                        options: [
+                            "new SwingWorker()",
+                            "SwingWorker.create()",
+                            "SwingWorker.start()",
+                            "SwingWorker.run()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the JavaFX Task in Java?",
+                        options: [
+                            "new Task()",
+                            "Task.create()",
+                            "Task.start()",
+                            "Task.run()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the JavaFX Service in Java?",
+                        options: [
+                            "new Service()",
+                            "Service.create()",
+                            "Service.start()",
+                            "Service.run()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Akka Actor in Java?",
+                        options: [
+                            "actorSystem.actorOf(Props)",
+                            "actorSystem.createActor(Props)",
+                            "actorSystem.startActor(Props)",
+                            "actorSystem.runActor(Props)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Vert.x Verticle in Java?",
+                        options: [
+                            "vertx.deployVerticle(Verticle)",
+                            "vertx.createVerticle(Verticle)",
+                            "vertx.startVerticle(Verticle)",
+                            "vertx.runVerticle(Verticle)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Project Reactor Flux in Java?",
+                        options: [
+                            "Flux.create(FluxSink)",
+                            "Flux.generate(Consumer)",
+                            "Flux.push(Consumer)",
+                            "Flux.start(Consumer)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Project Reactor Mono in Java?",
+                        options: [
+                            "Mono.create(MonoSink)",
+                            "Mono.generate(Consumer)",
+                            "Mono.push(Consumer)",
+                            "Mono.start(Consumer)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the RxJava Observable in Java?",
+                        options: [
+                            "Observable.create(ObservableOnSubscribe)",
+                            "Observable.generate(Consumer)",
+                            "Observable.push(Consumer)",
+                            "Observable.start(Consumer)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the RxJava Flowable in Java?",
+                        options: [
+                            "Flowable.create(FlowableOnSubscribe)",
+                            "Flowable.generate(Consumer)",
+                            "Flowable.push(Consumer)",
+                            "Flowable.start(Consumer)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the RxJava Single in Java?",
+                        options: [
+                            "Single.create(SingleOnSubscribe)",
+                            "Single.generate(Consumer)",
+                            "Single.push(Consumer)",
+                            "Single.start(Consumer)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the RxJava Completable in Java?",
+                        options: [
+                            "Completable.create(CompletableOnSubscribe)",
+                            "Completable.generate(Consumer)",
+                            "Completable.push(Consumer)",
+                            "Completable.start(Consumer)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the RxJava Maybe in Java?",
+                        options: [
+                            "Maybe.create(MaybeOnSubscribe)",
+                            "Maybe.generate(Consumer)",
+                            "Maybe.push(Consumer)",
+                            "Maybe.start(Consumer)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Quasar Fiber in Java?",
+                        options: [
+                            "new Fiber(Runnable)",
+                            "Fiber.create(Runnable)",
+                            "Fiber.start(Runnable)",
+                            "Fiber.run(Runnable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Kotlin Coroutine in Java?",
+                        options: [
+                            "GlobalScope.launch(Dispatchers.Default, CoroutineStart.DEFAULT, block)",
+                            "CoroutineScope.launch(Dispatchers.Default, CoroutineStart.DEFAULT, block)",
+                            "Coroutine.launch(Dispatchers.Default, CoroutineStart.DEFAULT, block)",
+                            "launch(Dispatchers.Default, CoroutineStart.DEFAULT, block)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Project Loom Virtual Thread in Java?",
+                        options: [
+                            "Thread.ofVirtual().start(Runnable)",
+                            "Thread.startVirtual(Runnable)",
+                            "Thread.createVirtual(Runnable)",
+                            "Thread.virtual(Runnable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Project Loom Structured Concurrency in Java?",
+                        options: [
+                            "StructuredTaskScope.open().fork(Runnable)",
+                            "StructuredTaskScope.start().fork(Runnable)",
+                            "StructuredTaskScope.create().fork(Runnable)",
+                            "StructuredTaskScope.run().fork(Runnable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)",
+                            "Executors.newScheduledThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newFixedThreadPool(int)",
+                            "Executors.newScheduledThreadPool(int)"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.newFixedThreadPool(int)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newScheduledThreadPool(int)"
+                        ],
+                        correctAnswer: 2
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.newScheduledThreadPool(int)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.newWorkStealingPool()",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.newSingleThreadScheduledExecutor()",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.unconfigurableExecutorService(ExecutorService)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.unconfigurableScheduledExecutorService(ScheduledExecutorService)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.defaultThreadFactory()",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.privilegedThreadFactory()",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.privilegedCallable(Callable)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.privilegedCallableUsingCurrentClassLoader(Callable)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.callable(Runnable, T)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.callable(Runnable)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.runnableCallable(Callable)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.primitiveCallable(PrimitiveCallable)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(Callable)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(Runnable)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(Runnable, T)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(Callable, T)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(PrimitiveCallable)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(PrimitiveCallable, T)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(PrimitiveRunnable)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(PrimitiveRunnable, T)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(PrimitiveFutureTask)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(PrimitiveFutureTask, T)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(PrimitiveScheduledFutureTask)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(PrimitiveScheduledFutureTask, T)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(PrimitiveCompletionStage)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(PrimitiveCompletionStage, T)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(PrimitiveCompletableFuture)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a new thread using the Java Concurrency Utilities in Java?",
+                        options: [
+                            "Executors.adapt(PrimitiveCompletableFuture, T)",
+                            "Executors.newSingleThreadExecutor()",
+                            "Executors.newCachedThreadPool()",
+                            "Executors.newFixedThreadPool(int)"
+                        ],
+                        correctAnswer: 0
                     }
                 ]
             },
@@ -3710,16 +12691,6 @@ const questionDatabase = {
                         correctAnswer: 0
                     },
                     {
-                        question: "Which keyword is used for inheritance in Python?",
-                        options: [
-                            "()",
-                            "extends",
-                            ":",
-                            "inherits"
-                        ],
-                        correctAnswer: 0
-                    },
-                    {
                         question: "Which keyword is used to define a constructor in Python?",
                         options: [
                             "__init__",
@@ -3736,6 +12707,16 @@ const questionDatabase = {
                             "destructor",
                             "destroy",
                             "delete"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used for inheritance in Python?",
+                        options: [
+                            "()",
+                            "extends",
+                            ":",
+                            "inherits"
                         ],
                         correctAnswer: 0
                     },
@@ -3848,9 +12829,7 @@ const questionDatabase = {
                             "use"
                         ],
                         correctAnswer: 1
-                    }
-                ],
-                medium: [
+                    },
                     {
                         question: "Which keyword is used to define a lambda function in Python?",
                         options: [
@@ -3874,12 +12853,12 @@ const questionDatabase = {
                     {
                         question: "Which keyword is used to define an asynchronous function in Python?",
                         options: [
-                            "async",
+                            "async def",
                             "await",
                             "asynchronous",
-                            "async def"
+                            "async"
                         ],
-                        correctAnswer: 3
+                        correctAnswer: 0
                     },
                     {
                         question: "Which keyword is used to wait for an asynchronous operation in Python?",
@@ -4050,9 +13029,7 @@ const questionDatabase = {
                             "closed"
                         ],
                         correctAnswer: 0
-                    }
-                ],
-                hard: [
+                    },
                     {
                         question: "Which keyword is used to define a final method in Python?",
                         options: [
@@ -4194,52 +13171,92 @@ const questionDatabase = {
                         correctAnswer: 0
                     },
                     {
-                        question: "Which keyword is used to define a dictionary comprehension in Python?",
+                        question: "Which keyword is used to define a pattern variable in Python?",
                         options: [
-                            "{}",
-                            "dict",
-                            "comprehension",
-                            "generator"
+                            "var",
+                            "pattern",
+                            "match",
+                            "case"
                         ],
                         correctAnswer: 0
                     },
                     {
-                        question: "Which keyword is used to define a set comprehension in Python?",
+                        question: "Which keyword is used to define an isinstance pattern matching in Python?",
                         options: [
-                            "{}",
-                            "set",
-                            "comprehension",
-                            "generator"
+                            "isinstance",
+                            "is",
+                            "type",
+                            "match"
                         ],
                         correctAnswer: 0
                     },
                     {
-                        question: "Which keyword is used to define a generator expression in Python?",
+                        question: "Which keyword is used to define a switch expression in Python?",
                         options: [
-                            "()",
-                            "generator",
-                            "yield",
-                            "produce"
+                            "match",
+                            "case",
+                            "switch",
+                            "select"
                         ],
                         correctAnswer: 0
                     },
                     {
-                        question: "Which keyword is used to define a list comprehension in Python?",
+                        question: "Which keyword is used to define a case in a switch expression in Python?",
                         options: [
-                            "[]",
-                            "list",
-                            "comprehension",
-                            "generator"
+                            "case",
+                            "when",
+                            "if",
+                            "match"
                         ],
                         correctAnswer: 0
                     },
                     {
-                        question: "Which keyword is used to define a ternary operator in Python?",
+                        question: "Which keyword is used to define a default case in a switch expression in Python?",
                         options: [
-                            "if else",
-                            "? :",
-                            "?:",
-                            "cond"
+                            "default",
+                            "else",
+                            "otherwise",
+                            "fallback"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a break statement in a switch expression in Python?",
+                        options: [
+                            "No need, cases don't fall through",
+                            "break",
+                            "exit",
+                            "stop"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a continue statement in a loop in Python?",
+                        options: [
+                            "continue",
+                            "next",
+                            "skip",
+                            "proceed"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a break statement in a loop in Python?",
+                        options: [
+                            "break",
+                            "exit",
+                            "stop",
+                            "end"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a return statement in a method in Python?",
+                        options: [
+                            "return",
+                            "result",
+                            "value",
+                            "yield"
                         ],
                         correctAnswer: 0
                     },
@@ -4250,6 +13267,2120 @@ const questionDatabase = {
                             "this",
                             "me",
                             "current"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a cls reference in Python?",
+                        options: [
+                            "cls",
+                            "class",
+                            "type",
+                            "self"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a pass statement in Python?",
+                        options: [
+                            "pass",
+                            "skip",
+                            "empty",
+                            "null"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a del statement in Python?",
+                        options: [
+                            "del",
+                            "delete",
+                            "remove",
+                            "erase"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a global statement in Python?",
+                        options: [
+                            "global",
+                            "public",
+                            "shared",
+                            "common"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a nonlocal statement in Python?",
+                        options: [
+                            "nonlocal",
+                            "outer",
+                            "enclosing",
+                            "parent"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an assert statement in Python?",
+                        options: [
+                            "assert",
+                            "check",
+                            "verify",
+                            "ensure"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a raise statement in Python?",
+                        options: [
+                            "raise",
+                            "throw",
+                            "except",
+                            "error"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an import statement in Python?",
+                        options: [
+                            "import",
+                            "include",
+                            "using",
+                            "require"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a from statement in Python?",
+                        options: [
+                            "from",
+                            "import",
+                            "get",
+                            "use"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an as statement in Python?",
+                        options: [
+                            "as",
+                            "alias",
+                            "rename",
+                            "name"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a with statement in Python?",
+                        options: [
+                            "with",
+                            "context",
+                            "manager",
+                            "resource"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a lambda statement in Python?",
+                        options: [
+                            "lambda",
+                            "function",
+                            "def",
+                            "anonymous"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a yield statement in Python?",
+                        options: [
+                            "yield",
+                            "return",
+                            "generate",
+                            "produce"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a yield from statement in Python?",
+                        options: [
+                            "yield from",
+                            "yield",
+                            "generate from",
+                            "produce from"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an async statement in Python?",
+                        options: [
+                            "async",
+                            "await",
+                            "asynchronous",
+                            "async def"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define an await statement in Python?",
+                        options: [
+                            "await",
+                            "wait",
+                            "async",
+                            "yield"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a match statement in Python?",
+                        options: [
+                            "match",
+                            "case",
+                            "switch",
+                            "select"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a case statement in Python?",
+                        options: [
+                            "case",
+                            "when",
+                            "if",
+                            "match"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which keyword is used to define a walrus operator in Python?",
+                        options: [
+                            ":=",
+                            "=",
+                            "->",
+                            "=>"
+                        ],
+                        correctAnswer: 0
+                    }
+                ],
+                medium: [
+                    {
+                        question: "Which method is used to get the length of a list in Python?",
+                        options: [
+                            "len()",
+                            "length()",
+                            "size()",
+                            "count()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to add an element to the end of a list in Python?",
+                        options: [
+                            "append()",
+                            "add()",
+                            "insert()",
+                            "push()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to add an element at a specific position in a list in Python?",
+                        options: [
+                            "insert()",
+                            "add()",
+                            "append()",
+                            "put()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to remove an element from a list in Python?",
+                        options: [
+                            "remove()",
+                            "delete()",
+                            "erase()",
+                            "pop()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to remove an element at a specific position in a list in Python?",
+                        options: [
+                            "pop()",
+                            "remove()",
+                            "delete()",
+                            "erase()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the index of an element in a list in Python?",
+                        options: [
+                            "index()",
+                            "find()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to count the occurrences of an element in a list in Python?",
+                        options: [
+                            "count()",
+                            "occurrences()",
+                            "frequency()",
+                            "times()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to sort a list in Python?",
+                        options: [
+                            "sort()",
+                            "order()",
+                            "arrange()",
+                            "organize()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to reverse a list in Python?",
+                        options: [
+                            "reverse()",
+                            "invert()",
+                            "flip()",
+                            "backwards()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to copy a list in Python?",
+                        options: [
+                            "copy()",
+                            "clone()",
+                            "duplicate()",
+                            "replicate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to clear a list in Python?",
+                        options: [
+                            "clear()",
+                            "empty()",
+                            "reset()",
+                            "removeAll()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if an element is in a list in Python?",
+                        options: [
+                            "in",
+                            "contains()",
+                            "has()",
+                            "includes()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to extend a list with another list in Python?",
+                        options: [
+                            "extend()",
+                            "append()",
+                            "add()",
+                            "insert()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get a slice of a list in Python?",
+                        options: [
+                            "slice()",
+                            "sublist()",
+                            "part()",
+                            "segment()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the maximum value in a list in Python?",
+                        options: [
+                            "max()",
+                            "maximum()",
+                            "largest()",
+                            "biggest()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the minimum value in a list in Python?",
+                        options: [
+                            "min()",
+                            "minimum()",
+                            "smallest()",
+                            "littlest()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the sum of values in a list in Python?",
+                        options: [
+                            "sum()",
+                            "total()",
+                            "add()",
+                            "plus()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the average of values in a list in Python?",
+                        options: [
+                            "sum() / len()",
+                            "average()",
+                            "mean()",
+                            "avg()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the length of a tuple in Python?",
+                        options: [
+                            "len()",
+                            "length()",
+                            "size()",
+                            "count()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the index of an element in a tuple in Python?",
+                        options: [
+                            "index()",
+                            "find()",
+                            "search()",
+                            "locate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to count the occurrences of an element in a tuple in Python?",
+                        options: [
+                            "count()",
+                            "occurrences()",
+                            "frequency()",
+                            "times()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the maximum value in a tuple in Python?",
+                        options: [
+                            "max()",
+                            "maximum()",
+                            "largest()",
+                            "biggest()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the minimum value in a tuple in Python?",
+                        options: [
+                            "min()",
+                            "minimum()",
+                            "smallest()",
+                            "littlest()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the sum of values in a tuple in Python?",
+                        options: [
+                            "sum()",
+                            "total()",
+                            "add()",
+                            "plus()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the average of values in a tuple in Python?",
+                        options: [
+                            "sum() / len()",
+                            "average()",
+                            "mean()",
+                            "avg()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if an element is in a tuple in Python?",
+                        options: [
+                            "in",
+                            "contains()",
+                            "has()",
+                            "includes()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get a slice of a tuple in Python?",
+                        options: [
+                            "slice()",
+                            "sublist()",
+                            "part()",
+                            "segment()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the length of a dictionary in Python?",
+                        options: [
+                            "len()",
+                            "length()",
+                            "size()",
+                            "count()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to add a key-value pair to a dictionary in Python?",
+                        options: [
+                            "dict[key] = value",
+                            "add()",
+                            "insert()",
+                            "put()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the value of a key in a dictionary in Python?",
+                        options: [
+                            "dict[key]",
+                            "get()",
+                            "value()",
+                            "retrieve()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to remove a key-value pair from a dictionary in Python?",
+                        options: [
+                            "del dict[key]",
+                            "remove()",
+                            "delete()",
+                            "erase()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a key is in a dictionary in Python?",
+                        options: [
+                            "key in dict",
+                            "contains()",
+                            "has()",
+                            "includes()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get all keys in a dictionary in Python?",
+                        options: [
+                            "dict.keys()",
+                            "keys()",
+                            "getKeys()",
+                            "allKeys()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get all values in a dictionary in Python?",
+                        options: [
+                            "dict.values()",
+                            "values()",
+                            "getValues()",
+                            "allValues()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get all key-value pairs in a dictionary in Python?",
+                        options: [
+                            "dict.items()",
+                            "items()",
+                            "getItems()",
+                            "allItems()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the value of a key with a default value if the key is not present in a dictionary in Python?",
+                        options: [
+                            "dict.get(key, default)",
+                            "dict[key] or default",
+                            "dict.getOrElse(key, default)",
+                            "dict.default(key, default)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to remove and return the value of a key in a dictionary in Python?",
+                        options: [
+                            "dict.pop(key)",
+                            "dict.remove(key)",
+                            "dict.delete(key)",
+                            "dict.erase(key)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to remove and return an arbitrary key-value pair from a dictionary in Python?",
+                        options: [
+                            "dict.popitem()",
+                            "dict.pop()",
+                            "dict.remove()",
+                            "dict.delete()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to clear a dictionary in Python?",
+                        options: [
+                            "dict.clear()",
+                            "dict.empty()",
+                            "dict.reset()",
+                            "dict.removeAll()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to copy a dictionary in Python?",
+                        options: [
+                            "dict.copy()",
+                            "dict.clone()",
+                            "dict.duplicate()",
+                            "dict.replicate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to update a dictionary with another dictionary in Python?",
+                        options: [
+                            "dict.update(other)",
+                            "dict.merge(other)",
+                            "dict.combine(other)",
+                            "dict.append(other)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary from keys in Python?",
+                        options: [
+                            "dict.fromkeys(keys)",
+                            "dict.create(keys)",
+                            "dict.make(keys)",
+                            "dict.build(keys)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary from keys with a default value in Python?",
+                        options: [
+                            "dict.fromkeys(keys, default)",
+                            "dict.create(keys, default)",
+                            "dict.make(keys, default)",
+                            "dict.build(keys, default)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the length of a set in Python?",
+                        options: [
+                            "len()",
+                            "length()",
+                            "size()",
+                            "count()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to add an element to a set in Python?",
+                        options: [
+                            "add()",
+                            "insert()",
+                            "append()",
+                            "put()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to remove an element from a set in Python?",
+                        options: [
+                            "remove()",
+                            "delete()",
+                            "erase()",
+                            "pop()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to remove and return an arbitrary element from a set in Python?",
+                        options: [
+                            "pop()",
+                            "remove()",
+                            "delete()",
+                            "erase()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if an element is in a set in Python?",
+                        options: [
+                            "in",
+                            "contains()",
+                            "has()",
+                            "includes()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to clear a set in Python?",
+                        options: [
+                            "clear()",
+                            "empty()",
+                            "reset()",
+                            "removeAll()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to copy a set in Python?",
+                        options: [
+                            "copy()",
+                            "clone()",
+                            "duplicate()",
+                            "replicate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the union of two sets in Python?",
+                        options: [
+                            "union()",
+                            "or",
+                            "|",
+                            "+"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the intersection of two sets in Python?",
+                        options: [
+                            "intersection()",
+                            "and",
+                            "&",
+                            "*"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the difference of two sets in Python?",
+                        options: [
+                            "difference()",
+                            "subtract",
+                            "-",
+                            "\\"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the symmetric difference of two sets in Python?",
+                        options: [
+                            "symmetric_difference()",
+                            "xor",
+                            "^",
+                            "%"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a set is a subset of another set in Python?",
+                        options: [
+                            "issubset()",
+                            "subset",
+                            "<=",
+                            "<<"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a set is a superset of another set in Python?",
+                        options: [
+                            "issuperset()",
+                            "superset",
+                            ">=",
+                            ">>"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a set is disjoint from another set in Python?",
+                        options: [
+                            "isdisjoint()",
+                            "disjoint",
+                            "!",
+                            "!="
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the length of a string in Python?",
+                        options: [
+                            "len()",
+                            "length()",
+                            "size()",
+                            "count()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to convert a string to uppercase in Python?",
+                        options: [
+                            "upper()",
+                            "uppercase()",
+                            "to_upper()",
+                            "toUpper()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to convert a string to lowercase in Python?",
+                        options: [
+                            "lower()",
+                            "lowercase()",
+                            "to_lower()",
+                            "toLower()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to convert a string to title case in Python?",
+                        options: [
+                            "title()",
+                            "titlecase()",
+                            "to_title()",
+                            "toTitle()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to convert a string to camel case in Python?",
+                        options: [
+                            "No built-in method",
+                            "camelcase()",
+                            "to_camel()",
+                            "toCamel()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to convert a string to snake case in Python?",
+                        options: [
+                            "No built-in method",
+                            "snakecase()",
+                            "to_snake()",
+                            "toSnake()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to convert a string to kebab case in Python?",
+                        options: [
+                            "No built-in method",
+                            "kebabcase()",
+                            "to_kebab()",
+                            "toKebab()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to strip whitespace from the beginning and end of a string in Python?",
+                        options: [
+                            "strip()",
+                            "trim()",
+                            "clean()",
+                            "remove()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to strip whitespace from the beginning of a string in Python?",
+                        options: [
+                            "lstrip()",
+                            "ltrim()",
+                            "left_strip()",
+                            "leftTrim()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to strip whitespace from the end of a string in Python?",
+                        options: [
+                            "rstrip()",
+                            "rtrim()",
+                            "right_strip()",
+                            "rightTrim()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to find the first occurrence of a substring in a string in Python?",
+                        options: [
+                            "find()",
+                            "search()",
+                            "locate()",
+                            "index()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to find the last occurrence of a substring in a string in Python?",
+                        options: [
+                            "rfind()",
+                            "rsearch()",
+                            "rlocate()",
+                            "rindex()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to replace a substring with another string in Python?",
+                        options: [
+                            "replace()",
+                            "substitute()",
+                            "change()",
+                            "swap()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to split a string into a list of substrings in Python?",
+                        options: [
+                            "split()",
+                            "divide()",
+                            "break()",
+                            "separate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to join a list of strings into a single string in Python?",
+                        options: [
+                            "join()",
+                            "combine()",
+                            "merge()",
+                            "concat()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a string starts with a substring in Python?",
+                        options: [
+                            "startswith()",
+                            "starts_with()",
+                            "begin_with()",
+                            "has_prefix()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a string ends with a substring in Python?",
+                        options: [
+                            "endswith()",
+                            "ends_with()",
+                            "finish_with()",
+                            "has_suffix()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a string contains a substring in Python?",
+                        options: [
+                            "in",
+                            "contains()",
+                            "has()",
+                            "includes()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to count the occurrences of a substring in a string in Python?",
+                        options: [
+                            "count()",
+                            "occurrences()",
+                            "frequency()",
+                            "times()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to format a string with values in Python?",
+                        options: [
+                            "format()",
+                            "fmt()",
+                            "sprintf()",
+                            "printf()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to format a string with named values in Python?",
+                        options: [
+                            "format()",
+                            "fmt()",
+                            "sprintf()",
+                            "printf()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to format a string with positional values in Python?",
+                        options: [
+                            "format()",
+                            "fmt()",
+                            "sprintf()",
+                            "printf()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to format a string with f-strings in Python?",
+                        options: [
+                            "f-string",
+                            "format()",
+                            "fmt()",
+                            "sprintf()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to encode a string to bytes in Python?",
+                        options: [
+                            "encode()",
+                            "to_bytes()",
+                            "bytes()",
+                            "encode_to_bytes()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to decode bytes to a string in Python?",
+                        options: [
+                            "decode()",
+                            "to_string()",
+                            "str()",
+                            "decode_to_string()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a string is alphanumeric in Python?",
+                        options: [
+                            "isalnum()",
+                            "alphanumeric()",
+                            "is_alphanumeric()",
+                            "isAlphaNumeric()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a string is alphabetic in Python?",
+                        options: [
+                            "isalpha()",
+                            "alphabetic()",
+                            "is_alphabetic()",
+                            "isAlpha()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a string is numeric in Python?",
+                        options: [
+                            "isnumeric()",
+                            "numeric()",
+                            "is_numeric()",
+                            "isNumeric()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a string is a digit in Python?",
+                        options: [
+                            "isdigit()",
+                            "digit()",
+                            "is_digit()",
+                            "isDigit()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a string is lowercase in Python?",
+                        options: [
+                            "islower()",
+                            "lowercase()",
+                            "is_lowercase()",
+                            "isLower()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a string is uppercase in Python?",
+                        options: [
+                            "isupper()",
+                            "uppercase()",
+                            "is_uppercase()",
+                            "isUpper()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a string is title case in Python?",
+                        options: [
+                            "istitle()",
+                            "titlecase()",
+                            "is_titlecase()",
+                            "isTitle()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a string is whitespace in Python?",
+                        options: [
+                            "isspace()",
+                            "whitespace()",
+                            "is_whitespace()",
+                            "isSpace()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a string is printable in Python?",
+                        options: [
+                            "isprintable()",
+                            "printable()",
+                            "is_printable()",
+                            "isPrintable()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to check if a string is ASCII in Python?",
+                        options: [
+                            "isascii()",
+                            "ascii()",
+                            "is_ascii()",
+                            "isASCII()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to center a string in Python?",
+                        options: [
+                            "center()",
+                            "align_center()",
+                            "to_center()",
+                            "centerAlign()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to left align a string in Python?",
+                        options: [
+                            "ljust()",
+                            "align_left()",
+                            "to_left()",
+                            "leftAlign()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to right align a string in Python?",
+                        options: [
+                            "rjust()",
+                            "align_right()",
+                            "to_right()",
+                            "rightAlign()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to pad a string with zeros on the left in Python?",
+                        options: [
+                            "zfill()",
+                            "zero_fill()",
+                            "pad_zero()",
+                            "zeroPad()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to pad a string with a character on the left in Python?",
+                        options: [
+                            "ljust()",
+                            "rjust()",
+                            "center()",
+                            "pad()"
+                        ],
+                        correctAnswer: 1
+                    },
+                    {
+                        question: "Which method is used to pad a string with a character on the right in Python?",
+                        options: [
+                            "rjust()",
+                            "ljust()",
+                            "center()",
+                            "pad()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to pad a string with a character on both sides in Python?",
+                        options: [
+                            "center()",
+                            "ljust()",
+                            "rjust()",
+                            "pad()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to capitalize the first character of a string in Python?",
+                        options: [
+                            "capitalize()",
+                            "first_upper()",
+                            "to_capitalize()",
+                            "firstUpper()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to swap the case of a string in Python?",
+                        options: [
+                            "swapcase()",
+                            "swap_case()",
+                            "to_swapcase()",
+                            "swapCase()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the casefolded version of a string in Python?",
+                        options: [
+                            "casefold()",
+                            "fold_case()",
+                            "to_casefold()",
+                            "caseFold()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the translated version of a string in Python?",
+                        options: [
+                            "translate()",
+                            "translation()",
+                            "to_translate()",
+                            "translation()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the expanded tabs version of a string in Python?",
+                        options: [
+                            "expandtabs()",
+                            "expand_tabs()",
+                            "to_expandtabs()",
+                            "expandTabs()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the partitioned version of a string in Python?",
+                        options: [
+                            "partition()",
+                            "split_at()",
+                            "divide_at()",
+                            "separate_at()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the right partitioned version of a string in Python?",
+                        options: [
+                            "rpartition()",
+                            "rsplit_at()",
+                            "rdivide_at()",
+                            "rseparate_at()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the lines of a string in Python?",
+                        options: [
+                            "splitlines()",
+                            "lines()",
+                            "get_lines()",
+                            "to_lines()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to get the maketrans translation table in Python?",
+                        options: [
+                            "str.maketrans()",
+                            "maketrans()",
+                            "create_translation()",
+                            "make_translation()"
+                        ],
+                        correctAnswer: 0
+                    }
+                ],
+                hard: [
+                    {
+                        question: "Which method is used to create a list comprehension in Python?",
+                        options: [
+                            "[expression for item in iterable]",
+                            "list(expression for item in iterable)",
+                            "comprehend(expression for item in iterable)",
+                            "generate(expression for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension in Python?",
+                        options: [
+                            "{expression for item in iterable}",
+                            "set(expression for item in iterable)",
+                            "comprehend(expression for item in iterable)",
+                            "generate(expression for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension in Python?",
+                        options: [
+                            "{key: value for item in iterable}",
+                            "dict(key: value for item in iterable)",
+                            "comprehend(key: value for item in iterable)",
+                            "generate(key: value for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression in Python?",
+                        options: [
+                            "(expression for item in iterable)",
+                            "generator(expression for item in iterable)",
+                            "comprehend(expression for item in iterable)",
+                            "generate(expression for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with a condition in Python?",
+                        options: [
+                            "[expression for item in iterable if condition]",
+                            "list(expression for item in iterable if condition)",
+                            "comprehend(expression for item in iterable if condition)",
+                            "generate(expression for item in iterable if condition)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with a condition in Python?",
+                        options: [
+                            "{expression for item in iterable if condition}",
+                            "set(expression for item in iterable if condition)",
+                            "comprehend(expression for item in iterable if condition)",
+                            "generate(expression for item in iterable if condition)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with a condition in Python?",
+                        options: [
+                            "{key: value for item in iterable if condition}",
+                            "dict(key: value for item in iterable if condition)",
+                            "comprehend(key: value for item in iterable if condition)",
+                            "generate(key: value for item in iterable if condition)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with a condition in Python?",
+                        options: [
+                            "(expression for item in iterable if condition)",
+                            "generator(expression for item in iterable if condition)",
+                            "comprehend(expression for item in iterable if condition)",
+                            "generate(expression for item in iterable if condition)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with multiple for clauses in Python?",
+                        options: [
+                            "[expression for item1 in iterable1 for item2 in iterable2]",
+                            "list(expression for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(expression for item1 in iterable1 for item2 in iterable2)",
+                            "generate(expression for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with multiple for clauses in Python?",
+                        options: [
+                            "{expression for item1 in iterable1 for item2 in iterable2}",
+                            "set(expression for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(expression for item1 in iterable1 for item2 in iterable2)",
+                            "generate(expression for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with multiple for clauses in Python?",
+                        options: [
+                            "{key: value for item1 in iterable1 for item2 in iterable2}",
+                            "dict(key: value for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(key: value for item1 in iterable1 for item2 in iterable2)",
+                            "generate(key: value for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with multiple for clauses in Python?",
+                        options: [
+                            "(expression for item1 in iterable1 for item2 in iterable2)",
+                            "generator(expression for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(expression for item1 in iterable1 for item2 in iterable2)",
+                            "generate(expression for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with multiple conditions in Python?",
+                        options: [
+                            "[expression for item in iterable if condition1 and condition2]",
+                            "list(expression for item in iterable if condition1 and condition2)",
+                            "comprehend(expression for item in iterable if condition1 and condition2)",
+                            "generate(expression for item in iterable if condition1 and condition2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with multiple conditions in Python?",
+                        options: [
+                            "{expression for item in iterable if condition1 and condition2}",
+                            "set(expression for item in iterable if condition1 and condition2)",
+                            "comprehend(expression for item in iterable if condition1 and condition2)",
+                            "generate(expression for item in iterable if condition1 and condition2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with multiple conditions in Python?",
+                        options: [
+                            "{key: value for item in iterable if condition1 and condition2}",
+                            "dict(key: value for item in iterable if condition1 and condition2)",
+                            "comprehend(key: value for item in iterable if condition1 and condition2)",
+                            "generate(key: value for item in iterable if condition1 and condition2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with multiple conditions in Python?",
+                        options: [
+                            "(expression for item in iterable if condition1 and condition2)",
+                            "generator(expression for item in iterable if condition1 and condition2)",
+                            "comprehend(expression for item in iterable if condition1 and condition2)",
+                            "generate(expression for item in iterable if condition1 and condition2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with if-else in Python?",
+                        options: [
+                            "[expression1 if condition else expression2 for item in iterable]",
+                            "list(expression1 if condition else expression2 for item in iterable)",
+                            "comprehend(expression1 if condition else expression2 for item in iterable)",
+                            "generate(expression1 if condition else expression2 for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with if-else in Python?",
+                        options: [
+                            "{expression1 if condition else expression2 for item in iterable}",
+                            "set(expression1 if condition else expression2 for item in iterable)",
+                            "comprehend(expression1 if condition else expression2 for item in iterable)",
+                            "generate(expression1 if condition else expression2 for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with if-else in Python?",
+                        options: [
+                            "{key: value1 if condition else value2 for item in iterable}",
+                            "dict(key: value1 if condition else value2 for item in iterable)",
+                            "comprehend(key: value1 if condition else value2 for item in iterable)",
+                            "generate(key: value1 if condition else value2 for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with if-else in Python?",
+                        options: [
+                            "(expression1 if condition else expression2 for item in iterable)",
+                            "generator(expression1 if condition else expression2 for item in iterable)",
+                            "comprehend(expression1 if condition else expression2 for item in iterable)",
+                            "generate(expression1 if condition else expression2 for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with nested loops in Python?",
+                        options: [
+                            "[expression for item1 in iterable1 for item2 in iterable2]",
+                            "list(expression for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(expression for item1 in iterable1 for item2 in iterable2)",
+                            "generate(expression for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with nested loops in Python?",
+                        options: [
+                            "{expression for item1 in iterable1 for item2 in iterable2}",
+                            "set(expression for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(expression for item1 in iterable1 for item2 in iterable2)",
+                            "generate(expression for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with nested loops in Python?",
+                        options: [
+                            "{key: value for item1 in iterable1 for item2 in iterable2}",
+                            "dict(key: value for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(key: value for item1 in iterable1 for item2 in iterable2)",
+                            "generate(key: value for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with nested loops in Python?",
+                        options: [
+                            "(expression for item1 in iterable1 for item2 in iterable2)",
+                            "generator(expression for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(expression for item1 in iterable1 for item2 in iterable2)",
+                            "generate(expression for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with nested conditions in Python?",
+                        options: [
+                            "[expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2]",
+                            "list(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "comprehend(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "generate(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with nested conditions in Python?",
+                        options: [
+                            "{expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2}",
+                            "set(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "comprehend(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "generate(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with nested conditions in Python?",
+                        options: [
+                            "{key: value for item1 in iterable1 if condition1 for item2 in iterable2 if condition2}",
+                            "dict(key: value for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "comprehend(key: value for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "generate(key: value for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with nested conditions in Python?",
+                        options: [
+                            "(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "generator(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "comprehend(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "generate(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with nested if-else in Python?",
+                        options: [
+                            "[expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2]",
+                            "list(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "generate(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with nested if-else in Python?",
+                        options: [
+                            "{expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2}",
+                            "set(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "generate(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with nested if-else in Python?",
+                        options: [
+                            "{key: value1 if condition1 else value2 for item1 in iterable1 for item2 in iterable2}",
+                            "dict(key: value1 if condition1 else value2 for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(key: value1 if condition1 else value2 for item1 in iterable1 for item2 in iterable2)",
+                            "generate(key: value1 if condition1 else value2 for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with nested if-else in Python?",
+                        options: [
+                            "(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "generator(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "generate(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with nested loops and conditions in Python?",
+                        options: [
+                            "[expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2]",
+                            "list(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "comprehend(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "generate(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with nested loops and conditions in Python?",
+                        options: [
+                            "{expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2}",
+                            "set(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "comprehend(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "generate(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with nested loops and conditions in Python?",
+                        options: [
+                            "{key: value for item1 in iterable1 if condition1 for item2 in iterable2 if condition2}",
+                            "dict(key: value for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "comprehend(key: value for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "generate(key: value for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with nested loops and conditions in Python?",
+                        options: [
+                            "(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "generator(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "comprehend(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)",
+                            "generate(expression for item1 in iterable1 if condition1 for item2 in iterable2 if condition2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with nested loops and if-else in Python?",
+                        options: [
+                            "[expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2]",
+                            "list(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "generate(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with nested loops and if-else in Python?",
+                        options: [
+                            "{expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2}",
+                            "set(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "generate(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with nested loops and if-else in Python?",
+                        options: [
+                            "{key: value1 if condition1 else value2 for item1 in iterable1 for item2 in iterable2}",
+                            "dict(key: value1 if condition1 else value2 for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(key: value1 if condition1 else value2 for item1 in iterable1 for item2 in iterable2)",
+                            "generate(key: value1 if condition1 else value2 for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with nested loops and if-else in Python?",
+                        options: [
+                            "(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "generator(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "comprehend(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)",
+                            "generate(expression1 if condition1 else expression2 for item1 in iterable1 for item2 in iterable2)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with nested loops, conditions, and if-else in Python?",
+                        options: [
+                            "[expression1 if condition1 else expression2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4]",
+                            "list(expression1 if condition1 else expression2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4)",
+                            "comprehend(expression1 if condition1 else expression2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4)",
+                            "generate(expression1 if condition1 else expression2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with nested loops, conditions, and if-else in Python?",
+                        options: [
+                            "{expression1 if condition1 else expression2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4}",
+                            "set(expression1 if condition1 else expression2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4)",
+                            "comprehend(expression1 if condition1 else expression2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4)",
+                            "generate(expression1 if condition1 else expression2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with nested loops, conditions, and if-else in Python?",
+                        options: [
+                            "{key: value1 if condition1 else value2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4}",
+                            "dict(key: value1 if condition1 else value2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4)",
+                            "comprehend(key: value1 if condition1 else value2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4)",
+                            "generate(key: value1 if condition1 else value2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with nested loops, conditions, and if-else in Python?",
+                        options: [
+                            "(expression1 if condition1 else expression2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4)",
+                            "generator(expression1 if condition1 else expression2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4)",
+                            "comprehend(expression1 if condition1 else expression2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4)",
+                            "generate(expression1 if condition1 else expression2 for item1 in iterable1 if condition3 for item2 in iterable2 if condition4)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with a function call in Python?",
+                        options: [
+                            "[function(item) for item in iterable]",
+                            "list(function(item) for item in iterable)",
+                            "comprehend(function(item) for item in iterable)",
+                            "generate(function(item) for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with a function call in Python?",
+                        options: [
+                            "{function(item) for item in iterable}",
+                            "set(function(item) for item in iterable)",
+                            "comprehend(function(item) for item in iterable)",
+                            "generate(function(item) for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with a function call in Python?",
+                        options: [
+                            "{key: function(item) for item in iterable}",
+                            "dict(key: function(item) for item in iterable)",
+                            "comprehend(key: function(item) for item in iterable)",
+                            "generate(key: function(item) for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with a function call in Python?",
+                        options: [
+                            "(function(item) for item in iterable)",
+                            "generator(function(item) for item in iterable)",
+                            "comprehend(function(item) for item in iterable)",
+                            "generate(function(item) for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with a lambda function in Python?",
+                        options: [
+                            "[(lambda x: expression)(item) for item in iterable]",
+                            "list((lambda x: expression)(item) for item in iterable)",
+                            "comprehend((lambda x: expression)(item) for item in iterable)",
+                            "generate((lambda x: expression)(item) for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with a lambda function in Python?",
+                        options: [
+                            "{(lambda x: expression)(item) for item in iterable}",
+                            "set((lambda x: expression)(item) for item in iterable)",
+                            "comprehend((lambda x: expression)(item) for item in iterable)",
+                            "generate((lambda x: expression)(item) for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with a lambda function in Python?",
+                        options: [
+                            "{key: (lambda x: expression)(item) for item in iterable}",
+                            "dict(key: (lambda x: expression)(item) for item in iterable)",
+                            "comprehend(key: (lambda x: expression)(item) for item in iterable)",
+                            "generate(key: (lambda x: expression)(item) for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with a lambda function in Python?",
+                        options: [
+                            "((lambda x: expression)(item) for item in iterable)",
+                            "generator((lambda x: expression)(item) for item in iterable)",
+                            "comprehend((lambda x: expression)(item) for item in iterable)",
+                            "generate((lambda x: expression)(item) for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with a method call in Python?",
+                        options: [
+                            "[item.method() for item in iterable]",
+                            "list(item.method() for item in iterable)",
+                            "comprehend(item.method() for item in iterable)",
+                            "generate(item.method() for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with a method call in Python?",
+                        options: [
+                            "{item.method() for item in iterable}",
+                            "set(item.method() for item in iterable)",
+                            "comprehend(item.method() for item in iterable)",
+                            "generate(item.method() for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with a method call in Python?",
+                        options: [
+                            "{key: item.method() for item in iterable}",
+                            "dict(key: item.method() for item in iterable)",
+                            "comprehend(key: item.method() for item in iterable)",
+                            "generate(key: item.method() for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with a method call in Python?",
+                        options: [
+                            "(item.method() for item in iterable)",
+                            "generator(item.method() for item in iterable)",
+                            "comprehend(item.method() for item in iterable)",
+                            "generate(item.method() for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with an attribute access in Python?",
+                        options: [
+                            "[item.attribute for item in iterable]",
+                            "list(item.attribute for item in iterable)",
+                            "comprehend(item.attribute for item in iterable)",
+                            "generate(item.attribute for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with an attribute access in Python?",
+                        options: [
+                            "{item.attribute for item in iterable}",
+                            "set(item.attribute for item in iterable)",
+                            "comprehend(item.attribute for item in iterable)",
+                            "generate(item.attribute for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with an attribute access in Python?",
+                        options: [
+                            "{key: item.attribute for item in iterable}",
+                            "dict(key: item.attribute for item in iterable)",
+                            "comprehend(key: item.attribute for item in iterable)",
+                            "generate(key: item.attribute for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with an attribute access in Python?",
+                        options: [
+                            "(item.attribute for item in iterable)",
+                            "generator(item.attribute for item in iterable)",
+                            "comprehend(item.attribute for item in iterable)",
+                            "generate(item.attribute for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with an index in Python?",
+                        options: [
+                            "[expression for index, item in enumerate(iterable)]",
+                            "list(expression for index, item in enumerate(iterable))",
+                            "comprehend(expression for index, item in enumerate(iterable))",
+                            "generate(expression for index, item in enumerate(iterable))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with an index in Python?",
+                        options: [
+                            "{expression for index, item in enumerate(iterable)}",
+                            "set(expression for index, item in enumerate(iterable))",
+                            "comprehend(expression for index, item in enumerate(iterable))",
+                            "generate(expression for index, item in enumerate(iterable))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with an index in Python?",
+                        options: [
+                            "{index: expression for index, item in enumerate(iterable)}",
+                            "dict(index: expression for index, item in enumerate(iterable))",
+                            "comprehend(index: expression for index, item in enumerate(iterable))",
+                            "generate(index: expression for index, item in enumerate(iterable))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with an index in Python?",
+                        options: [
+                            "(expression for index, item in enumerate(iterable))",
+                            "generator(expression for index, item in enumerate(iterable))",
+                            "comprehend(expression for index, item in enumerate(iterable))",
+                            "generate(expression for index, item in enumerate(iterable))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with zip in Python?",
+                        options: [
+                            "[expression for item1, item2 in zip(iterable1, iterable2)]",
+                            "list(expression for item1, item2 in zip(iterable1, iterable2))",
+                            "comprehend(expression for item1, item2 in zip(iterable1, iterable2))",
+                            "generate(expression for item1, item2 in zip(iterable1, iterable2))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with zip in Python?",
+                        options: [
+                            "{expression for item1, item2 in zip(iterable1, iterable2)}",
+                            "set(expression for item1, item2 in zip(iterable1, iterable2))",
+                            "comprehend(expression for item1, item2 in zip(iterable1, iterable2))",
+                            "generate(expression for item1, item2 in zip(iterable1, iterable2))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with zip in Python?",
+                        options: [
+                            "{item1: item2 for item1, item2 in zip(iterable1, iterable2)}",
+                            "dict(item1: item2 for item1, item2 in zip(iterable1, iterable2))",
+                            "comprehend(item1: item2 for item1, item2 in zip(iterable1, iterable2))",
+                            "generate(item1: item2 for item1, item2 in zip(iterable1, iterable2))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with zip in Python?",
+                        options: [
+                            "(expression for item1, item2 in zip(iterable1, iterable2))",
+                            "generator(expression for item1, item2 in zip(iterable1, iterable2))",
+                            "comprehend(expression for item1, item2 in zip(iterable1, iterable2))",
+                            "generate(expression for item1, item2 in zip(iterable1, iterable2))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with filter in Python?",
+                        options: [
+                            "[expression for item in iterable if condition]",
+                            "list(expression for item in iterable if condition)",
+                            "comprehend(expression for item in iterable if condition)",
+                            "generate(expression for item in iterable if condition)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with filter in Python?",
+                        options: [
+                            "{expression for item in iterable if condition}",
+                            "set(expression for item in iterable if condition)",
+                            "comprehend(expression for item in iterable if condition)",
+                            "generate(expression for item in iterable if condition)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with filter in Python?",
+                        options: [
+                            "{key: value for item in iterable if condition}",
+                            "dict(key: value for item in iterable if condition)",
+                            "comprehend(key: value for item in iterable if condition)",
+                            "generate(key: value for item in iterable if condition)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with filter in Python?",
+                        options: [
+                            "(expression for item in iterable if condition)",
+                            "generator(expression for item in iterable if condition)",
+                            "comprehend(expression for item in iterable if condition)",
+                            "generate(expression for item in iterable if condition)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with map in Python?",
+                        options: [
+                            "[expression for item in iterable]",
+                            "list(expression for item in iterable)",
+                            "comprehend(expression for item in iterable)",
+                            "generate(expression for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with map in Python?",
+                        options: [
+                            "{expression for item in iterable}",
+                            "set(expression for item in iterable)",
+                            "comprehend(expression for item in iterable)",
+                            "generate(expression for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with map in Python?",
+                        options: [
+                            "{key: value for item in iterable}",
+                            "dict(key: value for item in iterable)",
+                            "comprehend(key: value for item in iterable)",
+                            "generate(key: value for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with map in Python?",
+                        options: [
+                            "(expression for item in iterable)",
+                            "generator(expression for item in iterable)",
+                            "comprehend(expression for item in iterable)",
+                            "generate(expression for item in iterable)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with reduce in Python?",
+                        options: [
+                            "No direct way, use functools.reduce()",
+                            "list(reduce(function, iterable))",
+                            "comprehend(reduce(function, iterable))",
+                            "generate(reduce(function, iterable))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with reduce in Python?",
+                        options: [
+                            "No direct way, use functools.reduce()",
+                            "set(reduce(function, iterable))",
+                            "comprehend(reduce(function, iterable))",
+                            "generate(reduce(function, iterable))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with reduce in Python?",
+                        options: [
+                            "No direct way, use functools.reduce()",
+                            "dict(reduce(function, iterable))",
+                            "comprehend(reduce(function, iterable))",
+                            "generate(reduce(function, iterable))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with reduce in Python?",
+                        options: [
+                            "No direct way, use functools.reduce()",
+                            "generator(reduce(function, iterable))",
+                            "comprehend(reduce(function, iterable))",
+                            "generate(reduce(function, iterable))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a list comprehension with recursion in Python?",
+                        options: [
+                            "No direct way, use a recursive function",
+                            "list(recursive_function(iterable))",
+                            "comprehend(recursive_function(iterable))",
+                            "generate(recursive_function(iterable))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a set comprehension with recursion in Python?",
+                        options: [
+                            "No direct way, use a recursive function",
+                            "set(recursive_function(iterable))",
+                            "comprehend(recursive_function(iterable))",
+                            "generate(recursive_function(iterable))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a dictionary comprehension with recursion in Python?",
+                        options: [
+                            "No direct way, use a recursive function",
+                            "dict(recursive_function(iterable))",
+                            "comprehend(recursive_function(iterable))",
+                            "generate(recursive_function(iterable))"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to create a generator expression with recursion in Python?",
+                        options: [
+                            "No direct way, use a recursive function",
+                            "generator(recursive_function(iterable))",
+                            "comprehend(recursive_function(iterable))",
+                            "generate(recursive_function(iterable))"
                         ],
                         correctAnswer: 0
                     }
@@ -4456,9 +15587,7 @@ const questionDatabase = {
                             "usePortal()"
                         ],
                         correctAnswer: 0
-                    }
-                ],
-                medium: [
+                    },
                     {
                         question: "Which method is used to render a React component to the DOM?",
                         options: [
@@ -4658,9 +15787,7 @@ const questionDatabase = {
                             "onMouseClick"
                         ],
                         correctAnswer: 0
-                    }
-                ],
-                hard: [
+                    },
                     {
                         question: "Which method is used to handle mouse over in React?",
                         options: [
@@ -4861,8 +15988,1413 @@ const questionDatabase = {
                         ],
                         correctAnswer: 0
                     }
+                ],
+                medium: [
+                    {
+                        question: "Which method is used to handle mouse over in React?",
+                        options: [
+                            "onMouseOver",
+                            "handleMouseOver",
+                            "mouseOver",
+                            "onHover"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse out in React?",
+                        options: [
+                            "onMouseOut",
+                            "handleMouseOut",
+                            "mouseOut",
+                            "onLeave"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse move in React?",
+                        options: [
+                            "onMouseMove",
+                            "handleMouseMove",
+                            "mouseMove",
+                            "onDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse down in React?",
+                        options: [
+                            "onMouseDown",
+                            "handleMouseDown",
+                            "mouseDown",
+                            "onPress"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse up in React?",
+                        options: [
+                            "onMouseUp",
+                            "handleMouseUp",
+                            "mouseUp",
+                            "onRelease"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch start in React?",
+                        options: [
+                            "onTouchStart",
+                            "handleTouchStart",
+                            "touchStart",
+                            "onTap"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch end in React?",
+                        options: [
+                            "onTouchEnd",
+                            "handleTouchEnd",
+                            "touchEnd",
+                            "onUntap"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch move in React?",
+                        options: [
+                            "onTouchMove",
+                            "handleTouchMove",
+                            "touchMove",
+                            "onSwipe"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch cancel in React?",
+                        options: [
+                            "onTouchCancel",
+                            "handleTouchCancel",
+                            "touchCancel",
+                            "onCancel"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag start in React?",
+                        options: [
+                            "onDragStart",
+                            "handleDragStart",
+                            "dragStart",
+                            "onStartDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag end in React?",
+                        options: [
+                            "onDragEnd",
+                            "handleDragEnd",
+                            "dragEnd",
+                            "onEndDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag over in React?",
+                        options: [
+                            "onDragOver",
+                            "handleDragOver",
+                            "dragOver",
+                            "onHoverDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag enter in React?",
+                        options: [
+                            "onDragEnter",
+                            "handleDragEnter",
+                            "dragEnter",
+                            "onEnterDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag leave in React?",
+                        options: [
+                            "onDragLeave",
+                            "handleDragLeave",
+                            "dragLeave",
+                            "onLeaveDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drop in React?",
+                        options: [
+                            "onDrop",
+                            "handleDrop",
+                            "drop",
+                            "onRelease"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle scroll in React?",
+                        options: [
+                            "onScroll",
+                            "handleScroll",
+                            "scroll",
+                            "onPageScroll"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle wheel in React?",
+                        options: [
+                            "onWheel",
+                            "handleWheel",
+                            "wheel",
+                            "onMouseWheel"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle resize in React?",
+                        options: [
+                            "onResize",
+                            "handleResize",
+                            "resize",
+                            "onWindowResize"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle load in React?",
+                        options: [
+                            "onLoad",
+                            "handleLoad",
+                            "load",
+                            "onPageLoad"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle error in React?",
+                        options: [
+                            "onError",
+                            "handleError",
+                            "error",
+                            "onCatch"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse over in React?",
+                        options: [
+                            "onMouseOver",
+                            "handleMouseOver",
+                            "mouseOver",
+                            "onHover"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse out in React?",
+                        options: [
+                            "onMouseOut",
+                            "handleMouseOut",
+                            "mouseOut",
+                            "onLeave"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse move in React?",
+                        options: [
+                            "onMouseMove",
+                            "handleMouseMove",
+                            "mouseMove",
+                            "onDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse down in React?",
+                        options: [
+                            "onMouseDown",
+                            "handleMouseDown",
+                            "mouseDown",
+                            "onPress"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse up in React?",
+                        options: [
+                            "onMouseUp",
+                            "handleMouseUp",
+                            "mouseUp",
+                            "onRelease"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch start in React?",
+                        options: [
+                            "onTouchStart",
+                            "handleTouchStart",
+                            "touchStart",
+                            "onTap"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch end in React?",
+                        options: [
+                            "onTouchEnd",
+                            "handleTouchEnd",
+                            "touchEnd",
+                            "onUntap"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch move in React?",
+                        options: [
+                            "onTouchMove",
+                            "handleTouchMove",
+                            "touchMove",
+                            "onSwipe"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch cancel in React?",
+                        options: [
+                            "onTouchCancel",
+                            "handleTouchCancel",
+                            "touchCancel",
+                            "onCancel"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag start in React?",
+                        options: [
+                            "onDragStart",
+                            "handleDragStart",
+                            "dragStart",
+                            "onStartDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag end in React?",
+                        options: [
+                            "onDragEnd",
+                            "handleDragEnd",
+                            "dragEnd",
+                            "onEndDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag over in React?",
+                        options: [
+                            "onDragOver",
+                            "handleDragOver",
+                            "dragOver",
+                            "onHoverDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag enter in React?",
+                        options: [
+                            "onDragEnter",
+                            "handleDragEnter",
+                            "dragEnter",
+                            "onEnterDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag leave in React?",
+                        options: [
+                            "onDragLeave",
+                            "handleDragLeave",
+                            "dragLeave",
+                            "onLeaveDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drop in React?",
+                        options: [
+                            "onDrop",
+                            "handleDrop",
+                            "drop",
+                            "onRelease"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle scroll in React?",
+                        options: [
+                            "onScroll",
+                            "handleScroll",
+                            "scroll",
+                            "onPageScroll"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle wheel in React?",
+                        options: [
+                            "onWheel",
+                            "handleWheel",
+                            "wheel",
+                            "onMouseWheel"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle resize in React?",
+                        options: [
+                            "onResize",
+                            "handleResize",
+                            "resize",
+                            "onWindowResize"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle load in React?",
+                        options: [
+                            "onLoad",
+                            "handleLoad",
+                            "load",
+                            "onPageLoad"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle error in React?",
+                        options: [
+                            "onError",
+                            "handleError",
+                            "error",
+                            "onCatch"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse over in React?",
+                        options: [
+                            "onMouseOver",
+                            "handleMouseOver",
+                            "mouseOver",
+                            "onHover"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse out in React?",
+                        options: [
+                            "onMouseOut",
+                            "handleMouseOut",
+                            "mouseOut",
+                            "onLeave"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse move in React?",
+                        options: [
+                            "onMouseMove",
+                            "handleMouseMove",
+                            "mouseMove",
+                            "onDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse down in React?",
+                        options: [
+                            "onMouseDown",
+                            "handleMouseDown",
+                            "mouseDown",
+                            "onPress"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse up in React?",
+                        options: [
+                            "onMouseUp",
+                            "handleMouseUp",
+                            "mouseUp",
+                            "onRelease"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch start in React?",
+                        options: [
+                            "onTouchStart",
+                            "handleTouchStart",
+                            "touchStart",
+                            "onTap"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch end in React?",
+                        options: [
+                            "onTouchEnd",
+                            "handleTouchEnd",
+                            "touchEnd",
+                            "onUntap"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch move in React?",
+                        options: [
+                            "onTouchMove",
+                            "handleTouchMove",
+                            "touchMove",
+                            "onSwipe"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch cancel in React?",
+                        options: [
+                            "onTouchCancel",
+                            "handleTouchCancel",
+                            "touchCancel",
+                            "onCancel"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag start in React?",
+                        options: [
+                            "onDragStart",
+                            "handleDragStart",
+                            "dragStart",
+                            "onStartDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag end in React?",
+                        options: [
+                            "onDragEnd",
+                            "handleDragEnd",
+                            "dragEnd",
+                            "onEndDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag over in React?",
+                        options: [
+                            "onDragOver",
+                            "handleDragOver",
+                            "dragOver",
+                            "onHoverDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag enter in React?",
+                        options: [
+                            "onDragEnter",
+                            "handleDragEnter",
+                            "dragEnter",
+                            "onEnterDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag leave in React?",
+                        options: [
+                            "onDragLeave",
+                            "handleDragLeave",
+                            "dragLeave",
+                            "onLeaveDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drop in React?",
+                        options: [
+                            "onDrop",
+                            "handleDrop",
+                            "drop",
+                            "onRelease"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle scroll in React?",
+                        options: [
+                            "onScroll",
+                            "handleScroll",
+                            "scroll",
+                            "onPageScroll"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle wheel in React?",
+                        options: [
+                            "onWheel",
+                            "handleWheel",
+                            "wheel",
+                            "onMouseWheel"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle resize in React?",
+                        options: [
+                            "onResize",
+                            "handleResize",
+                            "resize",
+                            "onWindowResize"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle load in React?",
+                        options: [
+                            "onLoad",
+                            "handleLoad",
+                            "load",
+                            "onPageLoad"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle error in React?",
+                        options: [
+                            "onError",
+                            "handleError",
+                            "error",
+                            "onCatch"
+                        ],
+                        correctAnswer: 0
+                    }
+                ],
+                hard: [       
+                    {
+                        question: "Which method is used to handle mouse over in React?",
+                        options: [
+                            "onMouseOver",
+                            "handleMouseOver",
+                            "mouseOver",
+                            "onHover"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse out in React?",
+                        options: [
+                            "onMouseOut",
+                            "handleMouseOut",
+                            "mouseOut",
+                            "onLeave"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse move in React?",
+                        options: [
+                            "onMouseMove",
+                            "handleMouseMove",
+                            "mouseMove",
+                            "onDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse down in React?",
+                        options: [
+                            "onMouseDown",
+                            "handleMouseDown",
+                            "mouseDown",
+                            "onPress"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle mouse up in React?",
+                        options: [
+                            "onMouseUp",
+                            "handleMouseUp",
+                            "mouseUp",
+                            "onRelease"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch start in React?",
+                        options: [
+                            "onTouchStart",
+                            "handleTouchStart",
+                            "touchStart",
+                            "onTap"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch end in React?",
+                        options: [
+                            "onTouchEnd",
+                            "handleTouchEnd",
+                            "touchEnd",
+                            "onUntap"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch move in React?",
+                        options: [
+                            "onTouchMove",
+                            "handleTouchMove",
+                            "touchMove",
+                            "onSwipe"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle touch cancel in React?",
+                        options: [
+                            "onTouchCancel",
+                            "handleTouchCancel",
+                            "touchCancel",
+                            "onCancel"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag start in React?",
+                        options: [
+                            "onDragStart",
+                            "handleDragStart",
+                            "dragStart",
+                            "onStartDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag end in React?",
+                        options: [
+                            "onDragEnd",
+                            "handleDragEnd",
+                            "dragEnd",
+                            "onEndDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag over in React?",
+                        options: [
+                            "onDragOver",
+                            "handleDragOver",
+                            "dragOver",
+                            "onHoverDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag enter in React?",
+                        options: [
+                            "onDragEnter",
+                            "handleDragEnter",
+                            "dragEnter",
+                            "onEnterDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drag leave in React?",
+                        options: [
+                            "onDragLeave",
+                            "handleDragLeave",
+                            "dragLeave",
+                            "onLeaveDrag"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle drop in React?",
+                        options: [
+                            "onDrop",
+                            "handleDrop",
+                            "drop",
+                            "onRelease"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle scroll in React?",
+                        options: [
+                            "onScroll",
+                            "handleScroll",
+                            "scroll",
+                            "onPageScroll"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle wheel in React?",
+                        options: [
+                            "onWheel",
+                            "handleWheel",
+                            "wheel",
+                            "onMouseWheel"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle resize in React?",
+                        options: [
+                            "onResize",
+                            "handleResize",
+                            "resize",
+                            "onWindowResize"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle load in React?",
+                        options: [
+                            "onLoad",
+                            "handleLoad",
+                            "load",
+                            "onPageLoad"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which method is used to handle error in React?",
+                        options: [
+                            "onError",
+                            "handleError",
+                            "error",
+                            "onCatch"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to optimize performance by memoizing expensive calculations?",
+                        options: [
+                            "useMemo",
+                            "useCallback",
+                            "useMemoize",
+                            "useCache"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to optimize performance by memoizing functions?",
+                        options: [
+                            "useCallback",
+                            "useMemo",
+                            "useFunction",
+                            "useMemoize"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to interact with browser APIs?",
+                        options: [
+                            "useEffect",
+                            "useLayoutEffect",
+                            "useBrowserEffect",
+                            "useDOMEffect"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to perform side effects that affect the DOM?",
+                        options: [
+                            "useLayoutEffect",
+                            "useEffect",
+                            "useDOMEffect",
+                            "useBrowserEffect"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to create refs for accessing DOM elements?",
+                        options: [
+                            "useRef",
+                            "useCreateRef",
+                            "useDOMRef",
+                            "useElementRef"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to manage component state?",
+                        options: [
+                            "useState",
+                            "useReducer",
+                            "useManageState",
+                            "useComponentState"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to manage complex state logic?",
+                        options: [
+                            "useReducer",
+                            "useState",
+                            "useComplexState",
+                            "useManageState"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to access context values?",
+                        options: [
+                            "useContext",
+                            "useContextValue",
+                            "useGetContext",
+                            "useConsumeContext"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to create custom hooks?",
+                        options: [
+                            "No specific hook, just create a function",
+                            "useCustom",
+                            "createHook",
+                            "useCreateHook"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to debug components?",
+                        options: [
+                            "useDebugValue",
+                            "useDebug",
+                            "useLog",
+                            "useTrace"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to defer updates?",
+                        options: [
+                            "useDeferredValue",
+                            "useDefer",
+                            "useDelay",
+                            "usePostpone"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to transition between UI states?",
+                        options: [
+                            "useTransition",
+                            "useChange",
+                            "useSwitch",
+                            "useNavigate"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to get the previous state or props?",
+                        options: [
+                            "usePrevious",
+                            "useBefore",
+                            "useLast",
+                            "usePast"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to perform side effects only once?",
+                        options: [
+                            "useEffect with empty dependency array",
+                            "useOnce",
+                            "useSingleEffect",
+                            "useInitialEffect"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to perform side effects on every render?",
+                        options: [
+                            "useEffect without dependency array",
+                            "useEveryEffect",
+                            "useAlwaysEffect",
+                            "useRenderEffect"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to perform side effects when specific values change?",
+                        options: [
+                            "useEffect with dependency array",
+                            "useWatch",
+                            "useObserve",
+                            "useTrack"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to clean up side effects?",
+                        options: [
+                            "Return a function from useEffect",
+                            "useCleanup",
+                            "useDispose",
+                            "useUnsubscribe"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to avoid infinite loops in useEffect?",
+                        options: [
+                            "Dependency array",
+                            "useControl",
+                            "useLimit",
+                            "useBreak"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to access the DOM before browser paint?",
+                        options: [
+                            "useLayoutEffect",
+                            "useEffect",
+                            "useDOMEffect",
+                            "usePaintEffect"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to create immutable values?",
+                        options: [
+                            "useMemo",
+                            "useImmutable",
+                            "useConstant",
+                            "useFixed"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to create stable function references?",
+                        options: [
+                            "useCallback",
+                            "useStable",
+                            "useFixedFunction",
+                            "useImmutableFunction"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to manage form state?",
+                        options: [
+                            "useState",
+                            "useReducer",
+                            "useFormState",
+                            "useControlledForm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to manage uncontrolled form state?",
+                        options: [
+                            "useRef",
+                            "useState",
+                            "useUncontrolled",
+                            "useNativeForm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to validate forms?",
+                        options: [
+                            "Custom validation logic",
+                            "useValidation",
+                            "useFormValidation",
+                            "useCheck"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle form submission?",
+                        options: [
+                            "onSubmit event handler",
+                            "useSubmit",
+                            "useFormSubmit",
+                            "useHandleSubmit"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle async operations?",
+                        options: [
+                            "useEffect with async function",
+                            "useAsync",
+                            "usePromise",
+                            "useAwait"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle async data fetching?",
+                        options: [
+                            "useEffect with fetch",
+                            "useFetch",
+                            "useData",
+                            "useRequest"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle loading states?",
+                        options: [
+                            "useState",
+                            "useLoading",
+                            "useStatus",
+                            "useState"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle error states?",
+                        options: [
+                            "useState",
+                            "useError",
+                            "useCatch",
+                            "useException"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle success states?",
+                        options: [
+                            "useState",
+                            "useSuccess",
+                            "useComplete",
+                            "useDone"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle pagination?",
+                        options: [
+                            "useState",
+                            "usePagination",
+                            "usePage",
+                            "useNavigate"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle infinite scrolling?",
+                        options: [
+                            "useEffect with scroll event",
+                            "useInfiniteScroll",
+                            "useScroll",
+                            "useLoadMore"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle debouncing?",
+                        options: [
+                            "useEffect with setTimeout",
+                            "useDebounce",
+                            "useDelay",
+                            "useThrottle"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle throttling?",
+                        options: [
+                            "useEffect with setInterval",
+                            "useThrottle",
+                            "useLimit",
+                            "useRate"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle animations?",
+                        options: [
+                            "useEffect with CSS transitions",
+                            "useAnimation",
+                            "useTransition",
+                            "useMotion"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle timers?",
+                        options: [
+                            "useEffect with setTimeout/setInterval",
+                            "useTimer",
+                            "useClock",
+                            "useSchedule"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle event listeners?",
+                        options: [
+                            "useEffect with addEventListener",
+                            "useEventListener",
+                            "useEvent",
+                            "useListen"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle window size?",
+                        options: [
+                            "useEffect with resize event",
+                            "useWindowSize",
+                            "useResize",
+                            "useViewport"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle media queries?",
+                        options: [
+                            "useEffect with matchMedia",
+                            "useMediaQuery",
+                            "useResponsive",
+                            "useBreakpoint"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle local storage?",
+                        options: [
+                            "useEffect with localStorage",
+                            "useLocalStorage",
+                            "useStorage",
+                            "usePersist"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle session storage?",
+                        options: [
+                            "useEffect with sessionStorage",
+                            "useSessionStorage",
+                            "useSession",
+                            "useTempStorage"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle cookies?",
+                        options: [
+                            "useEffect with document.cookie",
+                            "useCookies",
+                            "useCookie",
+                            "useBrowserCookie"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle web sockets?",
+                        options: [
+                            "useEffect with WebSocket API",
+                            "useWebSocket",
+                            "useSocket",
+                            "useConnection"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle geolocation?",
+                        options: [
+                            "useEffect with navigator.geolocation",
+                            "useGeolocation",
+                            "useLocation",
+                            "useGPS"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle device orientation?",
+                        options: [
+                            "useEffect with DeviceOrientationEvent",
+                            "useOrientation",
+                            "useDevice",
+                            "useRotate"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle device motion?",
+                        options: [
+                            "useEffect with DeviceMotionEvent",
+                            "useMotion",
+                            "useDeviceMotion",
+                            "useAccelerometer"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle battery status?",
+                        options: [
+                            "useEffect with navigator.getBattery",
+                            "useBattery",
+                            "usePower",
+                            "useCharge"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle network status?",
+                        options: [
+                            "useEffect with navigator.onLine",
+                            "useNetwork",
+                            "useConnection",
+                            "useOnline"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle visibility changes?",
+                        options: [
+                            "useEffect with Page Visibility API",
+                            "useVisibility",
+                            "useFocus",
+                            "useTab"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle fullscreen changes?",
+                        options: [
+                            "useEffect with Fullscreen API",
+                            "useFullscreen",
+                            "useScreen",
+                            "useView"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle clipboard events?",
+                        options: [
+                            "useEffect with Clipboard API",
+                            "useClipboard",
+                            "useCopy",
+                            "usePaste"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle notifications?",
+                        options: [
+                            "useEffect with Notification API",
+                            "useNotification",
+                            "useAlert",
+                            "useToast"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle service workers?",
+                        options: [
+                            "useEffect with Service Worker API",
+                            "useServiceWorker",
+                            "useWorker",
+                            "useBackground"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle web workers?",
+                        options: [
+                            "useEffect with Worker API",
+                            "useWebWorker",
+                            "useWorker",
+                            "useThread"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle shared workers?",
+                        options: [
+                            "useEffect with SharedWorker API",
+                            "useSharedWorker",
+                            "useShared",
+                            "useCommonWorker"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle web locks?",
+                        options: [
+                            "useEffect with Web Locks API",
+                            "useWebLock",
+                            "useLock",
+                            "useMutex"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle web streams?",
+                        options: [
+                            "useEffect with Streams API",
+                            "useStream",
+                            "useFlow",
+                            "usePipe"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle web payments?",
+                        options: [
+                            "useEffect with Payment Request API",
+                            "usePayment",
+                            "useCheckout",
+                            "usePurchase"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle web authentication?",
+                        options: [
+                            "useEffect with Web Authentication API",
+                            "useWebAuthn",
+                            "useAuth",
+                            "useLogin"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which hook is used to handle credentials management?",
+                        options: [
+                            "useEffect with Credential Management API",
+                            "useCredential",
+                            "useLogin",
+                            "useAuth"
+                        ],
+                        correctAnswer: 0
+                    },
                 ]
             },
+
             php: {
                 easy: [
                     {
@@ -4880,6 +17412,7 @@ const questionDatabase = {
                         options: [
                             "?>",
                             "%>",
+                            "</script>",
                             "All of the above"
                         ],
                         correctAnswer: 0
@@ -5063,128 +17596,6 @@ const questionDatabase = {
                             "extract_values()"
                         ],
                         correctAnswer: 0
-                    }
-                ],
-                medium: [
-                    {
-                        question: "Which function is used to merge two or more arrays in PHP?",
-                        options: [
-                            "array_merge()",
-                            "merge()",
-                            "combine()",
-                            "join()"
-                        ],
-                        correctAnswer: 0
-                    },
-                    {
-                        question: "Which function is used to intersect two or more arrays in PHP?",
-                        options: [
-                            "array_intersect()",
-                            "intersect()",
-                            "common()",
-                            "overlap()"
-                        ],
-                        correctAnswer: 0
-                    },
-                    {
-                        question: "Which function is used to get the difference between two or more arrays in PHP?",
-                        options: [
-                            "array_diff()",
-                            "diff()",
-                            "difference()",
-                            "subtract()"
-                        ],
-                        correctAnswer: 0
-                    },
-                    {
-                        question: "Which function is used to filter an array using a callback function in PHP?",
-                        options: [
-                            "array_filter()",
-                            "filter()",
-                            "select()",
-                            "where()"
-                        ],
-                        correctAnswer: 0
-                    },
-                    {
-                        question: "Which function is used to apply a function to all elements of an array in PHP?",
-                        options: [
-                            "array_map()",
-                            "map()",
-                            "apply()",
-                            "transform()"
-                        ],
-                        correctAnswer: 0
-                    },
-                    {
-                        question: "Which function is used to reduce an array to a single value using a callback function in PHP?",
-                        options: [
-                            "array_reduce()",
-                            "reduce()",
-                            "combine()",
-                            "calculate()"
-                        ],
-                        correctAnswer: 0
-                    },
-                    {
-                        question: "Which function is used to check if a variable is an array in PHP?",
-                        options: [
-                            "is_array()",
-                            "array()",
-                            "type()",
-                            "check()"
-                        ],
-                        correctAnswer: 0
-                    },
-                    {
-                        question: "Which function is used to check if a variable is a string in PHP?",
-                        options: [
-                            "is_string()",
-                            "string()",
-                            "type()",
-                            "check()"
-                        ],
-                        correctAnswer: 0
-                    },
-                    {
-                        question: "Which function is used to check if a variable is an integer in PHP?",
-                        options: [
-                            "is_int()",
-                            "int()",
-                            "integer()",
-                            "type()"
-                        ],
-                        correctAnswer: 0
-                    },
-                    {
-                        question: "Which function is used to check if a variable is a float in PHP?",
-                        options: [
-                            "is_float()",
-                            "float()",
-                            "double()",
-                            "type()"
-                        ],
-                        correctAnswer: 0
-                    },
-                    {
-                        question: "Which function is used to check if a variable is a boolean in PHP?",
-                        options: [
-                            "is_bool()",
-                            "bool()",
-                            "boolean()",
-                            "type()"
-                        ],
-                        correctAnswer: 0
-                    },
-                    {
-                        question: "Which function is used to check if a variable is null in PHP?",
-                        options: [
-                            "is_null()",
-                            "null()",
-                            "empty()",
-                            "type()"
-                        ],
-                        correctAnswer: 0
                     },
                     {
                         question: "Which function is used to check if a variable is set in PHP?",
@@ -5265,9 +17676,7 @@ const questionDatabase = {
                             "current_time()"
                         ],
                         correctAnswer: 0
-                    }
-                ],
-                hard: [
+                    },
                     {
                         question: "Which function is used to format a date in PHP?",
                         options: [
@@ -5465,6 +17874,1200 @@ const questionDatabase = {
                             "start_session()",
                             "begin_session()",
                             "open_session()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to destroy a session in PHP?",
+                        options: [
+                            "session_destroy()",
+                            "destroy_session()",
+                            "end_session()",
+                            "close_session()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set a session variable in PHP?",
+                        options: [
+                            "$_SESSION",
+                            "session_set()",
+                            "set_session()",
+                            "session_variable()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get a session variable in PHP?",
+                        options: [
+                            "$_SESSION",
+                            "session_get()",
+                            "get_session()",
+                            "session_variable()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to unset a session variable in PHP?",
+                        options: [
+                            "unset()",
+                            "session_unset()",
+                            "unset_session()",
+                            "remove_session()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set a cookie in PHP?",
+                        options: [
+                            "setcookie()",
+                            "cookie_set()",
+                            "set_cookie()",
+                            "create_cookie()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get a cookie in PHP?",
+                        options: [
+                            "$_COOKIE",
+                            "cookie_get()",
+                            "get_cookie()",
+                            "cookie()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to delete a cookie in PHP?",
+                        options: [
+                            "setcookie() with past expiration",
+                            "cookie_delete()",
+                            "delete_cookie()",
+                            "unset_cookie()"
+                        ],
+                        correctAnswer: 0
+                    }
+                ],
+                medium: [
+                    {
+                        question: "Which function is used to merge two or more arrays in PHP?",
+                        options: [
+                            "array_merge()",
+                            "merge()",
+                            "combine()",
+                            "join()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to intersect two or more arrays in PHP?",
+                        options: [
+                            "array_intersect()",
+                            "intersect()",
+                            "common()",
+                            "overlap()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the difference between two or more arrays in PHP?",
+                        options: [
+                            "array_diff()",
+                            "difference()",
+                            "subtract()",
+                            "exclude()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to filter an array using a callback function in PHP?",
+                        options: [
+                            "array_filter()",
+                            "filter()",
+                            "select()",
+                            "where()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to apply a function to all elements of an array in PHP?",
+                        options: [
+                            "array_map()",
+                            "map()",
+                            "apply()",
+                            "transform()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to reduce an array to a single value using a callback function in PHP?",
+                        options: [
+                            "array_reduce()",
+                            "reduce()",
+                            "combine()",
+                            "calculate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a variable is an array in PHP?",
+                        options: [
+                            "is_array()",
+                            "array()",
+                            "type()",
+                            "check()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a variable is a string in PHP?",
+                        options: [
+                            "is_string()",
+                            "string()",
+                            "type()",
+                            "check()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a variable is an integer in PHP?",
+                        options: [
+                            "is_int()",
+                            "int()",
+                            "integer()",
+                            "type()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a variable is a float in PHP?",
+                        options: [
+                            "is_float()",
+                            "float()",
+                            "double()",
+                            "type()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a variable is a boolean in PHP?",
+                        options: [
+                            "is_bool()",
+                            "bool()",
+                            "boolean()",
+                            "type()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a variable is null in PHP?",
+                        options: [
+                            "is_null()",
+                            "null()",
+                            "empty()",
+                            "type()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a variable is set in PHP?",
+                        options: [
+                            "isset()",
+                            "set()",
+                            "exists()",
+                            "defined()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a variable is empty in PHP?",
+                        options: [
+                            "empty()",
+                            "is_empty()",
+                            "blank()",
+                            "void()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the type of a variable in PHP?",
+                        options: [
+                            "gettype()",
+                            "type()",
+                            "typeof()",
+                            "class()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set the type of a variable in PHP?",
+                        options: [
+                            "settype()",
+                            "type()",
+                            "convert()",
+                            "cast()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to include a file in PHP?",
+                        options: [
+                            "include()",
+                            "require()",
+                            "import()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which function is used to include a file only once in PHP?",
+                        options: [
+                            "include_once()",
+                            "require_once()",
+                            "import_once()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which function is used to redirect to another page in PHP?",
+                        options: [
+                            "header()",
+                            "redirect()",
+                            "location()",
+                            "goto()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the current time in PHP?",
+                        options: [
+                            "time()",
+                            "date()",
+                            "now()",
+                            "current_time()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to format a date in PHP?",
+                        options: [
+                            "date()",
+                            "format_date()",
+                            "strftime()",
+                            "gmdate()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to parse a date string in PHP?",
+                        options: [
+                            "strtotime()",
+                            "parse_date()",
+                            "date_parse()",
+                            "strptime()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create a unique ID in PHP?",
+                        options: [
+                            "uniqid()",
+                            "unique_id()",
+                            "uuid()",
+                            "guid()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to generate a random number in PHP?",
+                        options: [
+                            "rand()",
+                            "random()",
+                            "mt_rand()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which function is used to hash a string in PHP?",
+                        options: [
+                            "hash()",
+                            "md5()",
+                            "sha1()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which function is used to encrypt a string in PHP?",
+                        options: [
+                            "openssl_encrypt()",
+                            "mcrypt_encrypt()",
+                            "encrypt()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to decrypt a string in PHP?",
+                        options: [
+                            "openssl_decrypt()",
+                            "mcrypt_decrypt()",
+                            "decrypt()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to send an email in PHP?",
+                        options: [
+                            "mail()",
+                            "sendmail()",
+                            "email()",
+                            "smtp()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to connect to a MySQL database in PHP?",
+                        options: [
+                            "mysqli_connect()",
+                            "mysql_connect()",
+                            "pdo_connect()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to select a MySQL database in PHP?",
+                        options: [
+                            "mysqli_select_db()",
+                            "mysql_select_db()",
+                            "pdo_select_db()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to execute a MySQL query in PHP?",
+                        options: [
+                            "mysqli_query()",
+                            "mysql_query()",
+                            "pdo_query()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to fetch a row from a MySQL result set in PHP?",
+                        options: [
+                            "mysqli_fetch_row()",
+                            "mysql_fetch_row()",
+                            "pdo_fetch_row()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to fetch an associative array from a MySQL result set in PHP?",
+                        options: [
+                            "mysqli_fetch_assoc()",
+                            "mysql_fetch_assoc()",
+                            "pdo_fetch_assoc()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to fetch an object from a MySQL result set in PHP?",
+                        options: [
+                            "mysqli_fetch_object()",
+                            "mysql_fetch_object()",
+                            "pdo_fetch_object()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the number of rows in a MySQL result set in PHP?",
+                        options: [
+                            "mysqli_num_rows()",
+                            "mysql_num_rows()",
+                            "pdo_num_rows()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the number of affected rows in a MySQL query in PHP?",
+                        options: [
+                            "mysqli_affected_rows()",
+                            "mysql_affected_rows()",
+                            "pdo_affected_rows()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the last inserted ID in a MySQL query in PHP?",
+                        options: [
+                            "mysqli_insert_id()",
+                            "mysql_insert_id()",
+                            "pdo_insert_id()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to escape a string for MySQL in PHP?",
+                        options: [
+                            "mysqli_real_escape_string()",
+                            "mysql_real_escape_string()",
+                            "pdo_real_escape_string()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to close a MySQL connection in PHP?",
+                        options: [
+                            "mysqli_close()",
+                            "mysql_close()",
+                            "pdo_close()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to start a session in PHP?",
+                        options: [
+                            "session_start()",
+                            "start_session()",
+                            "begin_session()",
+                            "open_session()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to destroy a session in PHP?",
+                        options: [
+                            "session_destroy()",
+                            "destroy_session()",
+                            "end_session()",
+                            "close_session()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set a session variable in PHP?",
+                        options: [
+                            "$_SESSION",
+                            "session_set()",
+                            "set_session()",
+                            "session_variable()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get a session variable in PHP?",
+                        options: [
+                            "$_SESSION",
+                            "session_get()",
+                            "get_session()",
+                            "session_variable()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to unset a session variable in PHP?",
+                        options: [
+                            "unset()",
+                            "session_unset()",
+                            "unset_session()",
+                            "remove_session()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set a cookie in PHP?",
+                        options: [
+                            "setcookie()",
+                            "cookie_set()",
+                            "set_cookie()",
+                            "create_cookie()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get a cookie in PHP?",
+                        options: [
+                            "$_COOKIE",
+                            "cookie_get()",
+                            "get_cookie()",
+                            "cookie()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to delete a cookie in PHP?",
+                        options: [
+                            "setcookie() with past expiration",
+                            "cookie_delete()",
+                            "delete_cookie()",
+                            "unset_cookie()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to handle file uploads in PHP?",
+                        options: [
+                            "move_uploaded_file()",
+                            "copy()",
+                            "rename()",
+                            "upload_file()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a file was uploaded via HTTP POST in PHP?",
+                        options: [
+                            "is_uploaded_file()",
+                            "is_file_uploaded()",
+                            "check_uploaded_file()",
+                            "file_uploaded()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the size of a file in PHP?",
+                        options: [
+                            "filesize()",
+                            "size()",
+                            "get_size()",
+                            "file_size()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a file exists in PHP?",
+                        options: [
+                            "file_exists()",
+                            "exists()",
+                            "is_file()",
+                            "check_file()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to read a file into a string in PHP?",
+                        options: [
+                            "file_get_contents()",
+                            "read_file()",
+                            "get_file_contents()",
+                            "file_read()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to write a string to a file in PHP?",
+                        options: [
+                            "file_put_contents()",
+                            "write_file()",
+                            "put_file_contents()",
+                            "file_write()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to delete a file in PHP?",
+                        options: [
+                            "unlink()",
+                            "delete()",
+                            "remove()",
+                            "file_delete()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create a directory in PHP?",
+                        options: [
+                            "mkdir()",
+                            "create_dir()",
+                            "make_dir()",
+                            "directory_create()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to remove a directory in PHP?",
+                        options: [
+                            "rmdir()",
+                            "remove_dir()",
+                            "delete_dir()",
+                            "directory_remove()"
+                        ],
+                        correctAnswer: 0
+                    }
+                ],
+                hard: [
+                    {
+                        question: "Which function is used to replace all occurrences of a substring within a string in PHP?",
+                        options: [
+                            "str_replace()",
+                            "substr_replace()",
+                            "preg_replace()",
+                            "eregi_replace()"
+                        ],
+                        correctAnswer: 2
+                    },
+                    {
+                        question: "Which function is used to perform a regular expression match in PHP?",
+                        options: [
+                            "preg_match()",
+                            "ereg()",
+                            "eregi()",
+                            "match()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to perform a global regular expression match in PHP?",
+                        options: [
+                            "preg_match_all()",
+                            "ereg_all()",
+                            "eregi_all()",
+                            "match_all()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to split a string by a regular expression in PHP?",
+                        options: [
+                            "preg_split()",
+                            "split()",
+                            "explode()",
+                            "str_split()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to replace a pattern using a regular expression in PHP?",
+                        options: [
+                            "preg_replace()",
+                            "ereg_replace()",
+                            "eregi_replace()",
+                            "str_replace()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to filter an array using a regular expression in PHP?",
+                        options: [
+                            "preg_grep()",
+                            "array_filter()",
+                            "filter()",
+                            "grep()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to quote regular expression characters in PHP?",
+                        options: [
+                            "preg_quote()",
+                            "quote()",
+                            "escape()",
+                            "regex_quote()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the last error in PHP?",
+                        options: [
+                            "error_get_last()",
+                            "get_last_error()",
+                            "last_error()",
+                            "php_error()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set the error handler in PHP?",
+                        options: [
+                            "set_error_handler()",
+                            "error_handler()",
+                            "set_handler()",
+                            "php_error_handler()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to restore the previous error handler in PHP?",
+                        options: [
+                            "restore_error_handler()",
+                            "restore_handler()",
+                            "reset_error_handler()",
+                            "previous_error_handler()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to trigger an error in PHP?",
+                        options: [
+                            "trigger_error()",
+                            "user_error()",
+                            "error()",
+                            "throw_error()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set the exception handler in PHP?",
+                        options: [
+                            "set_exception_handler()",
+                            "exception_handler()",
+                            "set_handler()",
+                            "php_exception_handler()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to restore the previous exception handler in PHP?",
+                        options: [
+                            "restore_exception_handler()",
+                            "restore_handler()",
+                            "reset_exception_handler()",
+                            "previous_exception_handler()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the current exception in PHP?",
+                        options: [
+                            "get_exception()",
+                            "current_exception()",
+                            "last_exception()",
+                            "php_exception()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create an anonymous function in PHP?",
+                        options: [
+                            "create_function()",
+                            "function()",
+                            "lambda()",
+                            "anonymous()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to call a callback function in PHP?",
+                        options: [
+                            "call_user_func()",
+                            "callback()",
+                            "invoke()",
+                            "execute()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to call a callback function with an array of parameters in PHP?",
+                        options: [
+                            "call_user_func_array()",
+                            "call_user_func()",
+                            "callback_array()",
+                            "invoke_array()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to register a tick function in PHP?",
+                        options: [
+                            "register_tick_function()",
+                            "tick_function()",
+                            "register_function()",
+                            "tick()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to unregister a tick function in PHP?",
+                        options: [
+                            "unregister_tick_function()",
+                            "unregister_function()",
+                            "tick_unregister()",
+                            "untick()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to declare a tick in PHP?",
+                        options: [
+                            "declare(ticks=N)",
+                            "tick(N)",
+                            "register_tick(N)",
+                            "declare_tick(N)"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the defined constants in PHP?",
+                        options: [
+                            "get_defined_constants()",
+                            "defined_constants()",
+                            "constants()",
+                            "get_constants()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the defined functions in PHP?",
+                        options: [
+                            "get_defined_functions()",
+                            "defined_functions()",
+                            "functions()",
+                            "get_functions()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the defined variables in PHP?",
+                        options: [
+                            "get_defined_vars()",
+                            "defined_vars()",
+                            "variables()",
+                            "get_vars()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the included files in PHP?",
+                        options: [
+                            "get_included_files()",
+                            "included_files()",
+                            "files()",
+                            "get_files()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the required files in PHP?",
+                        options: [
+                            "get_required_files()",
+                            "required_files()",
+                            "files()",
+                            "get_files()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the loaded extensions in PHP?",
+                        options: [
+                            "get_loaded_extensions()",
+                            "loaded_extensions()",
+                            "extensions()",
+                            "get_extensions()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the extension functions in PHP?",
+                        options: [
+                            "get_extension_funcs()",
+                            "extension_funcs()",
+                            "functions()",
+                            "get_funcs()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if an extension is loaded in PHP?",
+                        options: [
+                            "extension_loaded()",
+                            "is_extension_loaded()",
+                            "loaded_extension()",
+                            "check_extension()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the magic quotes in PHP?",
+                        options: [
+                            "get_magic_quotes_gpc()",
+                            "magic_quotes_gpc()",
+                            "quotes_gpc()",
+                            "get_quotes()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the magic quotes runtime in PHP?",
+                        options: [
+                            "get_magic_quotes_runtime()",
+                            "magic_quotes_runtime()",
+                            "quotes_runtime()",
+                            "get_quotes_runtime()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to set the magic quotes runtime in PHP?",
+                        options: [
+                            "set_magic_quotes_runtime()",
+                            "magic_quotes_runtime()",
+                            "quotes_runtime()",
+                            "set_quotes_runtime()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the last modified time of a file in PHP?",
+                        options: [
+                            "filemtime()",
+                            "filectime()",
+                            "fileatime()",
+                            "get_file_mtime()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the inode change time of a file in PHP?",
+                        options: [
+                            "filectime()",
+                            "filemtime()",
+                            "fileatime()",
+                            "get_file_ctime()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the last access time of a file in PHP?",
+                        options: [
+                            "fileatime()",
+                            "filemtime()",
+                            "filectime()",
+                            "get_file_atime()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the file permissions in PHP?",
+                        options: [
+                            "fileperms()",
+                            "perms()",
+                            "get_perms()",
+                            "file_permissions()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the file owner in PHP?",
+                        options: [
+                            "fileowner()",
+                            "owner()",
+                            "get_owner()",
+                            "file_owner()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the file group in PHP?",
+                        options: [
+                            "filegroup()",
+                            "group()",
+                            "get_group()",
+                            "file_group()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the file inode in PHP?",
+                        options: [
+                            "fileinode()",
+                            "inode()",
+                            "get_inode()",
+                            "file_inode()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the file size in PHP?",
+                        options: [
+                            "filesize()",
+                            "size()",
+                            "get_size()",
+                            "file_size()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the file type in PHP?",
+                        options: [
+                            "filetype()",
+                            "type()",
+                            "get_type()",
+                            "file_type()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the file mime type in PHP?",
+                        options: [
+                            "mime_content_type()",
+                            "filetype()",
+                            "get_mime_type()",
+                            "file_mime_type()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a file is readable in PHP?",
+                        options: [
+                            "is_readable()",
+                            "readable()",
+                            "can_read()",
+                            "file_readable()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a file is writable in PHP?",
+                        options: [
+                            "is_writable()",
+                            "writable()",
+                            "can_write()",
+                            "file_writable()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a file is executable in PHP?",
+                        options: [
+                            "is_executable()",
+                            "executable()",
+                            "can_execute()",
+                            "file_executable()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a file is a directory in PHP?",
+                        options: [
+                            "is_dir()",
+                            "directory()",
+                            "is_directory()",
+                            "file_directory()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a file is a regular file in PHP?",
+                        options: [
+                            "is_file()",
+                            "file()",
+                            "regular_file()",
+                            "is_regular_file()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to check if a file is a link in PHP?",
+                        options: [
+                            "is_link()",
+                            "link()",
+                            "is_link_file()",
+                            "file_link()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create a symbolic link in PHP?",
+                        options: [
+                            "symlink()",
+                            "link()",
+                            "create_link()",
+                            "make_link()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to create a hard link in PHP?",
+                        options: [
+                            "link()",
+                            "hardlink()",
+                            "create_hardlink()",
+                            "make_hardlink()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to read a symbolic link in PHP?",
+                        options: [
+                            "readlink()",
+                            "get_link()",
+                            "read_link()",
+                            "symlink_read()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the path info of a file in PHP?",
+                        options: [
+                            "pathinfo()",
+                            "get_path_info()",
+                            "file_path_info()",
+                            "path_info()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the basename of a file in PHP?",
+                        options: [
+                            "basename()",
+                            "get_basename()",
+                            "file_basename()",
+                            "base_name()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the dirname of a file in PHP?",
+                        options: [
+                            "dirname()",
+                            "get_dirname()",
+                            "file_dirname()",
+                            "dir_name()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the extension of a file in PHP?",
+                        options: [
+                            "pathinfo() with PATHINFO_EXTENSION",
+                            "get_extension()",
+                            "file_extension()",
+                            "extension()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the filename without extension in PHP?",
+                        options: [
+                            "pathinfo() with PATHINFO_FILENAME",
+                            "get_filename()",
+                            "file_filename()",
+                            "filename()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which function is used to get the realpath of a file in PHP?",
+                        options: [
+                            "realpath()",
+                            "get_realpath()",
+                            "file_realpath()",
+                            "real_path()"
                         ],
                         correctAnswer: 0
                     }
@@ -5671,6 +19274,406 @@ const questionDatabase = {
                             "Linked List"
                         ],
                         correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement function calls in programming languages?",
+                        options: [
+                            "Stack",
+                            "Queue",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the undo operation in text editors?",
+                        options: [
+                            "Stack",
+                            "Queue",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the back button in web browsers?",
+                        options: [
+                            "Stack",
+                            "Queue",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the forward button in web browsers?",
+                        options: [
+                            "Stack",
+                            "Queue",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the redo operation in text editors?",
+                        options: [
+                            "Stack",
+                            "Queue",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the history feature in web browsers?",
+                        options: [
+                            "Stack",
+                            "Queue",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the recursion in programming languages?",
+                        options: [
+                            "Stack",
+                            "Queue",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the depth-first search algorithm?",
+                        options: [
+                            "Stack",
+                            "Queue",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the breadth-first search algorithm?",
+                        options: [
+                            "Queue",
+                            "Stack",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the level-order traversal of a tree?",
+                        options: [
+                            "Queue",
+                            "Stack",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the in-order traversal of a tree?",
+                        options: [
+                            "Stack",
+                            "Queue",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the pre-order traversal of a tree?",
+                        options: [
+                            "Stack",
+                            "Queue",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the post-order traversal of a tree?",
+                        options: [
+                            "Stack",
+                            "Queue",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the priority queue?",
+                        options: [
+                            "Heap",
+                            "Queue",
+                            "Stack",
+                            "Array"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the Dijkstra's algorithm?",
+                        options: [
+                            "Priority Queue",
+                            "Queue",
+                            "Stack",
+                            "Array"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the Prim's algorithm?",
+                        options: [
+                            "Priority Queue",
+                            "Queue",
+                            "Stack",
+                            "Array"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the Kruskal's algorithm?",
+                        options: [
+                            "Union-Find",
+                            "Priority Queue",
+                            "Queue",
+                            "Stack"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the Huffman coding algorithm?",
+                        options: [
+                            "Priority Queue",
+                            "Queue",
+                            "Stack",
+                            "Array"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the A* algorithm?",
+                        options: [
+                            "Priority Queue",
+                            "Queue",
+                            "Stack",
+                            "Array"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the best-first search algorithm?",
+                        options: [
+                            "Priority Queue",
+                            "Queue",
+                            "Stack",
+                            "Array"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the uniform-cost search algorithm?",
+                        options: [
+                            "Priority Queue",
+                            "Queue",
+                            "Stack",
+                            "Array"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the greedy best-first search algorithm?",
+                        options: [
+                            "Priority Queue",
+                            "Queue",
+                            "Stack",
+                            "Array"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the iterative deepening depth-first search algorithm?",
+                        options: [
+                            "Stack",
+                            "Queue",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the bidirectional search algorithm?",
+                        options: [
+                            "Queue",
+                            "Stack",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the jump search algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the interpolation search algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the exponential search algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the ternary search algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the binary search algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the linear search algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the selection sort algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the bubble sort algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the insertion sort algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the merge sort algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the quick sort algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the heap sort algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the counting sort algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the radix sort algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the bucket sort algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which data structure is used to implement the shell sort algorithm?",
+                        options: [
+                            "Array",
+                            "Linked List",
+                            "Stack",
+                            "Queue"
+                        ],
+                        correctAnswer: 0
                     }
                 ],
                 medium: [
@@ -5873,6 +19876,396 @@ const questionDatabase = {
                             "Tree"
                         ],
                         correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the maximum flow in a flow network?",
+                        options: [
+                            "Ford-Fulkerson Algorithm",
+                            "Dijkstra's Algorithm",
+                            "Bellman-Ford Algorithm",
+                            "Floyd-Warshall Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the maximum bipartite matching in a bipartite graph?",
+                        options: [
+                            "Hungarian Algorithm",
+                            "Ford-Fulkerson Algorithm",
+                            "Dijkstra's Algorithm",
+                            "Bellman-Ford Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the strongly connected components in a directed graph?",
+                        options: [
+                            "Kosaraju's Algorithm",
+                            "Tarjan's Algorithm",
+                            "Dijkstra's Algorithm",
+                            "Bellman-Ford Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the articulation points in a graph?",
+                        options: [
+                            "Tarjan's Algorithm",
+                            "Kosaraju's Algorithm",
+                            "Dijkstra's Algorithm",
+                            "Bellman-Ford Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the bridges in a graph?",
+                        options: [
+                            "Tarjan's Algorithm",
+                            "Kosaraju's Algorithm",
+                            "Dijkstra's Algorithm",
+                            "Bellman-Ford Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the topological order of a directed acyclic graph?",
+                        options: [
+                            "Kahn's Algorithm",
+                            "DFS-based Algorithm",
+                            "Dijkstra's Algorithm",
+                            "Bellman-Ford Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the convex hull of a set of points?",
+                        options: [
+                            "Graham Scan Algorithm",
+                            "Jarvis March Algorithm",
+                            "Dijkstra's Algorithm",
+                            "Bellman-Ford Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the closest pair of points in a set of points?",
+                        options: [
+                            "Divide and Conquer Algorithm",
+                            "Brute Force Algorithm",
+                            "Dijkstra's Algorithm",
+                            "Bellman-Ford Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the minimum number of operations to convert one string into another?",
+                        options: [
+                            "Levenshtein Distance",
+                            "Hamming Distance",
+                            "Dijkstra's Algorithm",
+                            "Bellman-Ford Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the number of different ways to climb a staircase with n steps, where you can climb either 1 or 2 steps at a time?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the number of ways to make change for a given amount using coins of given denominations?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the longest common subsequence of two sequences?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the longest increasing subsequence of a sequence?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to solve the 0/1 knapsack problem?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to solve the fractional knapsack problem?",
+                        options: [
+                            "Greedy Algorithm",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to solve the traveling salesman problem?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to solve the N-Queens problem?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to solve the sudoku puzzle?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the maximum subarray sum?",
+                        options: [
+                            "Kadane's Algorithm",
+                            "Divide and Conquer",
+                            "Dynamic Programming",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the majority element in an array?",
+                        options: [
+                            "Boyer-Moore Voting Algorithm",
+                            "Divide and Conquer",
+                            "Dynamic Programming",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the median of two sorted arrays?",
+                        options: [
+                            "Divide and Conquer",
+                            "Dynamic Programming",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the kth smallest element in an array?",
+                        options: [
+                            "Quickselect Algorithm",
+                            "Divide and Conquer",
+                            "Dynamic Programming",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the next greater element in an array?",
+                        options: [
+                            "Stack",
+                            "Queue",
+                            "Array",
+                            "Linked List"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the next permutation of a sequence?",
+                        options: [
+                            "Next Permutation Algorithm",
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the previous permutation of a sequence?",
+                        options: [
+                            "Previous Permutation Algorithm",
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the all permutations of a sequence?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the all subsets of a set?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the all combinations of a set?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the power set of a set?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the all possible paths in a graph?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the all possible paths from a source to a destination in a graph?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the all possible paths from a source to all other vertices in a graph?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the all possible cycles in a graph?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the all possible Hamiltonian paths in a graph?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the all possible Hamiltonian cycles in a graph?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the all possible Eulerian paths in a graph?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the all possible Eulerian cycles in a graph?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the all possible spanning trees in a graph?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the all possible minimum spanning trees in a graph?",
+                        options: [
+                            "Backtracking",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
                     }
                 ],
                 hard: [
@@ -6073,6 +20466,376 @@ const questionDatabase = {
                             "Divide and Conquer",
                             "Greedy Algorithm",
                             "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the shortest supersequence that contains two given sequences as subsequences?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the shortest common supersequence of a set of strings?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the longest palindromic subsequence of a string?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the longest repeating subsequence of a string?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the longest common substring of two strings?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the minimum number of deletions to make a string palindrome?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the minimum number of insertions to make a string palindrome?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the minimum number of deletions and insertions to convert one string to another?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the edit distance between two strings?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the minimum number of operations to make two strings equal?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the longest bitonic subsequence of a sequence?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the longest alternating subsequence of a sequence?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the longest consecutive subsequence of a sequence?",
+                        options: [
+                            "Hashing",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all subsequences of a string?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all palindromic subsequences of a string?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct subsequences of a string?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all increasing subsequences of a sequence?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all decreasing subsequences of a sequence?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all bitonic subsequences of a sequence?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all alternating subsequences of a sequence?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all consecutive subsequences of a sequence?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all common subsequences of two strings?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all common substrings of two strings?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all palindromic substrings of a string?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct palindromic substrings of a string?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct substrings of a string?",
+                        options: [
+                            "Suffix Array",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct subsequences of a string?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct increasing subsequences of a sequence?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct decreasing subsequences of a sequence?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct bitonic subsequences of a sequence?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct alternating subsequences of a sequence?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct consecutive subsequences of a sequence?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct common subsequences of two strings?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct common substrings of two strings?",
+                        options: [
+                            "Suffix Array",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct palindromic subsequences of a string?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct palindromic substrings of a string?",
+                        options: [
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm",
+                            "Backtracking"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which algorithm is used to find the count of all distinct substrings of a string?",
+                        options: [
+                            "Suffix Array",
+                            "Dynamic Programming",
+                            "Divide and Conquer",
+                            "Greedy Algorithm"
                         ],
                         correctAnswer: 0
                     }
@@ -6279,6 +21042,416 @@ const questionDatabase = {
                             "ANY"
                         ],
                         correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL operator is used to compare a value to any value in another value set or returned by a subquery?",
+                        options: [
+                            "ANY",
+                            "ALL",
+                            "SOME",
+                            "EACH"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL operator is used to test whether a subquery returns any rows?",
+                        options: [
+                            "EXISTS",
+                            "CONTAINS",
+                            "HAS",
+                            "INCLUDES"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL operator is used to test whether a subquery returns no rows?",
+                        options: [
+                            "NOT EXISTS",
+                            "EMPTY",
+                            "NONE",
+                            "NULL"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL operator is used to return all rows when there is at least one match in both tables?",
+                        options: [
+                            "INNER JOIN",
+                            "LEFT JOIN",
+                            "RIGHT JOIN",
+                            "FULL JOIN"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL operator is used to return all rows from the left table, and the matched rows from the right table?",
+                        options: [
+                            "LEFT JOIN",
+                            "RIGHT JOIN",
+                            "INNER JOIN",
+                            "FULL JOIN"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL operator is used to return all rows from the right table, and the matched rows from the left table?",
+                        options: [
+                            "RIGHT JOIN",
+                            "LEFT JOIN",
+                            "INNER JOIN",
+                            "FULL JOIN"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL operator is used to return all rows when there is a match in one of the tables?",
+                        options: [
+                            "FULL JOIN",
+                            "LEFT JOIN",
+                            "RIGHT JOIN",
+                            "INNER JOIN"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the average value of a numeric column?",
+                        options: [
+                            "AVG()",
+                            "AVERAGE()",
+                            "MEAN()",
+                            "SUM()/COUNT()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the sum of a numeric column?",
+                        options: [
+                            "SUM()",
+                            "TOTAL()",
+                            "ADD()",
+                            "PLUS()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the number of rows that matches a specified criterion?",
+                        options: [
+                            "COUNT()",
+                            "NUMBER()",
+                            "TOTAL()",
+                            "SIZE()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the smallest value of the selected column?",
+                        options: [
+                            "MIN()",
+                            "SMALLEST()",
+                            "LOWEST()",
+                            "LEAST()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the largest value of the selected column?",
+                        options: [
+                            "MAX()",
+                            "LARGEST()",
+                            "BIGGEST()",
+                            "GREATEST()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the first value of the selected column?",
+                        options: [
+                            "FIRST()",
+                            "TOP()",
+                            "BEGINNING()",
+                            "START()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the last value of the selected column?",
+                        options: [
+                            "LAST()",
+                            "BOTTOM()",
+                            "ENDING()",
+                            "FINISH()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to concatenate two or more strings?",
+                        options: [
+                            "CONCAT()",
+                            "JOIN()",
+                            "MERGE()",
+                            "COMBINE()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to extract a substring from a string?",
+                        options: [
+                            "SUBSTRING()",
+                            "SUBSTR()",
+                            "MID()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to return the length of a string?",
+                        options: [
+                            "LENGTH()",
+                            "LEN()",
+                            "SIZE()",
+                            "CHAR_LENGTH()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to convert a string to uppercase?",
+                        options: [
+                            "UPPER()",
+                            "UCASE()",
+                            "TO_UPPER()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to convert a string to lowercase?",
+                        options: [
+                            "LOWER()",
+                            "LCASE()",
+                            "TO_LOWER()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to trim whitespace from the beginning and end of a string?",
+                        options: [
+                            "TRIM()",
+                            "STRIP()",
+                            "CLEAN()",
+                            "REMOVE()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to replace all occurrences of a substring within a string?",
+                        options: [
+                            "REPLACE()",
+                            "SUBSTITUTE()",
+                            "CHANGE()",
+                            "SWAP()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the current date and time?",
+                        options: [
+                            "NOW()",
+                            "CURRENT_TIMESTAMP()",
+                            "GETDATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to return the current date?",
+                        options: [
+                            "CURDATE()",
+                            "CURRENT_DATE()",
+                            "DATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to return the current time?",
+                        options: [
+                            "CURTIME()",
+                            "CURRENT_TIME()",
+                            "TIME()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to extract the date part from a datetime expression?",
+                        options: [
+                            "DATE()",
+                            "EXTRACT()",
+                            "DATE_PART()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to extract the time part from a datetime expression?",
+                        options: [
+                            "TIME()",
+                            "EXTRACT()",
+                            "TIME_PART()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to add a specified time interval to a date?",
+                        options: [
+                            "DATE_ADD()",
+                            "ADDDATE()",
+                            "DATE_PLUS()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to subtract a specified time interval from a date?",
+                        options: [
+                            "DATE_SUB()",
+                            "SUBDATE()",
+                            "DATE_MINUS()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to calculate the difference between two dates?",
+                        options: [
+                            "DATEDIFF()",
+                            "DATE_DIFF()",
+                            "DIFFDATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to format a date as specified?",
+                        options: [
+                            "DATE_FORMAT()",
+                            "FORMATDATE()",
+                            "TO_CHAR()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the day of the week for a date?",
+                        options: [
+                            "DAYNAME()",
+                            "DAYOFWEEK()",
+                            "WEEKDAY()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the day of the month for a date?",
+                        options: [
+                            "DAYOFMONTH()",
+                            "DAY()",
+                            "DATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the month for a date?",
+                        options: [
+                            "MONTH()",
+                            "MONTHNAME()",
+                            "DATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the year for a date?",
+                        options: [
+                            "YEAR()",
+                            "DATE()",
+                            "TIME()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the week number for a date?",
+                        options: [
+                            "WEEK()",
+                            "WEEKOFYEAR()",
+                            "WEEKNUM()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the quarter for a date?",
+                        options: [
+                            "QUARTER()",
+                            "QUARTEROFYEAR()",
+                            "DATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the hour for a time?",
+                        options: [
+                            "HOUR()",
+                            "HOUROFDAY()",
+                            "TIME()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the minute for a time?",
+                        options: [
+                            "MINUTE()",
+                            "MINUTEOFHOUR()",
+                            "TIME()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the second for a time?",
+                        options: [
+                            "SECOND()",
+                            "SECONDOFMINUTE()",
+                            "TIME()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the microseconds for a time?",
+                        options: [
+                            "MICROSECOND()",
+                            "MICROSECONDS()",
+                            "TIME()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the day of the year for a date?",
+                        options: [
+                            "DAYOFYEAR()",
+                            "DAY()",
+                            "DATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
                     }
                 ],
                 medium: [
@@ -6479,6 +21652,416 @@ const questionDatabase = {
                             "STRIP()",
                             "CLEAN()",
                             "REMOVE()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to replace all occurrences of a substring within a string?",
+                        options: [
+                            "REPLACE()",
+                            "SUBSTITUTE()",
+                            "CHANGE()",
+                            "SWAP()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the current date and time?",
+                        options: [
+                            "NOW()",
+                            "CURRENT_TIMESTAMP()",
+                            "GETDATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to return the current date?",
+                        options: [
+                            "CURDATE()",
+                            "CURRENT_DATE()",
+                            "DATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to return the current time?",
+                        options: [
+                            "CURTIME()",
+                            "CURRENT_TIME()",
+                            "TIME()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to extract the date part from a datetime expression?",
+                        options: [
+                            "DATE()",
+                            "EXTRACT()",
+                            "DATE_PART()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to extract the time part from a datetime expression?",
+                        options: [
+                            "TIME()",
+                            "EXTRACT()",
+                            "TIME_PART()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to add a specified time interval to a date?",
+                        options: [
+                            "DATE_ADD()",
+                            "ADDDATE()",
+                            "DATE_PLUS()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to subtract a specified time interval from a date?",
+                        options: [
+                            "DATE_SUB()",
+                            "SUBDATE()",
+                            "DATE_MINUS()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to calculate the difference between two dates?",
+                        options: [
+                            "DATEDIFF()",
+                            "DATE_DIFF()",
+                            "DIFFDATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to format a date as specified?",
+                        options: [
+                            "DATE_FORMAT()",
+                            "FORMATDATE()",
+                            "TO_CHAR()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the day of the week for a date?",
+                        options: [
+                            "DAYNAME()",
+                            "DAYOFWEEK()",
+                            "WEEKDAY()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the day of the month for a date?",
+                        options: [
+                            "DAYOFMONTH()",
+                            "DAY()",
+                            "DATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the month for a date?",
+                        options: [
+                            "MONTH()",
+                            "MONTHNAME()",
+                            "DATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the year for a date?",
+                        options: [
+                            "YEAR()",
+                            "DATE()",
+                            "TIME()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the week number for a date?",
+                        options: [
+                            "WEEK()",
+                            "WEEKOFYEAR()",
+                            "WEEKNUM()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the quarter for a date?",
+                        options: [
+                            "QUARTER()",
+                            "QUARTEROFYEAR()",
+                            "DATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the hour for a time?",
+                        options: [
+                            "HOUR()",
+                            "HOUROFDAY()",
+                            "TIME()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the minute for a time?",
+                        options: [
+                            "MINUTE()",
+                            "MINUTEOFHOUR()",
+                            "TIME()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the second for a time?",
+                        options: [
+                            "SECOND()",
+                            "SECONDOFMINUTE()",
+                            "TIME()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the microseconds for a time?",
+                        options: [
+                            "MICROSECOND()",
+                            "MICROSECONDS()",
+                            "TIME()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the day of the year for a date?",
+                        options: [
+                            "DAYOFYEAR()",
+                            "DAY()",
+                            "DATE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the absolute value of a number?",
+                        options: [
+                            "ABS()",
+                            "ABSOLUTE()",
+                            "MAGNITUDE()",
+                            "POSITIVE()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the ceiling value of a number?",
+                        options: [
+                            "CEILING()",
+                            "CEIL()",
+                            "ROUND_UP()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 2
+                    },
+                    {
+                        question: "Which SQL function is used to return the floor value of a number?",
+                        options: [
+                            "FLOOR()",
+                            "ROUND_DOWN()",
+                            "INT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the square root of a number?",
+                        options: [
+                            "SQRT()",
+                            "SQUARE_ROOT()",
+                            "ROOT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the exponential value of a number?",
+                        options: [
+                            "EXP()",
+                            "EXPONENTIAL()",
+                            "E_POWER()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the natural logarithm of a number?",
+                        options: [
+                            "LOG()",
+                            "LN()",
+                            "NATURAL_LOG()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the base-10 logarithm of a number?",
+                        options: [
+                            "LOG10()",
+                            "LOG_BASE10()",
+                            "LOG10()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the base-2 logarithm of a number?",
+                        options: [
+                            "LOG2()",
+                            "LOG_BASE2()",
+                            "LOG2()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number raised to the power of another number?",
+                        options: [
+                            "POWER()",
+                            "POW()",
+                            "EXPONENT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of pi?",
+                        options: [
+                            "PI()",
+                            "PI_VALUE()",
+                            "PI_CONSTANT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return a random number?",
+                        options: [
+                            "RAND()",
+                            "RANDOM()",
+                            "RANDOM_NUMBER()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the sine of a number?",
+                        options: [
+                            "SIN()",
+                            "SINE()",
+                            "SIN_VALUE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the cosine of a number?",
+                        options: [
+                            "COS()",
+                            "COSINE()",
+                            "COS_VALUE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the tangent of a number?",
+                        options: [
+                            "TAN()",
+                            "TANGENT()",
+                            "TAN_VALUE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the arcsine of a number?",
+                        options: [
+                            "ASIN()",
+                            "ARCSIN()",
+                            "ARCSINE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the arccosine of a number?",
+                        options: [
+                            "ACOS()",
+                            "ARCCOS()",
+                            "ARCCOSINE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the arctangent of a number?",
+                        options: [
+                            "ATAN()",
+                            "ARCTAN()",
+                            "ARCTANGENT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number converted from one base to another?",
+                        options: [
+                            "CONV()",
+                            "CONVERT()",
+                            "BASE_CONVERT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number converted to radians?",
+                        options: [
+                            "RADIANS()",
+                            "TO_RADIANS()",
+                            "DEGREES_TO_RADIANS()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number converted to degrees?",
+                        options: [
+                            "DEGREES()",
+                            "TO_DEGREES()",
+                            "RADIANS_TO_DEGREES()",
+                            "All of the above"
                         ],
                         correctAnswer: 0
                     }
@@ -6693,8 +22276,477 @@ const questionDatabase = {
                             "All of the above"
                         ],
                         correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the absolute value of a number?",
+                        options: [
+                            "ABS()",
+                            "ABSOLUTE()",
+                            "MAGNITUDE()",
+                            "POSITIVE()"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the ceiling value of a number?",
+                        options: [
+                            "CEILING()",
+                            "CEIL()",
+                            "ROUND_UP()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 2
+                    },
+                    {
+                        question: "Which SQL function is used to return the floor value of a number?",
+                        options: [
+                            "FLOOR()",
+                            "ROUND_DOWN()",
+                            "INT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the square root of a number?",
+                        options: [
+                            "SQRT()",
+                            "SQUARE_ROOT()",
+                            "ROOT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the exponential value of a number?",
+                        options: [
+                            "EXP()",
+                            "EXPONENTIAL()",
+                            "E_POWER()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the natural logarithm of a number?",
+                        options: [
+                            "LOG()",
+                            "LN()",
+                            "NATURAL_LOG()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the base-10 logarithm of a number?",
+                        options: [
+                            "LOG10()",
+                            "LOG_BASE10()",
+                            "LOG10()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the base-2 logarithm of a number?",
+                        options: [
+                            "LOG2()",
+                            "LOG_BASE2()",
+                            "LOG2()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number raised to the power of another number?",
+                        options: [
+                            "POWER()",
+                            "POW()",
+                            "EXPONENT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of pi?",
+                        options: [
+                            "PI()",
+                            "PI_VALUE()",
+                            "PI_CONSTANT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return a random number?",
+                        options: [
+                            "RAND()",
+                            "RANDOM()",
+                            "RANDOM_NUMBER()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the sine of a number?",
+                        options: [
+                            "SIN()",
+                            "SINE()",
+                            "SIN_VALUE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the cosine of a number?",
+                        options: [
+                            "COS()",
+                            "COSINE()",
+                            "COS_VALUE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the tangent of a number?",
+                        options: [
+                            "TAN()",
+                            "TANGENT()",
+                            "TAN_VALUE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the arcsine of a number?",
+                        options: [
+                            "ASIN()",
+                            "ARCSIN()",
+                            "ARCSINE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the arccosine of a number?",
+                        options: [
+                            "ACOS()",
+                            "ARCCOS()",
+                            "ARCCOSINE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the arctangent of a number?",
+                        options: [
+                            "ATAN()",
+                            "ARCTAN()",
+                            "ARCTANGENT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number converted from one base to another?",
+                        options: [
+                            "CONV()",
+                            "CONVERT()",
+                            "BASE_CONVERT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number converted to radians?",
+                        options: [
+                            "RADIANS()",
+                            "TO_RADIANS()",
+                            "DEGREES_TO_RADIANS()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number converted to degrees?",
+                        options: [
+                            "DEGREES()",
+                            "TO_DEGREES()",
+                            "RADIANS_TO_DEGREES()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the cotangent of a number?",
+                        options: [
+                            "COT()",
+                            "COTANGENT()",
+                            "COT_VALUE()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of e raised to the power of a number?",
+                        options: [
+                            "EXP()",
+                            "E_POWER()",
+                            "E_EXPONENT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the natural logarithm of a number plus 1?",
+                        options: [
+                            "LOG1P()",
+                            "LN1P()",
+                            "NATURAL_LOG1P()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the base-2 logarithm of a number plus 1?",
+                        options: [
+                            "LOG2()",
+                            "LOG_BASE2()",
+                            "LOG2()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the base-10 logarithm of a number plus 1?",
+                        options: [
+                            "LOG10()",
+                            "LOG_BASE10()",
+                            "LOG10()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of pi multiplied by a number?",
+                        options: [
+                            "PI() * number",
+                            "PI_MULTIPLIED()",
+                            "PI_TIMES()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number rounded to the nearest integer?",
+                        options: [
+                            "ROUND()",
+                            "ROUND_TO_INT()",
+                            "ROUND_NEAREST()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number rounded to a specified number of decimal places?",
+                        options: [
+                            "ROUND(number, decimals)",
+                            "ROUND_TO_DECIMALS()",
+                            "ROUND_DECIMALS()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number truncated to a specified number of decimal places?",
+                        options: [
+                            "TRUNCATE()",
+                            "TRUNC()",
+                            "TRUNCATE_DECIMALS()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number formatted with a specified format?",
+                        options: [
+                            "FORMAT()",
+                            "FORMAT_NUMBER()",
+                            "NUMBER_FORMAT()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number converted to a string?",
+                        options: [
+                            "CAST(number AS CHAR)",
+                            "CONVERT(number, CHAR)",
+                            "TO_CHAR(number)",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a string converted to a number?",
+                        options: [
+                            "CAST(string AS DECIMAL)",
+                            "CONVERT(string, DECIMAL)",
+                            "TO_NUMBER(string)",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a string converted to a date?",
+                        options: [
+                            "CAST(string AS DATE)",
+                            "CONVERT(string, DATE)",
+                            "TO_DATE(string)",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a string converted to a time?",
+                        options: [
+                            "CAST(string AS TIME)",
+                            "CONVERT(string, TIME)",
+                            "TO_TIME(string)",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a string converted to a datetime?",
+                        options: [
+                            "CAST(string AS DATETIME)",
+                            "CONVERT(string, DATETIME)",
+                            "TO_DATETIME(string)",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number converted to a binary string?",
+                        options: [
+                            "BIN()",
+                            "TO_BINARY()",
+                            "BINARY_STRING()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a binary string converted to a number?",
+                        options: [
+                            "CONV(binary_string, 2, 10)",
+                            "BINARY_TO_NUMBER()",
+                            "TO_NUMBER(binary_string, 2)",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number converted to a hexadecimal string?",
+                        options: [
+                            "HEX()",
+                            "TO_HEX()",
+                            "HEX_STRING()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a hexadecimal string converted to a number?",
+                        options: [
+                            "CONV(hex_string, 16, 10)",
+                            "HEX_TO_NUMBER()",
+                            "TO_NUMBER(hex_string, 16)",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a number converted to an octal string?",
+                        options: [
+                            "OCT()",
+                            "TO_OCT()",
+                            "OCTAL_STRING()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of an octal string converted to a number?",
+                        options: [
+                            "CONV(octal_string, 8, 10)",
+                            "OCTAL_TO_NUMBER()",
+                            "TO_NUMBER(octal_string, 8)",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a string converted to a binary string?",
+                        options: [
+                            "BINARY()",
+                            "TO_BINARY()",
+                            "BINARY_STRING()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a binary string converted to a string?",
+                        options: [
+                            "CAST(binary_string AS CHAR)",
+                            "CONVERT(binary_string, CHAR)",
+                            "TO_CHAR(binary_string)",
+                            "All of the above"
+                        ],
+                        correctAnswer: 3
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a string converted to a hexadecimal string?",
+                        options: [
+                            "HEX()",
+                            "TO_HEX()",
+                            "HEX_STRING()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a hexadecimal string converted to a string?",
+                        options: [
+                            "UNHEX()",
+                            "FROM_HEX()",
+                            "HEX_TO_STRING()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of a string converted to an octal string?",
+                        options: [
+                            "OCT()",
+                            "TO_OCT()",
+                            "OCTAL_STRING()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
+                    },
+                    {
+                        question: "Which SQL function is used to return the value of an octal string converted to a string?",
+                        options: [
+                            "UNOCT()",
+                            "FROM_OCT()",
+                            "OCTAL_TO_STRING()",
+                            "All of the above"
+                        ],
+                        correctAnswer: 0
                     }
                 ]
             }
-
         };
